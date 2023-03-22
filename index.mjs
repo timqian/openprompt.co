@@ -1,5 +1,6 @@
 import * as dotenv from "dotenv";
 dotenv.config();
+
 import { createClient } from "@supabase/supabase-js";
 import { writeFileSync } from "fs";
 
@@ -53,7 +54,7 @@ ${prompt.description}
 
 > ${prompt.prompt}
 
-📝: [${prompt.created_by}](https://openprompt.co/${
+[📝: ${prompt.created_by}](https://openprompt.co/${
 	prompt.created_by
 }) 🌟: ${prompt.star_count}
 
@@ -63,7 +64,7 @@ ${prompt.description}
 // Generate README.md
 const readme = `# Open prompts
 
-This is a list of the top prompts on [OpenPrompt.co](https://openprompt.co). The list is updated every 24 hours.
+This is a list of the top prompts on [OpenPrompt.co](https://openprompt.co). The list is updated every 6 hours.
 
 The data is also available in the JSON format: [TopPrompts.json](./TopPrompts.json).
 

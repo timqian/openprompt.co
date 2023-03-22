@@ -8,6 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
     steps:
     - uses: actions/checkout@v1
     - name: Use Node.js
@@ -18,3 +21,5 @@ jobs:
       run: |
         yarn
         node index.mjs
+      with:
+        

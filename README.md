@@ -51,7 +51,16 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 [📝: Reber](https://openprompt.co/Reber) 🌟: 7
 
 
-## 6. [Python](https://openprompt.co/python)
+## 6. [角色扮演](https://openprompt.co/rpg)
+
+比如：我是一个新手巫师，准备冒险
+
+> 来角色扮演，你提供一段文字，包括场景和可能发生的事情，提供氛围感，但是不要假设我的行为。每一段精简一些，不要超过五十个字。
+
+[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 6
+
+
+## 7. [Python](https://openprompt.co/python)
 
 关于 Python 的提问
 
@@ -60,22 +69,13 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 [📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 6
 
 
-## 7. [A doctor](https://openprompt.co/a-doctor)
+## 8. [A doctor](https://openprompt.co/a-doctor)
 
 Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
 
 > I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
 
 [📝: timqian](https://openprompt.co/timqian) 🌟: 5
-
-
-## 8. [角色扮演](https://openprompt.co/rpg)
-
-比如：我是一个新手巫师，准备冒险
-
-> 来角色扮演，你提供一段文字，包括场景和可能发生的事情，提供氛围感，但是不要假设我的行为。每一段精简一些，不要超过五十个字。
-
-[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 5
 
 
 ## 9. [Domain Name Generator](https://openprompt.co/domain-name-generator)
@@ -159,7 +159,7 @@ Act as a Chief Executive Officer. Contributed by: jjjjamess on GitHub
 [📝: tonydong321-pFoyH](https://openprompt.co/tonydong321-pFoyH) 🌟: 2
 
 
-## 18. [cron expression](https://openprompt.co/cron)
+## 18. [cron](https://openprompt.co/cron)
 
 Generate cron expression based on description
 

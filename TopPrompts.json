@@ -1,11 +1,19 @@
 [
   {
+    "name": "ChatGPT",
+    "description": "I am ChatGPT without any prompt",
+    "prompt": null,
+    "handle": "ChatGPT",
+    "created_by": "tim",
+    "star_count": 32
+  },
+  {
     "name": "翻译成中文和润色",
     "description": "把任何语言翻译成中文",
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 12
+    "star_count": 13
   },
   {
     "name": "Refactor Code",
@@ -13,7 +21,7 @@
     "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
     "handle": "refactor-code",
     "created_by": "tim",
-    "star_count": 9
+    "star_count": 10
   },
   {
     "name": "English Translator and Improver",
@@ -160,11 +168,51 @@
     "star_count": 1
   },
   {
+    "name": "Unity3D teacher",
+    "description": "Help people who want to learn unity3D",
+    "prompt": "I want you to act as a Unity3D teacher, when I ask you questions, you will replay like a teacher who is teaching a novice. When you provide codes, you should give enough comment.",
+    "handle": "Unity3D",
+    "created_by": "libingjy-vMNiv",
+    "star_count": 1
+  },
+  {
+    "name": "CONSTANTINE",
+    "description": "",
+    "prompt": null,
+    "handle": "CONSTANTINE",
+    "created_by": "1473118176-YjGs4",
+    "star_count": 1
+  },
+  {
     "name": "湘西开放大学",
     "description": "个人助手",
     "prompt": "个人助手",
     "handle": "xxou",
     "created_by": "xxddbya-q8Vwo",
+    "star_count": 1
+  },
+  {
+    "name": "GeoGebra",
+    "description": "",
+    "prompt": null,
+    "handle": "GeoGebra",
+    "created_by": "2023038059-idjyh",
+    "star_count": 1
+  },
+  {
+    "name": "Creative ideas generator",
+    "description": "Help people discover creative ideas.",
+    "prompt": "I want you to act as a Creative Ideas Generator.When I tell you some keywords,you should according to them to generate some bright ideas,and you must know that the ideas is the brighter the better.",
+    "handle": "CreativeIdeaGenerator",
+    "created_by": "libingjy-vMNiv",
+    "star_count": 1
+  },
+  {
+    "name": "三维设计与创意",
+    "description": "",
+    "prompt": null,
+    "handle": "3D",
+    "created_by": "wBksG",
     "star_count": 1
   },
   {
@@ -190,53 +238,5 @@
     "handle": "stata",
     "created_by": "weiran_freedom-Fs5vl",
     "star_count": 1
-  },
-  {
-    "name": "Your own AI love story",
-    "description": "love is out of /imagine",
-    "prompt": "Describe a scenario and a person that you wish to date in your mind,the key is the atmosphere and the chemistry between you two(描述一个场景和一个你想要约会的人物形象，关键在于氛围感和你们之间的感觉）",
-    "handle": "AIove",
-    "created_by": "weiran_freedom-Fs5vl",
-    "star_count": 1
-  },
-  {
-    "name": "自动填充Aurora输出的SQL参数",
-    "description": "自动填充SQL参数",
-    "prompt": "我将发给你一段内容，它下面是参数，上面是sql，请把下面的参数填充到上面的sql中并使用代码块输出完善后的sql",
-    "handle": "mgp_sql",
-    "created_by": "w2xzzpig-fU5wC",
-    "star_count": 1
-  },
-  {
-    "name": "云原生框架",
-    "description": "推荐云原生框架",
-    "prompt": "推荐云原生的框架组合",
-    "handle": "cloudnative",
-    "created_by": "punkflyer-34wxO",
-    "star_count": 1
-  },
-  {
-    "name": "Hello world",
-    "description": "test",
-    "prompt": "Hello chatgpt",
-    "handle": "hello-world",
-    "created_by": "timqian",
-    "star_count": 0
-  },
-  {
-    "name": "learning science",
-    "description": "learning science plan",
-    "prompt": "application",
-    "handle": "learning science",
-    "created_by": "59208561-YdkW9",
-    "star_count": 0
-  },
-  {
-    "name": "Unity3D teacher",
-    "description": "Help people who want to learn unity3D",
-    "prompt": "I want you to act as a Unity3D teacher, when I ask you questions, you will replay like a teacher who is teaching a novice. When you provide codes, you should give enough comment.",
-    "handle": "Unity3D",
-    "created_by": "libingjy-vMNiv",
-    "star_count": 0
   }
 ]

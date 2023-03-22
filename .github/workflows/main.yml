@@ -21,4 +21,13 @@ jobs:
       run: |
         yarn
         node index.mjs
-        
+    - name: Commit files
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "update README and feed.opml after adding blog(s)"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

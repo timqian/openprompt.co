@@ -2,7 +2,6 @@ import * as dotenv from "dotenv";
 dotenv.config();
 import { createClient } from "@supabase/supabase-js";
 import { writeFileSync } from "fs";
-import jsonToMDTable from "json-to-markdown-table";
 
 // Create a single supabase client for interacting with your database
 const supabase = createClient(
@@ -50,9 +49,13 @@ writeFileSync("TopPrompts.json", JSON.stringify(result, null, 2));
 
 const promptContentList = result.map(
   (prompt, i) => `
-### ${i}. [${prompt.name}](https://openprompt.co/${prompt.handle}) - 🌟 ${prompt.star_count} - 📝 [${prompt.created_by}](https://openprompt.co/${prompt.created_by})
+## ${i}. [${prompt.name}](https://openprompt.co/${prompt.handle})
+🌟 ${prompt.star_count} 📝 [${prompt.created_by}](https://openprompt.co/${prompt.created_by})
+
 ${prompt.description}
+
 > ${prompt.prompt}
+
 `
 );
 

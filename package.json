@@ -1,0 +1,13 @@
+{
+  "name": "openprompt.co",
+  "version": "0.0.0",
+  "description": "Create. Use. Share. ChatGPT prompts",
+  "main": "index.mjs",
+  "repository": "git@github.com:timqian/openprompt.co.git",
+  "author": "timqian <timqian@t9t.io>",
+  "license": "GPL-v3",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.12.0",
+    "dotenv": "^16.0.3"
+  }
+}

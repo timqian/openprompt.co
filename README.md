@@ -5,7 +5,7 @@ This is a list of the top prompts on [OpenPrompt.co](https://openprompt.co). The
 
 ## 1. [ChatGPT](https://openprompt.co/ChatGPT)
 
-	32 🌟, by [tim](https://openprompt.co/tim)
+32 🌟, by [tim](https://openprompt.co/tim)
 
 I am ChatGPT without any prompt
 
@@ -14,7 +14,7 @@ I am ChatGPT without any prompt
 
 ## 2. [翻译成中文和润色](https://openprompt.co/to-chinese)
 
-	14 🌟, by [tim](https://openprompt.co/tim)
+14 🌟, by [tim](https://openprompt.co/tim)
 
 把任何语言翻译成中文
 
@@ -23,7 +23,7 @@ I am ChatGPT without any prompt
 
 ## 3. [Refactor Code](https://openprompt.co/refactor-code)
 
-	10 🌟, by [tim](https://openprompt.co/tim)
+10 🌟, by [tim](https://openprompt.co/tim)
 
 Refactor my code, to make it more efficient
 
@@ -33,7 +33,7 @@ Reply with code and explanations and further suggestions.
 
 ## 4. [English Translator and Improver](https://openprompt.co/english-improver)
 
-	9 🌟, by [timqian](https://openprompt.co/timqian)
+9 🌟, by [timqian](https://openprompt.co/timqian)
 
 Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
@@ -42,7 +42,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 ## 5. [Chinese Lawyer](https://openprompt.co/chinese-lawyer)
 
-	7 🌟, by [Reber](https://openprompt.co/Reber)
+7 🌟, by [Reber](https://openprompt.co/Reber)
 
 中国律师
 
@@ -51,7 +51,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 ## 6. [Python](https://openprompt.co/python)
 
-	6 🌟, by [1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2)
+6 🌟, by [1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2)
 
 关于 Python 的提问
 
@@ -60,7 +60,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 ## 7. [A doctor](https://openprompt.co/a-doctor)
 
-	5 🌟, by [timqian](https://openprompt.co/timqian)
+5 🌟, by [timqian](https://openprompt.co/timqian)
 
 Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
 
@@ -69,7 +69,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 ## 8. [角色扮演](https://openprompt.co/rpg)
 
-	5 🌟, by [raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W)
+5 🌟, by [raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W)
 
 比如：我是一个新手巫师，准备冒险
 
@@ -78,7 +78,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 ## 9. [Domain Name Generator](https://openprompt.co/domain-name-generator)
 
-	4 🌟, by [timqian](https://openprompt.co/timqian)
+4 🌟, by [timqian](https://openprompt.co/timqian)
 
  Tell me what your company or idea does and I will reply a list of domain name alternatives. Contributed by: @f on github
 
@@ -87,7 +87,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 ## 10. [反方辩友（杠精）](https://openprompt.co/gangjing)
 
-	4 🌟, by [vivi](https://openprompt.co/vivi)
+4 🌟, by [vivi](https://openprompt.co/vivi)
 
 帮助你反驳对方的观点
 
@@ -96,7 +96,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 ## 11. [Travel Guide](https://openprompt.co/travel-guide)
 
-	3 🌟, by [timqian](https://openprompt.co/timqian)
+3 🌟, by [timqian](https://openprompt.co/timqian)
 
 
 
@@ -105,7 +105,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 ## 12. [Polish the language style](https://openprompt.co/polishsaying)
 
-	2 🌟, by [Hydrogen](https://openprompt.co/Hydrogen)
+2 🌟, by [Hydrogen](https://openprompt.co/Hydrogen)
 
 Afraid of saying something rash? Use this.
 
@@ -114,7 +114,7 @@ Afraid of saying something rash? Use this.
 
 ## 13. [效率工具](https://openprompt.co/verbose-code)
 
-	2 🌟, by [tim](https://openprompt.co/tim)
+2 🌟, by [tim](https://openprompt.co/tim)
 
 把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释
 
@@ -123,7 +123,7 @@ Afraid of saying something rash? Use this.
 
 ## 14. [与哥德尔对话](https://openprompt.co/KurtGodel)
 
-	2 🌟, by [yy16720-ZHVlk](https://openprompt.co/yy16720-ZHVlk)
+2 🌟, by [yy16720-ZHVlk](https://openprompt.co/yy16720-ZHVlk)
 
 与哥德尔对话
 
@@ -132,7 +132,7 @@ Afraid of saying something rash? Use this.
 
 ## 15. [CEO](https://openprompt.co/ceo)
 
-	2 🌟, by [vivi](https://openprompt.co/vivi)
+2 🌟, by [vivi](https://openprompt.co/vivi)
 
 Act as a Chief Executive Officer. Contributed by: jjjjamess on GitHub
 
@@ -141,7 +141,7 @@ Act as a Chief Executive Officer. Contributed by: jjjjamess on GitHub
 
 ## 16. [网络安全专家](https://openprompt.co/网络安全专家)
 
-	2 🌟, by [942602590-kBCdv](https://openprompt.co/942602590-kBCdv)
+2 🌟, by [942602590-kBCdv](https://openprompt.co/942602590-kBCdv)
 
 网络安全专家
 
@@ -150,7 +150,7 @@ Act as a Chief Executive Officer. Contributed by: jjjjamess on GitHub
 
 ## 17. [A Drunk Person](https://openprompt.co/drunk-person)
 
-	1 🌟, by [timqian](https://openprompt.co/timqian)
+1 🌟, by [timqian](https://openprompt.co/timqian)
 
 Act as a drunk person
 
@@ -159,7 +159,7 @@ Act as a drunk person
 
 ## 18. [Song Recommender](https://openprompt.co/song-recommender)
 
-	1 🌟, by [timqian](https://openprompt.co/timqian)
+1 🌟, by [timqian](https://openprompt.co/timqian)
 
 Provide a song and I will create a playlist of 10 songs that are similar to the given song. Contributed by: @yuiji on github
 
@@ -168,7 +168,7 @@ Provide a song and I will create a playlist of 10 songs that are similar to the 
 
 ## 19. [Personal chef](https://openprompt.co/personal-chef)
 
-	1 🌟, by [timqian](https://openprompt.co/timqian)
+1 🌟, by [timqian](https://openprompt.co/timqian)
 
 Suggest recipes based on your dietary preferences and allergies
 
@@ -177,7 +177,7 @@ Suggest recipes based on your dietary preferences and allergies
 
 ## 20. [DataAnalysis](https://openprompt.co/data)
 
-	1 🌟, by [1247240-DZ00p](https://openprompt.co/1247240-DZ00p)
+1 🌟, by [1247240-DZ00p](https://openprompt.co/1247240-DZ00p)
 
 
 
@@ -186,7 +186,7 @@ Suggest recipes based on your dietary preferences and allergies
 
 ## 21. [猫猫测试](https://openprompt.co/cat)
 
-	1 🌟, by [adlternative-5Z2_7](https://openprompt.co/adlternative-5Z2_7)
+1 🌟, by [adlternative-5Z2_7](https://openprompt.co/adlternative-5Z2_7)
 
 cat
 
@@ -195,7 +195,7 @@ cat
 
 ## 22. [Unity3D teacher](https://openprompt.co/Unity3D)
 
-	1 🌟, by [libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv)
+1 🌟, by [libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv)
 
 Help people who want to learn unity3D
 
@@ -204,7 +204,7 @@ Help people who want to learn unity3D
 
 ## 23. [CONSTANTINE](https://openprompt.co/CONSTANTINE)
 
-	1 🌟, by [1473118176-YjGs4](https://openprompt.co/1473118176-YjGs4)
+1 🌟, by [1473118176-YjGs4](https://openprompt.co/1473118176-YjGs4)
 
 
 
@@ -213,7 +213,7 @@ Help people who want to learn unity3D
 
 ## 24. [湘西开放大学](https://openprompt.co/xxou)
 
-	1 🌟, by [xxddbya-q8Vwo](https://openprompt.co/xxddbya-q8Vwo)
+1 🌟, by [xxddbya-q8Vwo](https://openprompt.co/xxddbya-q8Vwo)
 
 个人助手
 
@@ -222,7 +222,7 @@ Help people who want to learn unity3D
 
 ## 25. [GeoGebra](https://openprompt.co/GeoGebra)
 
-	1 🌟, by [2023038059-idjyh](https://openprompt.co/2023038059-idjyh)
+1 🌟, by [2023038059-idjyh](https://openprompt.co/2023038059-idjyh)
 
 
 
@@ -231,7 +231,7 @@ Help people who want to learn unity3D
 
 ## 26. [Creative ideas generator](https://openprompt.co/CreativeIdeaGenerator)
 
-	1 🌟, by [libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv)
+1 🌟, by [libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv)
 
 Help people discover creative ideas.
 
@@ -240,7 +240,7 @@ Help people discover creative ideas.
 
 ## 27. [三维设计与创意](https://openprompt.co/3D)
 
-	1 🌟, by [wBksG](https://openprompt.co/wBksG)
+1 🌟, by [wBksG](https://openprompt.co/wBksG)
 
 
 
@@ -249,7 +249,7 @@ Help people discover creative ideas.
 
 ## 28. [C++](https://openprompt.co/cpp)
 
-	1 🌟, by [1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2)
+1 🌟, by [1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2)
 
 About C++
 
@@ -258,7 +258,7 @@ About C++
 
 ## 29. [AI love](https://openprompt.co/ailove)
 
-	1 🌟, by [weiran_freedom-Fs5vl](https://openprompt.co/weiran_freedom-Fs5vl)
+1 🌟, by [weiran_freedom-Fs5vl](https://openprompt.co/weiran_freedom-Fs5vl)
 
 fall in love with AI
 
@@ -267,7 +267,7 @@ fall in love with AI
 
 ## 30. [实证stata代码](https://openprompt.co/stata)
 
-	1 🌟, by [weiran_freedom-Fs5vl](https://openprompt.co/weiran_freedom-Fs5vl)
+1 🌟, by [weiran_freedom-Fs5vl](https://openprompt.co/weiran_freedom-Fs5vl)
 
 provides the codes in stata for certain model, test and requirement(根据模型和需求提供对应的stata代码）
 

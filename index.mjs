@@ -47,9 +47,11 @@ writeFileSync("TopPrompts.json", JSON.stringify(result, null, 2));
 
 const promptContentList = result.map(
   (prompt, i) => `
-## 🌟 ${prompt.star_count} [${prompt.name}](https://openprompt.co/${prompt.handle}) - *by [${prompt.created_by}](https://openprompt.co/${
+## ${i + 1}. [${prompt.name}](https://openprompt.co/${prompt.handle})
+
+	${prompt.star_count} 🌟, by [${prompt.created_by}](https://openprompt.co/${
     prompt.created_by
-  })*
+  })
 
 ${prompt.description}
 

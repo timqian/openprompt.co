@@ -1,0 +1,20 @@
+name: Update json and readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 */6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js
+      uses: actions/setup-node@v3.2.0
+      with:
+        node-version: 18.x
+    - name: update json and readme
+      run: |
+        yarn
+        node index.mjs

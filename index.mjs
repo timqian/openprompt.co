@@ -61,9 +61,11 @@ ${prompt.description}
 );
 
 // Generate README.md
-const readme = `# Top 30 Prompts
+const readme = `# Open prompts
 
 This is a list of the top prompts on [OpenPrompt.co](https://openprompt.co). The list is updated every 24 hours.
+
+The data is also available in the JSON format: [TopPrompts.json](./TopPrompts.json).
 
 ${promptContentList.join("")}
 `;

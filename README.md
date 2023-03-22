@@ -1,6 +1,8 @@
-# Top 30 Prompts
+# Open prompts
 
 This is a list of the top prompts on [OpenPrompt.co](https://openprompt.co). The list is updated every 24 hours.
+
+The data is also available in the JSON format: [TopPrompts.json](./TopPrompts.json).
 
 
 ## 1. [ChatGPT](https://openprompt.co/ChatGPT)

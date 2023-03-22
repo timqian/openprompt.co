@@ -49,9 +49,9 @@ const promptContentList = result.map(
   (prompt, i) => `
 ## ${i + 1}. [${prompt.name}](https://openprompt.co/${prompt.handle})
 
-${prompt.star_count} 🌟, by [${prompt.created_by}](https://openprompt.co/${
-    prompt.created_by
-  })
+🌟: ${prompt.star_count} | 📝: [${prompt.created_by}](https://openprompt.co/${
+	prompt.created_by
+})
 
 ${prompt.description}
 

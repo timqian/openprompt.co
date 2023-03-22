@@ -21,5 +21,4 @@ jobs:
       run: |
         yarn
         node index.mjs
-      with:
         

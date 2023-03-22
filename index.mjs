@@ -36,9 +36,7 @@ const result = data
       name: prompt.name,
       description: prompt.description,
       prompt:
-        prompt.messages && prompt.messages[0]
-          ? prompt.messages[0].content
-          : null,
+        prompt.messages && prompt.messages[0] ? prompt.messages[0].content : "",
       handle: prompt.handles.handle,
       created_by: prompt.created_by.handles.handle,
       star_count: prompt.star_count[0].count,
@@ -49,8 +47,9 @@ writeFileSync("TopPrompts.json", JSON.stringify(result, null, 2));
 
 const promptContentList = result.map(
   (prompt, i) => `
-## ${i}. [${prompt.name}](https://openprompt.co/${prompt.handle})
-🌟 ${prompt.star_count} 📝 [${prompt.created_by}](https://openprompt.co/${prompt.created_by})
+## 🌟 ${prompt.star_count} [${prompt.name}](https://openprompt.co/${prompt.handle}) - *by [${prompt.created_by}](https://openprompt.co/${
+    prompt.created_by
+  })*
 
 ${prompt.description}
 
@@ -60,11 +59,11 @@ ${prompt.description}
 );
 
 // Generate README.md
-const readme = `# Open Prompts
+const readme = `# Top 30 Prompts
 
 This is a list of the top prompts on [OpenPrompt.co](https://openprompt.co). The list is updated every 24 hours.
 
-${promptContentList.join('')}
+${promptContentList.join("")}
 `;
 
 writeFileSync("README.md", readme);

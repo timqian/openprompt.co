@@ -2,7 +2,7 @@
   {
     "name": "ChatGPT",
     "description": "I am ChatGPT without any prompt",
-    "prompt": null,
+    "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
     "star_count": 32
@@ -178,7 +178,7 @@
   {
     "name": "CONSTANTINE",
     "description": "",
-    "prompt": null,
+    "prompt": "",
     "handle": "CONSTANTINE",
     "created_by": "1473118176-YjGs4",
     "star_count": 1
@@ -194,7 +194,7 @@
   {
     "name": "GeoGebra",
     "description": "",
-    "prompt": null,
+    "prompt": "",
     "handle": "GeoGebra",
     "created_by": "2023038059-idjyh",
     "star_count": 1
@@ -210,7 +210,7 @@
   {
     "name": "三维设计与创意",
     "description": "",
-    "prompt": null,
+    "prompt": "",
     "handle": "3D",
     "created_by": "wBksG",
     "star_count": 1

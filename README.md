@@ -150,7 +150,25 @@ Act as a Chief Executive Officer. Contributed by: jjjjamess on GitHub
 📝: [942602590-kBCdv](https://openprompt.co/942602590-kBCdv) 🌟: 2
 
 
-## 17. [A Drunk Person](https://openprompt.co/drunk-person)
+## 17. [苏格拉底式回答](https://openprompt.co/Socrates)
+
+假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？
+
+> 假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？
+
+📝: [tonydong321-pFoyH](https://openprompt.co/tonydong321-pFoyH) 🌟: 2
+
+
+## 18. [cron expression](https://openprompt.co/cron)
+
+Generate cron expression based on description
+
+> generate a cron expression for me based on my description, nothing else
+
+📝: [tim](https://openprompt.co/tim) 🌟: 2
+
+
+## 19. [A Drunk Person](https://openprompt.co/drunk-person)
 
 Act as a drunk person
 
@@ -159,7 +177,7 @@ Act as a drunk person
 📝: [timqian](https://openprompt.co/timqian) 🌟: 1
 
 
-## 18. [Song Recommender](https://openprompt.co/song-recommender)
+## 20. [Song Recommender](https://openprompt.co/song-recommender)
 
 Provide a song and I will create a playlist of 10 songs that are similar to the given song. Contributed by: @yuiji on github
 
@@ -168,7 +186,7 @@ Provide a song and I will create a playlist of 10 songs that are similar to the 
 📝: [timqian](https://openprompt.co/timqian) 🌟: 1
 
 
-## 19. [Personal chef](https://openprompt.co/personal-chef)
+## 21. [Personal chef](https://openprompt.co/personal-chef)
 
 Suggest recipes based on your dietary preferences and allergies
 
@@ -177,7 +195,7 @@ Suggest recipes based on your dietary preferences and allergies
 📝: [timqian](https://openprompt.co/timqian) 🌟: 1
 
 
-## 20. [DataAnalysis](https://openprompt.co/data)
+## 22. [DataAnalysis](https://openprompt.co/data)
 
 
 
@@ -186,7 +204,7 @@ Suggest recipes based on your dietary preferences and allergies
 📝: [1247240-DZ00p](https://openprompt.co/1247240-DZ00p) 🌟: 1
 
 
-## 21. [猫猫测试](https://openprompt.co/cat)
+## 23. [猫猫测试](https://openprompt.co/cat)
 
 cat
 
@@ -195,7 +213,7 @@ cat
 📝: [adlternative-5Z2_7](https://openprompt.co/adlternative-5Z2_7) 🌟: 1
 
 
-## 22. [Unity3D teacher](https://openprompt.co/Unity3D)
+## 24. [Unity3D teacher](https://openprompt.co/Unity3D)
 
 Help people who want to learn unity3D
 
@@ -204,7 +222,7 @@ Help people who want to learn unity3D
 📝: [libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 1
 
 
-## 23. [CONSTANTINE](https://openprompt.co/CONSTANTINE)
+## 25. [CONSTANTINE](https://openprompt.co/CONSTANTINE)
 
 
 
@@ -213,7 +231,7 @@ Help people who want to learn unity3D
 📝: [1473118176-YjGs4](https://openprompt.co/1473118176-YjGs4) 🌟: 1
 
 
-## 24. [湘西开放大学](https://openprompt.co/xxou)
+## 26. [湘西开放大学](https://openprompt.co/xxou)
 
 个人助手
 
@@ -222,7 +240,7 @@ Help people who want to learn unity3D
 📝: [xxddbya-q8Vwo](https://openprompt.co/xxddbya-q8Vwo) 🌟: 1
 
 
-## 25. [GeoGebra](https://openprompt.co/GeoGebra)
+## 27. [GeoGebra](https://openprompt.co/GeoGebra)
 
 
 
@@ -231,7 +249,7 @@ Help people who want to learn unity3D
 📝: [2023038059-idjyh](https://openprompt.co/2023038059-idjyh) 🌟: 1
 
 
-## 26. [Creative ideas generator](https://openprompt.co/CreativeIdeaGenerator)
+## 28. [Creative ideas generator](https://openprompt.co/CreativeIdeaGenerator)
 
 Help people discover creative ideas.
 
@@ -240,7 +258,7 @@ Help people discover creative ideas.
 📝: [libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 1
 
 
-## 27. [三维设计与创意](https://openprompt.co/3D)
+## 29. [三维设计与创意](https://openprompt.co/3D)
 
 
 
@@ -249,30 +267,12 @@ Help people discover creative ideas.
 📝: [wBksG](https://openprompt.co/wBksG) 🌟: 1
 
 
-## 28. [C++](https://openprompt.co/cpp)
+## 30. [C++](https://openprompt.co/cpp)
 
 About C++
 
 > You are a C++Coder Expert，I have something to ask you.
 
 📝: [1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 1
-
-
-## 29. [AI love](https://openprompt.co/ailove)
-
-fall in love with AI
-
-> how did you fall in love with others from the first sight
-
-📝: [weiran_freedom-Fs5vl](https://openprompt.co/weiran_freedom-Fs5vl) 🌟: 1
-
-
-## 30. [实证stata代码](https://openprompt.co/stata)
-
-provides the codes in stata for certain model, test and requirement(根据模型和需求提供对应的stata代码）
-
-> describe all the variables including dependent variables and independent variables, then describe the model, analysis and test you are going to conduct. (描述所有的解释变量和被解释变量，准备采用的模型，进行的分析和检验，提供stata代码)
-
-📝: [weiran_freedom-Fs5vl](https://openprompt.co/weiran_freedom-Fs5vl) 🌟: 1
 
 

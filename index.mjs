@@ -48,7 +48,7 @@ writeFileSync("TopPrompts.json", JSON.stringify(result, null, 2));
 
 const promptContentList = result.map(
   (prompt, i) => `
-## ${i + 1}. [${prompt.name}](https://openprompt.co/${prompt.handle})
+## [${i + 1}. ${prompt.name}](https://openprompt.co/${prompt.handle})
 
 ${prompt.description}
 
@@ -64,7 +64,7 @@ ${prompt.description}
 // Generate README.md
 const readme = `# Open prompts
 
-This is a list of the top prompts on [OpenPrompt.co](https://openprompt.co). The list is updated every 6 hours.
+This is a list of the top prompts on [OpenPrompt.co](https://openprompt.co). The list is updated every 24 hours.
 
 The data is also available in the JSON format: [TopPrompts.json](./TopPrompts.json).
 

@@ -31,7 +31,7 @@ const { data, error } = await supabase.from("prompts").select(`
 const result = data
   .sort((a, b) => b.star_count[0].count - a.star_count[0].count)
   // .filter((prompt) => prompt.messages && prompt.messages[0])
-  .slice(0, 30)
+  .slice(0, 20)
   .map((prompt) => {
     return {
       name: prompt.name,

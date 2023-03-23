@@ -48,7 +48,7 @@ writeFileSync("TopPrompts.json", JSON.stringify(result, null, 2));
 
 const promptContentList = result.map(
   (prompt, i) => `
-## [${i + 1}. ${prompt.name}](https://openprompt.co/${prompt.handle})
+## [${i}. ${prompt.name}](https://openprompt.co/${prompt.handle})
 
 ${prompt.description}
 

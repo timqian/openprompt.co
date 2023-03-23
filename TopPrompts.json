@@ -64,19 +64,19 @@
     "star_count": 5
   },
   {
-    "name": "Domain Name Generator",
-    "description": " Tell me what your company or idea does and I will reply a list of domain name alternatives. Contributed by: @f on github",
-    "prompt": "I want you to act as a smart domain name generator. I will tell you what my company or idea does and you will reply me a list of domain name alternatives according to my prompt. You will only reply the domain list, and nothing else. Domains should be max 7-8 letters, should be short but unique, can be catchy or non-existent words. Do not write explanations.",
-    "handle": "domain-name-generator",
-    "created_by": "timqian",
-    "star_count": 4
-  },
-  {
     "name": "反方辩友（杠精）",
     "description": "帮助你反驳对方的观点",
     "prompt": "请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据",
     "handle": "gangjing",
     "created_by": "vivi",
+    "star_count": 5
+  },
+  {
+    "name": "Domain Name Generator",
+    "description": " Tell me what your company or idea does and I will reply a list of domain name alternatives. Contributed by: @f on github",
+    "prompt": "I want you to act as a smart domain name generator. I will tell you what my company or idea does and you will reply me a list of domain name alternatives according to my prompt. You will only reply the domain list, and nothing else. Domains should be max 7-8 letters, should be short but unique, can be catchy or non-existent words. Do not write explanations.",
+    "handle": "domain-name-generator",
+    "created_by": "timqian",
     "star_count": 4
   },
   {

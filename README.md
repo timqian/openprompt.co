@@ -5,7 +5,7 @@ This is a list of the top prompts on [OpenPrompt.co](https://openprompt.co). The
 The data is also available in the JSON format: [TopPrompts.json](./TopPrompts.json).
 
 
-## [1. ChatGPT](https://openprompt.co/ChatGPT)
+## [0. ChatGPT](https://openprompt.co/ChatGPT)
 
 I am ChatGPT without any prompt
 
@@ -14,7 +14,7 @@ I am ChatGPT without any prompt
 [📝: tim](https://openprompt.co/tim) 🌟: 32
 
 
-## [2. 翻译成中文和润色](https://openprompt.co/to-chinese)
+## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
 
 把任何语言翻译成中文
 
@@ -23,7 +23,7 @@ I am ChatGPT without any prompt
 [📝: tim](https://openprompt.co/tim) 🌟: 14
 
 
-## [3. Refactor Code](https://openprompt.co/refactor-code)
+## [2. Refactor Code](https://openprompt.co/refactor-code)
 
 Refactor my code, to make it more efficient
 
@@ -33,7 +33,7 @@ Reply with code and explanations and further suggestions.
 [📝: tim](https://openprompt.co/tim) 🌟: 10
 
 
-## [4. English Translator and Improver](https://openprompt.co/english-improver)
+## [3. English Translator and Improver](https://openprompt.co/english-improver)
 
 Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
@@ -42,7 +42,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 [📝: timqian](https://openprompt.co/timqian) 🌟: 9
 
 
-## [5. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
+## [4. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
 
 中国律师
 
@@ -51,7 +51,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 [📝: Reber](https://openprompt.co/Reber) 🌟: 7
 
 
-## [6. 角色扮演](https://openprompt.co/rpg)
+## [5. 角色扮演](https://openprompt.co/rpg)
 
 比如：我是一个新手巫师，准备冒险
 
@@ -60,7 +60,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 [📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 6
 
 
-## [7. Python](https://openprompt.co/python)
+## [6. Python](https://openprompt.co/python)
 
 关于 Python 的提问
 
@@ -69,13 +69,22 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 [📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 6
 
 
-## [8. A doctor](https://openprompt.co/a-doctor)
+## [7. A doctor](https://openprompt.co/a-doctor)
 
 Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
 
 > I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
 
 [📝: timqian](https://openprompt.co/timqian) 🌟: 5
+
+
+## [8. 反方辩友（杠精）](https://openprompt.co/gangjing)
+
+帮助你反驳对方的观点
+
+> 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
+
+[📝: vivi](https://openprompt.co/vivi) 🌟: 5
 
 
 ## [9. Domain Name Generator](https://openprompt.co/domain-name-generator)
@@ -87,16 +96,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 [📝: timqian](https://openprompt.co/timqian) 🌟: 4
 
 
-## [10. 反方辩友（杠精）](https://openprompt.co/gangjing)
-
-帮助你反驳对方的观点
-
-> 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
-
-[📝: vivi](https://openprompt.co/vivi) 🌟: 4
-
-
-## [11. Travel Guide](https://openprompt.co/travel-guide)
+## [10. Travel Guide](https://openprompt.co/travel-guide)
 
 
 
@@ -105,7 +105,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 [📝: timqian](https://openprompt.co/timqian) 🌟: 3
 
 
-## [12. Polish the language style](https://openprompt.co/polishsaying)
+## [11. Polish the language style](https://openprompt.co/polishsaying)
 
 Afraid of saying something rash? Use this.
 
@@ -114,7 +114,7 @@ Afraid of saying something rash? Use this.
 [📝: Hydrogen](https://openprompt.co/Hydrogen) 🌟: 2
 
 
-## [13. 效率工具](https://openprompt.co/verbose-code)
+## [12. 效率工具](https://openprompt.co/verbose-code)
 
 把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释
 
@@ -123,7 +123,7 @@ Afraid of saying something rash? Use this.
 [📝: tim](https://openprompt.co/tim) 🌟: 2
 
 
-## [14. 与哥德尔对话](https://openprompt.co/KurtGodel)
+## [13. 与哥德尔对话](https://openprompt.co/KurtGodel)
 
 与哥德尔对话
 
@@ -132,7 +132,7 @@ Afraid of saying something rash? Use this.
 [📝: yy16720-ZHVlk](https://openprompt.co/yy16720-ZHVlk) 🌟: 2
 
 
-## [15. CEO](https://openprompt.co/ceo)
+## [14. CEO](https://openprompt.co/ceo)
 
 Act as a Chief Executive Officer. Contributed by: jjjjamess on GitHub
 
@@ -141,7 +141,7 @@ Act as a Chief Executive Officer. Contributed by: jjjjamess on GitHub
 [📝: vivi](https://openprompt.co/vivi) 🌟: 2
 
 
-## [16. 网络安全专家](https://openprompt.co/网络安全专家)
+## [15. 网络安全专家](https://openprompt.co/网络安全专家)
 
 网络安全专家
 
@@ -150,7 +150,7 @@ Act as a Chief Executive Officer. Contributed by: jjjjamess on GitHub
 [📝: 942602590-kBCdv](https://openprompt.co/942602590-kBCdv) 🌟: 2
 
 
-## [17. 苏格拉底式回答](https://openprompt.co/Socrates)
+## [16. 苏格拉底式回答](https://openprompt.co/Socrates)
 
 假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？
 
@@ -159,7 +159,7 @@ Act as a Chief Executive Officer. Contributed by: jjjjamess on GitHub
 [📝: tonydong321-pFoyH](https://openprompt.co/tonydong321-pFoyH) 🌟: 2
 
 
-## [18. cron](https://openprompt.co/cron)
+## [17. cron](https://openprompt.co/cron)
 
 Generate cron expression based on description
 
@@ -168,7 +168,7 @@ Generate cron expression based on description
 [📝: tim](https://openprompt.co/tim) 🌟: 2
 
 
-## [19. A Drunk Person](https://openprompt.co/drunk-person)
+## [18. A Drunk Person](https://openprompt.co/drunk-person)
 
 Act as a drunk person
 
@@ -177,7 +177,7 @@ Act as a drunk person
 [📝: timqian](https://openprompt.co/timqian) 🌟: 1
 
 
-## [20. Song Recommender](https://openprompt.co/song-recommender)
+## [19. Song Recommender](https://openprompt.co/song-recommender)
 
 Provide a song and I will create a playlist of 10 songs that are similar to the given song. Contributed by: @yuiji on github
 

@@ -62,11 +62,11 @@ ${prompt.description}
 );
 
 // Generate README.md
-const readme = `# Top prompts on OpenPrompt
+const readme = `# OpenPrompt
 
 This is a list of the most starred prompts on [OpenPrompt.co](https://openprompt.co). The list is updated every 24 hours.
 
-The data is also available in the JSON format: [TopPrompts.json](./TopPrompts.json).
+The data is also available in the JSON format: [TopPrompts.json](./TopPrompts.json). If you have any suggestion for OpenPrompt, please [open an issue](https://github.com/timqian/openprompt.co/issues)
 
 ${promptContentList.join("")}
 `;

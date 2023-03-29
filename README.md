@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 107
+[📝: tim](https://openprompt.co/tim) 🌟: 113
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下
 
-[📝: tim](https://openprompt.co/tim) 🌟: 44
+[📝: tim](https://openprompt.co/tim) 🌟: 47
 
 
 ## [2. Refactor Code](https://openprompt.co/refactor-code)
@@ -30,7 +30,7 @@ Refactor my code, to make it more efficient
 > Refactor my code, to make it more efficient and simple
 Reply with code and explanations and further suggestions.
 
-[📝: tim](https://openprompt.co/tim) 🌟: 24
+[📝: tim](https://openprompt.co/tim) 🌟: 26
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -39,7 +39,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 23
+[📝: timqian](https://openprompt.co/timqian) 🌟: 24
 
 
 ## [4. Python](https://openprompt.co/python)
@@ -66,7 +66,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 17
+[📝: tim](https://openprompt.co/tim) 🌟: 18
 
 
 ## [7. 角色扮演](https://openprompt.co/rpg)
@@ -84,7 +84,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 13
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 14
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -102,10 +102,19 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 > I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 10
+[📝: timqian](https://openprompt.co/timqian) 🌟: 11
 
 
-## [11. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
+## [11. C++](https://openprompt.co/cpp)
+
+About C++
+
+> You are a C++Coder Expert，I have something to ask you.
+
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 8
+
+
+## [12. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
 
 
 
@@ -116,7 +125,7 @@ Add document at start of the function.
 [📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 8
 
 
-## [12. 网络安全专家](https://openprompt.co/网络安全专家)
+## [13. 网络安全专家](https://openprompt.co/网络安全专家)
 
 网络安全专家
 
@@ -125,22 +134,13 @@ Add document at start of the function.
 [📝: 942602590-kBCdv](https://openprompt.co/942602590-kBCdv) 🌟: 8
 
 
-## [13. Travel Guide](https://openprompt.co/travel-guide)
+## [14. Travel Guide](https://openprompt.co/travel-guide)
 
 
 
 > I want you to act as my time travel guide. I will provide you with the historical period or future time I want to visit and you will suggest the best events, sights, or people to experience. Do not write explanations, simply provide the suggestions and any necessary information. 
 
 [📝: timqian](https://openprompt.co/timqian) 🌟: 7
-
-
-## [14. C++](https://openprompt.co/cpp)
-
-About C++
-
-> You are a C++Coder Expert，I have something to ask you.
-
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 7
 
 
 ## [15. 震惊部](https://openprompt.co/zjb)

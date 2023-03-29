@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 107
+    "star_count": 113
   },
   {
     "name": "翻译成中文和润色",
@@ -13,7 +13,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 44
+    "star_count": 47
   },
   {
     "name": "Refactor Code",
@@ -21,7 +21,7 @@
     "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
     "handle": "refactor-code",
     "created_by": "tim",
-    "star_count": 24
+    "star_count": 26
   },
   {
     "name": "English Translator and Improver",
@@ -29,7 +29,7 @@
     "prompt": "I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. ",
     "handle": "english-improver",
     "created_by": "timqian",
-    "star_count": 23
+    "star_count": 24
   },
   {
     "name": "Python",
@@ -53,7 +53,7 @@
     "prompt": "请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。",
     "handle": "verbose-code",
     "created_by": "tim",
-    "star_count": 17
+    "star_count": 18
   },
   {
     "name": "角色扮演",
@@ -69,7 +69,7 @@
     "prompt": "请帮我 Review 以下代码",
     "handle": "codereview",
     "created_by": "wizardbyron",
-    "star_count": 13
+    "star_count": 14
   },
   {
     "name": "Chinese Lawyer",
@@ -85,7 +85,15 @@
     "prompt": "I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations",
     "handle": "a-doctor",
     "created_by": "timqian",
-    "star_count": 10
+    "star_count": 11
+  },
+  {
+    "name": "C++",
+    "description": "About C++",
+    "prompt": "You are a C++Coder Expert，I have something to ask you.",
+    "handle": "cpp",
+    "created_by": "1563117592-B0fp2",
+    "star_count": 8
   },
   {
     "name": "给代码添加文档和注释",
@@ -109,14 +117,6 @@
     "prompt": "I want you to act as my time travel guide. I will provide you with the historical period or future time I want to visit and you will suggest the best events, sights, or people to experience. Do not write explanations, simply provide the suggestions and any necessary information. ",
     "handle": "travel-guide",
     "created_by": "timqian",
-    "star_count": 7
-  },
-  {
-    "name": "C++",
-    "description": "About C++",
-    "prompt": "You are a C++Coder Expert，I have something to ask you.",
-    "handle": "cpp",
-    "created_by": "1563117592-B0fp2",
     "star_count": 7
   },
   {

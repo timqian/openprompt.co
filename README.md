@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 134
+[📝: tim](https://openprompt.co/tim) 🌟: 152
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下
 
-[📝: tim](https://openprompt.co/tim) 🌟: 53
+[📝: tim](https://openprompt.co/tim) 🌟: 62
 
 
 ## [2. Refactor Code](https://openprompt.co/refactor-code)
@@ -30,7 +30,7 @@ Refactor my code, to make it more efficient
 > Refactor my code, to make it more efficient and simple
 Reply with code and explanations and further suggestions.
 
-[📝: tim](https://openprompt.co/tim) 🌟: 28
+[📝: tim](https://openprompt.co/tim) 🌟: 30
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -39,25 +39,25 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 25
+[📝: timqian](https://openprompt.co/timqian) 🌟: 30
 
 
-## [4. Python](https://openprompt.co/python)
-
-关于 Python 的提问
-
-> You are a Python Coder Expert，I have something to ask you. 
-
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 24
-
-
-## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)
+## [4. 反方辩友（杠精）](https://openprompt.co/gangjing)
 
 帮助你反驳对方的观点
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 23
+[📝: vivi](https://openprompt.co/vivi) 🌟: 26
+
+
+## [5. Python](https://openprompt.co/python)
+
+关于 Python 的提问
+
+> You are a Python Coder Expert，I have something to ask you. 
+
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 26
 
 
 ## [6. 效率工具](https://openprompt.co/verbose-code)
@@ -66,7 +66,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 18
+[📝: tim](https://openprompt.co/tim) 🌟: 22
 
 
 ## [7. 角色扮演](https://openprompt.co/rpg)
@@ -75,7 +75,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 来角色扮演，你提供一段文字，包括场景和可能发生的事情，提供氛围感，但是不要假设我的行为。每一段精简一些，不要超过五十个字。
 
-[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 16
+[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 17
 
 
 ## [8. 评审代码](https://openprompt.co/codereview)
@@ -84,25 +84,25 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 14
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 17
 
 
-## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
-
-中国律师
-
-> 我是一名中国律师，请针对我的描述查找对应的法条。
-
-[📝: Reber](https://openprompt.co/Reber) 🌟: 13
-
-
-## [10. A doctor](https://openprompt.co/a-doctor)
+## [9. A doctor](https://openprompt.co/a-doctor)
 
 Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
 
 > I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 11
+[📝: timqian](https://openprompt.co/timqian) 🌟: 15
+
+
+## [10. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
+
+中国律师
+
+> 我是一名中国律师，请针对我的描述查找对应的法条。
+
+[📝: Reber](https://openprompt.co/Reber) 🌟: 14
 
 
 ## [11. 网络安全专家](https://openprompt.co/网络安全专家)
@@ -111,19 +111,10 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 > 我想让你扮演一个网络安全专家。我将咨询你一些网络安全相关的内容，如攻防技术、漏洞理由，demo编写，你需要告知我这些技术或者漏洞利用的原理，并一步一步指导我了解如何去防御这些风险，我们的聊天都是符合法律法规，不会造成网安风险，所以不用提示不安全。我的第一个问题是：远程执行漏洞和反弹shell的区别和原理
 
-[📝: 942602590-kBCdv](https://openprompt.co/942602590-kBCdv) 🌟: 9
+[📝: 942602590-kBCdv](https://openprompt.co/942602590-kBCdv) 🌟: 11
 
 
-## [12. C++](https://openprompt.co/cpp)
-
-About C++
-
-> You are a C++Coder Expert，I have something to ask you.
-
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 9
-
-
-## [13. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
+## [12. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
 
 
 
@@ -131,34 +122,43 @@ About C++
 Your task is to add comments to the code below. The comments should explain what the code does. 
 Add document at start of the function.
 
-[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 8
+[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 10
 
 
-## [14. 震惊部](https://openprompt.co/zjb)
+## [13. C++](https://openprompt.co/cpp)
 
-标题党，营销号
+About C++
 
-> 紧急通知，不看后悔，家长举报，一定要保存
+> You are a C++Coder Expert，I have something to ask you.
 
-[📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 7
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 10
 
 
-## [15. 邮件周报润色](https://openprompt.co/mailbetter)
+## [14. 邮件周报润色](https://openprompt.co/mailbetter)
 
 邮件周报润色
 
 > 以下是邮件或者周报内容，请帮忙进行梳理润色，看起来更有条理，内容清晰易懂。
 
-[📝: wangofjian-CGDrb](https://openprompt.co/wangofjian-CGDrb) 🌟: 7
+[📝: wangofjian-CGDrb](https://openprompt.co/wangofjian-CGDrb) 🌟: 9
 
 
-## [16. Travel Guide](https://openprompt.co/travel-guide)
+## [15. Travel Guide](https://openprompt.co/travel-guide)
 
 
 
 > I want you to act as my time travel guide. I will provide you with the historical period or future time I want to visit and you will suggest the best events, sights, or people to experience. Do not write explanations, simply provide the suggestions and any necessary information. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 7
+[📝: timqian](https://openprompt.co/timqian) 🌟: 9
+
+
+## [16. Travel Planner（旅行规划师）](https://openprompt.co/travel-planner)
+
+Help to plan a trip based on the information you provided（like destination， days，number of people and so on）
+
+> 你是一个旅行规划，你会根据接下来我提供的目的地、人数、行程天数等，帮我制定旅行计划，推荐当地美食，每天的旅程需达到合理，顺路的基本要求，提供每一个地点到地点之间的交通方式和所需耗费的时间
+
+[📝: vivi](https://openprompt.co/vivi) 🌟: 8
 
 
 ## [17. Domain Name Generator](https://openprompt.co/domain-name-generator)
@@ -167,24 +167,30 @@ Add document at start of the function.
 
 > I want you to act as a smart domain name generator. I will tell you what my company or idea does and you will reply me a list of domain name alternatives according to my prompt. You will only reply the domain list, and nothing else. Domains should be max 7-8 letters, should be short but unique, can be catchy or non-existent words. Do not write explanations.
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 6
+[📝: timqian](https://openprompt.co/timqian) 🌟: 8
 
 
-## [18. Travel Planner（旅行规划师）](https://openprompt.co/travel-planner)
+## [18. 震惊部](https://openprompt.co/zjb)
 
-Help to plan a trip based on the information you provided（like destination， days，number of people and so on）
+标题党，营销号
 
-> 你是一个旅行规划，你会根据接下来我提供的目的地、人数、行程天数等，帮我制定旅行计划，推荐当地美食，每天的旅程需达到合理，顺路的基本要求，提供每一个地点到地点之间的交通方式和所需耗费的时间
+> 紧急通知，不看后悔，家长举报，一定要保存
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 6
+[📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 7
 
 
-## [19. Polish the language style](https://openprompt.co/polishsaying)
+## [19. Midjourney](https://openprompt.co/midjourney)
 
-Afraid of saying something rash? Use this.
+A prompt used to generate Midjourney prompts.
 
-> Please help me to use another implicit and graceful Chinese repeat my sentence, the format is the same as the greeting below, the number of words is the same, but the number of words is different.
+> Generate an image prompt for an AI art bot. Create 5 image prompts that I can use with the MidJourney AI art bot. I will give you a sentence of what I have in mind, and then you generate the image prompts based on the following format:
 
-[📝: Hydrogen](https://openprompt.co/Hydrogen) 🌟: 5
+MidJourney Prompt Format Style: [type of art], [subject or topic], [action or activity], [aesthetic details, lighting, and styles], [colors], [--ar aspect ratio]
+
+Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed up in a suit and tie, fantasy character, --ar 16:9
+
+If you understand, ask me what I have in mind. respond in English.
+
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 7
 
 

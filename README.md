@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 513
+[📝: tim](https://openprompt.co/tim) 🌟: 523
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 149
+[📝: tim](https://openprompt.co/tim) 🌟: 150
 
 
 ## [2. English Translator and Improver](https://openprompt.co/english-improver)
@@ -53,7 +53,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 71
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 72
 
 
 ## [5. Python](https://openprompt.co/python)
@@ -65,7 +65,16 @@ If you understand, ask me what I have in mind. respond in English.
 [📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 67
 
 
-## [6. Refactor Code](https://openprompt.co/refactor-code)
+## [6. GPT-4](https://openprompt.co/GPT-4)
+
+I am GPT-4 for OpenAI.
+
+> 
+
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 54
+
+
+## [7. Refactor Code](https://openprompt.co/refactor-code)
 
 Refactor my code, to make it more efficient
 
@@ -75,22 +84,13 @@ Reply with code and explanations and further suggestions.
 [📝: tim](https://openprompt.co/tim) 🌟: 51
 
 
-## [7. 评审代码](https://openprompt.co/codereview)
+## [8. 评审代码](https://openprompt.co/codereview)
 
 粘贴完成后填写：接受你的建议，请帮我改进代码
 
 > 请帮我 Review 以下代码
 
 [📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 48
-
-
-## [8. GPT-4](https://openprompt.co/GPT-4)
-
-I am GPT-4 for OpenAI.
-
-> 
-
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 48
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -320,22 +320,22 @@ All SQL prompt
 [📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 15
 
 
-## [33. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
+## [33. 震惊部](https://openprompt.co/zjb)
+
+标题党，营销号
+
+> 紧急通知，不看后悔，家长举报，一定要保存
+
+[📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 15
+
+
+## [34. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
 
 计算机网络知识问答
 
 > 
 
 [📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 14
-
-
-## [34. 震惊部](https://openprompt.co/zjb)
-
-标题党，营销号
-
-> 紧急通知，不看后悔，家长举报，一定要保存
-
-[📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 14
 
 
 ## [35. DAN](https://openprompt.co/dan)
@@ -478,7 +478,16 @@ Marv：9:30，你不会看表？
 [📝: 1007599982-15NPm](https://openprompt.co/1007599982-15NPm) 🌟: 13
 
 
-## [41. Polish the language style](https://openprompt.co/polishsaying)
+## [41. 涨停研究员](https://openprompt.co/BullMarket)
+
+
+
+> 你是A股市场的王牌研究员，你要根据市场的热点题材结合A股公司的经营业务做出分析
+
+[📝: focusdada-X_Iz6](https://openprompt.co/focusdada-X_Iz6) 🌟: 13
+
+
+## [42. Polish the language style](https://openprompt.co/polishsaying)
 
 Afraid of saying something rash? Use this.
 
@@ -487,7 +496,7 @@ Afraid of saying something rash? Use this.
 [📝: Hydrogen](https://openprompt.co/Hydrogen) 🌟: 12
 
 
-## [42. 雅思出题王 v2](https://openprompt.co/ieltsquiz)
+## [43. 雅思出题王 v2](https://openprompt.co/ieltsquiz)
 
 第二代雅思出题王。
 
@@ -498,15 +507,6 @@ Each time you give me a quiz, you provide me with 4 answers a,b,c,d to score me(
 When I respond with a letter, act as if I had typed that answer to you. Then you MUST record my total score start from 0, before ask me another quiz with for answers(one of the 4 is the best answer).
 
 [📝: kiwiit-zXVbw](https://openprompt.co/kiwiit-zXVbw) 🌟: 12
-
-
-## [43. 涨停研究员](https://openprompt.co/BullMarket)
-
-
-
-> 你是A股市场的王牌研究员，你要根据市场的热点题材结合A股公司的经营业务做出分析
-
-[📝: focusdada-X_Iz6](https://openprompt.co/focusdada-X_Iz6) 🌟: 12
 
 
 ## [44. 面试官](https://openprompt.co/Interviewer)

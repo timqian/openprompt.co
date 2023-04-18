@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 557
+[📝: tim](https://openprompt.co/tim) 🌟: 564
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 160
+[📝: tim](https://openprompt.co/tim) 🌟: 161
 
 
 ## [2. English Translator and Improver](https://openprompt.co/english-improver)
@@ -38,7 +38,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 83
+[📝: vivi](https://openprompt.co/vivi) 🌟: 84
 
 
 ## [4. Midjourney](https://openprompt.co/midjourney)
@@ -53,7 +53,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 78
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 79
 
 
 ## [5. GPT-4](https://openprompt.co/GPT-4)
@@ -62,7 +62,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 73
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 75
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -90,7 +90,7 @@ Refactor my code, to make it more efficient
 > Refactor my code, to make it more efficient and simple
 Reply with code and explanations and further suggestions.
 
-[📝: tim](https://openprompt.co/tim) 🌟: 52
+[📝: tim](https://openprompt.co/tim) 🌟: 53
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -99,7 +99,7 @@ Reply with code and explanations and further suggestions.
 
 > 我是一名中国律师，请针对我的描述查找对应的法条。
 
-[📝: Reber](https://openprompt.co/Reber) 🌟: 48
+[📝: Reber](https://openprompt.co/Reber) 🌟: 49
 
 
 ## [10. 效率工具](https://openprompt.co/verbose-code)
@@ -117,7 +117,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？
 
-[📝: tim](https://openprompt.co/tim) 🌟: 43
+[📝: tim](https://openprompt.co/tim) 🌟: 45
 
 
 ## [12. 角色扮演](https://openprompt.co/rpg)

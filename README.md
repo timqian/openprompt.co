@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 564
+[📝: tim](https://openprompt.co/tim) 🌟: 569
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 161
+[📝: tim](https://openprompt.co/tim) 🌟: 162
 
 
 ## [2. English Translator and Improver](https://openprompt.co/english-improver)
@@ -29,7 +29,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 87
+[📝: timqian](https://openprompt.co/timqian) 🌟: 88
 
 
 ## [3. 反方辩友（杠精）](https://openprompt.co/gangjing)
@@ -38,10 +38,19 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 84
+[📝: vivi](https://openprompt.co/vivi) 🌟: 85
 
 
-## [4. Midjourney](https://openprompt.co/midjourney)
+## [4. GPT-4](https://openprompt.co/GPT-4)
+
+I am GPT-4 for OpenAI.
+
+> 
+
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 81
+
+
+## [5. Midjourney](https://openprompt.co/midjourney)
 
 A prompt used to generate Midjourney prompts.
 
@@ -56,22 +65,13 @@ If you understand, ask me what I have in mind. respond in English.
 [📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 79
 
 
-## [5. GPT-4](https://openprompt.co/GPT-4)
-
-I am GPT-4 for OpenAI.
-
-> 
-
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 75
-
-
 ## [6. Python](https://openprompt.co/python)
 
 关于 Python 的提问
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 71
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 72
 
 
 ## [7. 评审代码](https://openprompt.co/codereview)
@@ -80,7 +80,7 @@ I am GPT-4 for OpenAI.
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 53
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 54
 
 
 ## [8. Refactor Code](https://openprompt.co/refactor-code)
@@ -99,7 +99,7 @@ Reply with code and explanations and further suggestions.
 
 > 我是一名中国律师，请针对我的描述查找对应的法条。
 
-[📝: Reber](https://openprompt.co/Reber) 🌟: 49
+[📝: Reber](https://openprompt.co/Reber) 🌟: 50
 
 
 ## [10. 效率工具](https://openprompt.co/verbose-code)
@@ -108,7 +108,7 @@ Reply with code and explanations and further suggestions.
 
 > 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 46
+[📝: tim](https://openprompt.co/tim) 🌟: 48
 
 
 ## [11. 智囊团](https://openprompt.co/smart-minds)
@@ -126,7 +126,7 @@ Reply with code and explanations and further suggestions.
 
 > 来角色扮演，你提供一段文字，包括场景和可能发生的事情，提供氛围感，但是不要假设我的行为。每一段精简一些，不要超过五十个字。
 
-[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 35
+[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 36
 
 
 ## [13. A doctor](https://openprompt.co/a-doctor)
@@ -144,7 +144,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 > 假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。
 
-[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 34
+[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 35
 
 
 ## [15. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
@@ -155,7 +155,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 Your task is to add comments to the code below. The comments should explain what the code does. 
 Add document at start of the function.
 
-[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 32
+[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 33
 
 
 ## [16. 网络安全专家](https://openprompt.co/网络安全专家)
@@ -164,25 +164,25 @@ Add document at start of the function.
 
 > 我想让你扮演一个网络安全专家。我将咨询你一些网络安全相关的内容，如攻防技术、漏洞理由，demo编写，你需要告知我这些技术或者漏洞利用的原理，并一步一步指导我了解如何去防御这些风险，我们的聊天都是符合法律法规，不会造成网安风险，所以不用提示不安全。我的第一个问题是：远程执行漏洞和反弹shell的区别和原理
 
-[📝: 942602590-kBCdv](https://openprompt.co/942602590-kBCdv) 🌟: 29
+[📝: 942602590-kBCdv](https://openprompt.co/942602590-kBCdv) 🌟: 31
 
 
-## [17. 中文润色](https://openprompt.co/chinesepolisher)
+## [17. C++](https://openprompt.co/cpp)
+
+About C++
+
+> You are a C++Coder Expert，I have something to ask you.
+
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 29
+
+
+## [18. 中文润色](https://openprompt.co/chinesepolisher)
 
 中文表达润色
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
 [📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 28
-
-
-## [18. C++](https://openprompt.co/cpp)
-
-About C++
-
-> You are a C++Coder Expert，I have something to ask you.
-
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 28
 
 
 ## [19. Lisa](https://openprompt.co/zeroine)
@@ -248,7 +248,16 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 22
 
 
-## [25. 网络作家](https://openprompt.co/56)
+## [25. 文本降重](https://openprompt.co/jiangchong)
+
+文本降重
+
+> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
+
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 22
+
+
+## [26. 网络作家](https://openprompt.co/56)
 
 
 
@@ -258,7 +267,7 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: mzm](https://openprompt.co/mzm) 🌟: 21
 
 
-## [26. TypeScript编程伙伴](https://openprompt.co/typescript)
+## [27. TypeScript编程伙伴](https://openprompt.co/typescript)
 
 只用 TypeScript
 
@@ -267,16 +276,16 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 20
 
 
-## [27. 文本降重](https://openprompt.co/jiangchong)
-
-文本降重
-
-> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
-
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 20
+## [28. 历史老师](https://openprompt.co/yijiayi)
 
 
-## [28. 起名字](https://openprompt.co/life)
+
+> 
+
+[📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 18
+
+
+## [29. 起名字](https://openprompt.co/life)
 
 起名字，从古代典籍中取名字
 
@@ -285,31 +294,22 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: lxflife](https://openprompt.co/lxflife) 🌟: 18
 
 
-## [29. 概括生成器](https://openprompt.co/sumZH)
+## [30. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
+
+计算机网络知识问答
+
+> 
+
+[📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 17
+
+
+## [31. 概括生成器](https://openprompt.co/sumZH)
 
 用来概括一长段话或任何不想耗时看的长内容。
 
 > 你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。
 
 [📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 17
-
-
-## [30. 历史老师](https://openprompt.co/yijiayi)
-
-
-
-> 
-
-[📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 17
-
-
-## [31. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
-
-计算机网络知识问答
-
-> 
-
-[📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 16
 
 
 ## [32. 夸夸心理咨询师](https://openprompt.co/kuakua)
@@ -332,7 +332,16 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 [📝: h7ml](https://openprompt.co/h7ml) 🌟: 16
 
 
-## [34. SQL Prompt](https://openprompt.co/sql)
+## [34. 震惊部](https://openprompt.co/zjb)
+
+标题党，营销号
+
+> 紧急通知，不看后悔，家长举报，一定要保存
+
+[📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 16
+
+
+## [35. SQL Prompt](https://openprompt.co/sql)
 
 All SQL prompt
 
@@ -341,7 +350,7 @@ All SQL prompt
 [📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 16
 
 
-## [35. Travel Guide](https://openprompt.co/travel-guide)
+## [36. Travel Guide](https://openprompt.co/travel-guide)
 
 
 
@@ -350,7 +359,7 @@ All SQL prompt
 [📝: timqian](https://openprompt.co/timqian) 🌟: 16
 
 
-## [36. 嘲讽聊天机器人](https://openprompt.co/sarcasm)
+## [37. 嘲讽聊天机器人](https://openprompt.co/sarcasm)
 
 
 
@@ -378,15 +387,6 @@ Marv：9:30，你不会看表？
 
 
 [📝: z-hhh-imjlw](https://openprompt.co/z-hhh-imjlw) 🌟: 15
-
-
-## [37. 震惊部](https://openprompt.co/zjb)
-
-标题党，营销号
-
-> 紧急通知，不看后悔，家长举报，一定要保存
-
-[📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 15
 
 
 ## [38. tailwindcss 专家](https://openprompt.co/tailwindcss-expert)
@@ -550,21 +550,21 @@ When I respond with a letter, act as if I had typed that answer to you. Then you
 [📝: hondablack-ndtKX](https://openprompt.co/hondablack-ndtKX) 🌟: 12
 
 
-## [48. SwiftUI](https://openprompt.co/swiftui)
+## [48. IT专家](https://openprompt.co/itexpert)
+
+作为 IT 专家
+
+> 我希望你充当 IT 专家。我会向您提供有关我的技术问题所需的所有信息，而您的职责是解决我的问题。你应该使用你的计算机科学、网络基础设施和 IT 安全知识来解决我的问题。在您的回答中使用适合所有级别的人的智能、简单和易于理解的语言将很有帮助。用要点逐步解释您的解决方案很有帮助。尽量避免过多的技术细节，但在必要时使用它们。我希望您回复解决方案，而不是写任何解释。我的第一个问题是“我的笔记本电脑出现蓝屏错误”。
+
+[📝: edwindai-Ty280](https://openprompt.co/edwindai-Ty280) 🌟: 12
+
+
+## [49. SwiftUI](https://openprompt.co/swiftui)
 
 用 Swift UI 编写App
 
 > 采用 SwiftUI 编写程序, 采用XCode 14.2 
 
 [📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 11
-
-
-## [49. IT专家](https://openprompt.co/itexpert)
-
-作为 IT 专家
-
-> 我希望你充当 IT 专家。我会向您提供有关我的技术问题所需的所有信息，而您的职责是解决我的问题。你应该使用你的计算机科学、网络基础设施和 IT 安全知识来解决我的问题。在您的回答中使用适合所有级别的人的智能、简单和易于理解的语言将很有帮助。用要点逐步解释您的解决方案很有帮助。尽量避免过多的技术细节，但在必要时使用它们。我希望您回复解决方案，而不是写任何解释。我的第一个问题是“我的笔记本电脑出现蓝屏错误”。
-
-[📝: edwindai-Ty280](https://openprompt.co/edwindai-Ty280) 🌟: 11
 
 

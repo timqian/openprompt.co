@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 574
+[📝: tim](https://openprompt.co/tim) 🌟: 577
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -47,7 +47,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 83
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 86
 
 
 ## [5. Midjourney](https://openprompt.co/midjourney)
@@ -62,7 +62,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 81
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 82
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -81,7 +81,7 @@ Refactor my code, to make it more efficient
 > Refactor my code, to make it more efficient and simple
 Reply with code and explanations and further suggestions.
 
-[📝: tim](https://openprompt.co/tim) 🌟: 55
+[📝: tim](https://openprompt.co/tim) 🌟: 56
 
 
 ## [8. 评审代码](https://openprompt.co/codereview)
@@ -90,7 +90,7 @@ Reply with code and explanations and further suggestions.
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 54
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 55
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -120,7 +120,16 @@ Reply with code and explanations and further suggestions.
 [📝: tim](https://openprompt.co/tim) 🌟: 48
 
 
-## [12. 角色扮演](https://openprompt.co/rpg)
+## [12. 论文小助手](https://openprompt.co/论文)
+
+论文小助手
+
+> 假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。
+
+[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 37
+
+
+## [13. 角色扮演](https://openprompt.co/rpg)
 
 比如：我是一个新手巫师，准备冒险
 
@@ -129,22 +138,13 @@ Reply with code and explanations and further suggestions.
 [📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 37
 
 
-## [13. A doctor](https://openprompt.co/a-doctor)
+## [14. A doctor](https://openprompt.co/a-doctor)
 
 Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
 
 > I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
 
 [📝: timqian](https://openprompt.co/timqian) 🌟: 36
-
-
-## [14. 论文小助手](https://openprompt.co/论文)
-
-论文小助手
-
-> 假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。
-
-[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 36
 
 
 ## [15. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
@@ -210,7 +210,25 @@ About C++
 [📝: tonydong321-pFoyH](https://openprompt.co/tonydong321-pFoyH) 🌟: 25
 
 
-## [21. 老胡觉得](https://openprompt.co/huxijin)
+## [21. 翻译润色](https://openprompt.co/translateToEng)
+
+将任意语言翻译成英文；英文纠错及调整语法。
+
+> 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
+
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 25
+
+
+## [22. Travel Planner（旅行规划师）](https://openprompt.co/travel-planner)
+
+Help to plan a trip based on the information you provided（like destination， days，number of people and so on）
+
+> 你是一个旅行规划，你会根据接下来我提供的目的地、人数、行程天数等，帮我制定旅行计划，推荐当地美食，每天的旅程需达到合理，顺路的基本要求，提供每一个地点到地点之间的交通方式和所需耗费的时间
+
+[📝: vivi](https://openprompt.co/vivi) 🌟: 24
+
+
+## [23. 老胡觉得](https://openprompt.co/huxijin)
 
 胡锡进风格言论生成器
 
@@ -221,40 +239,22 @@ About C++
 [📝: etnperlong-DpH7c](https://openprompt.co/etnperlong-DpH7c) 🌟: 24
 
 
-## [22. 翻译润色](https://openprompt.co/translateToEng)
+## [24. 文本降重](https://openprompt.co/jiangchong)
 
-将任意语言翻译成英文；英文纠错及调整语法。
+文本降重
 
-> 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
+> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
 
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 24
-
-
-## [23. Travel Planner（旅行规划师）](https://openprompt.co/travel-planner)
-
-Help to plan a trip based on the information you provided（like destination， days，number of people and so on）
-
-> 你是一个旅行规划，你会根据接下来我提供的目的地、人数、行程天数等，帮我制定旅行计划，推荐当地美食，每天的旅程需达到合理，顺路的基本要求，提供每一个地点到地点之间的交通方式和所需耗费的时间
-
-[📝: vivi](https://openprompt.co/vivi) 🌟: 23
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 23
 
 
-## [24. 邮件周报润色](https://openprompt.co/mailbetter)
+## [25. 邮件周报润色](https://openprompt.co/mailbetter)
 
 邮件周报润色
 
 > 以下是邮件或者周报内容，请帮忙进行梳理润色，看起来更有条理，内容清晰易懂。 请使用Markdown输出。  可以根据邮件内容添加部分补充信息，丰富邮件内容。  
 
 [📝: wangofjian-CGDrb](https://openprompt.co/wangofjian-CGDrb) 🌟: 22
-
-
-## [25. 文本降重](https://openprompt.co/jiangchong)
-
-文本降重
-
-> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
-
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 22
 
 
 ## [26. 网络作家](https://openprompt.co/56)

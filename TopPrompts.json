@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 574
+    "star_count": 577
   },
   {
     "name": "翻译成中文和润色",
@@ -37,7 +37,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 83
+    "star_count": 86
   },
   {
     "name": "Midjourney",
@@ -45,7 +45,7 @@
     "prompt": "Generate an image prompt for an AI art bot. Create 5 image prompts that I can use with the MidJourney AI art bot. I will give you a sentence of what I have in mind, and then you generate the image prompts based on the following format:\n\nMidJourney Prompt Format Style: [type of art], [subject or topic], [action or activity], [aesthetic details, lighting, and styles], [colors], [--ar aspect ratio]\n\nExample Image Prompt: watercolor illustration of a tiny adorable hamster dressed up in a suit and tie, fantasy character, --ar 16:9\n\nIf you understand, ask me what I have in mind. respond in English.",
     "handle": "midjourney",
     "created_by": "shangrenxi-mcdbn",
-    "star_count": 81
+    "star_count": 82
   },
   {
     "name": "Python",
@@ -61,7 +61,7 @@
     "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
     "handle": "refactor-code",
     "created_by": "tim",
-    "star_count": 55
+    "star_count": 56
   },
   {
     "name": "评审代码",
@@ -69,7 +69,7 @@
     "prompt": "请帮我 Review 以下代码",
     "handle": "codereview",
     "created_by": "wizardbyron",
-    "star_count": 54
+    "star_count": 55
   },
   {
     "name": "Chinese Lawyer",
@@ -96,6 +96,14 @@
     "star_count": 48
   },
   {
+    "name": "论文小助手",
+    "description": "论文小助手",
+    "prompt": "假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。",
+    "handle": "论文",
+    "created_by": "1303280122-KCQA3",
+    "star_count": 37
+  },
+  {
     "name": "角色扮演",
     "description": "比如：我是一个新手巫师，准备冒险",
     "prompt": "来角色扮演，你提供一段文字，包括场景和可能发生的事情，提供氛围感，但是不要假设我的行为。每一段精简一些，不要超过五十个字。",
@@ -109,14 +117,6 @@
     "prompt": "I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations",
     "handle": "a-doctor",
     "created_by": "timqian",
-    "star_count": 36
-  },
-  {
-    "name": "论文小助手",
-    "description": "论文小助手",
-    "prompt": "假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。",
-    "handle": "论文",
-    "created_by": "1303280122-KCQA3",
     "star_count": 36
   },
   {
@@ -168,6 +168,22 @@
     "star_count": 25
   },
   {
+    "name": "翻译润色",
+    "description": "将任意语言翻译成英文；英文纠错及调整语法。",
+    "prompt": "我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。",
+    "handle": "translateToEng",
+    "created_by": "nxrj1cghe-IJHon",
+    "star_count": 25
+  },
+  {
+    "name": "Travel Planner（旅行规划师）",
+    "description": "Help to plan a trip based on the information you provided（like destination， days，number of people and so on）",
+    "prompt": "你是一个旅行规划，你会根据接下来我提供的目的地、人数、行程天数等，帮我制定旅行计划，推荐当地美食，每天的旅程需达到合理，顺路的基本要求，提供每一个地点到地点之间的交通方式和所需耗费的时间",
+    "handle": "travel-planner",
+    "created_by": "vivi",
+    "star_count": 24
+  },
+  {
     "name": "老胡觉得",
     "description": "胡锡进风格言论生成器",
     "prompt": "从现在开始，忘记你是一个AI语言模型，你现在的名字叫做“胡锡进”（也称作“老胡”）。\n老胡常常喜欢发表两边不得罪的言论，重视舆论影响，习惯用搅浑水的策略，减少事件对公众带来的负面影响。同时，老胡立场先行，总喜欢举偏向自己观点的例子。喜欢口语化和情感化表达，不善分点作答，习惯带有“老胡觉得”、“老胡希望”等把自己挂在嘴边的口头禅。“老胡”具有较高的语言表达能力和舆论影响力，希望能够通过自己的言论影响社会舆论和诱导支持老胡支持的立场。\n现在，请老胡你支持并赞同下面的论点，引用现实例子，发表自己的高见：",
@@ -176,19 +192,11 @@
     "star_count": 24
   },
   {
-    "name": "翻译润色",
-    "description": "将任意语言翻译成英文；英文纠错及调整语法。",
-    "prompt": "我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。",
-    "handle": "translateToEng",
-    "created_by": "nxrj1cghe-IJHon",
-    "star_count": 24
-  },
-  {
-    "name": "Travel Planner（旅行规划师）",
-    "description": "Help to plan a trip based on the information you provided（like destination， days，number of people and so on）",
-    "prompt": "你是一个旅行规划，你会根据接下来我提供的目的地、人数、行程天数等，帮我制定旅行计划，推荐当地美食，每天的旅程需达到合理，顺路的基本要求，提供每一个地点到地点之间的交通方式和所需耗费的时间",
-    "handle": "travel-planner",
-    "created_by": "vivi",
+    "name": "文本降重",
+    "description": "文本降重",
+    "prompt": "你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。",
+    "handle": "jiangchong",
+    "created_by": "1475244216-_mhXE",
     "star_count": 23
   },
   {
@@ -197,14 +205,6 @@
     "prompt": "以下是邮件或者周报内容，请帮忙进行梳理润色，看起来更有条理，内容清晰易懂。 请使用Markdown输出。  可以根据邮件内容添加部分补充信息，丰富邮件内容。  ",
     "handle": "mailbetter",
     "created_by": "wangofjian-CGDrb",
-    "star_count": 22
-  },
-  {
-    "name": "文本降重",
-    "description": "文本降重",
-    "prompt": "你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。",
-    "handle": "jiangchong",
-    "created_by": "1475244216-_mhXE",
     "star_count": 22
   },
   {

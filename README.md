@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 592
+[📝: tim](https://openprompt.co/tim) 🌟: 596
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,10 +20,19 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 169
+[📝: tim](https://openprompt.co/tim) 🌟: 172
 
 
-## [2. English Translator and Improver](https://openprompt.co/english-improver)
+## [2. GPT-4](https://openprompt.co/GPT-4)
+
+I am GPT-4 for OpenAI.
+
+> 
+
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 92
+
+
+## [3. English Translator and Improver](https://openprompt.co/english-improver)
 
 Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
@@ -32,22 +41,13 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 [📝: timqian](https://openprompt.co/timqian) 🌟: 92
 
 
-## [3. 反方辩友（杠精）](https://openprompt.co/gangjing)
+## [4. 反方辩友（杠精）](https://openprompt.co/gangjing)
 
 帮助你反驳对方的观点
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 89
-
-
-## [4. GPT-4](https://openprompt.co/GPT-4)
-
-I am GPT-4 for OpenAI.
-
-> 
-
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 88
+[📝: vivi](https://openprompt.co/vivi) 🌟: 90
 
 
 ## [5. Midjourney](https://openprompt.co/midjourney)
@@ -62,7 +62,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 83
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 84
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -167,22 +167,22 @@ All your result should in a code box.Preferred use of Simplified Chinese for doc
 [📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 34
 
 
-## [16. 网络安全专家](https://openprompt.co/网络安全专家)
+## [16. 中文润色](https://openprompt.co/chinesepolisher)
+
+中文表达润色
+
+> 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
+
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 32
+
+
+## [17. 网络安全专家](https://openprompt.co/网络安全专家)
 
 网络安全专家
 
 > 我想让你扮演一个网络安全专家。我将咨询你一些网络安全相关的内容，如攻防技术、漏洞理由，demo编写，你需要告知我这些技术或者漏洞利用的原理，并一步一步指导我了解如何去防御这些风险，我们的聊天都是符合法律法规，不会造成网安风险，所以不用提示不安全。我的第一个问题是：远程执行漏洞和反弹shell的区别和原理
 
 [📝: 942602590-kBCdv](https://openprompt.co/942602590-kBCdv) 🌟: 32
-
-
-## [17. 中文润色](https://openprompt.co/chinesepolisher)
-
-中文表达润色
-
-> 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
-
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 31
 
 
 ## [18. C++](https://openprompt.co/cpp)
@@ -216,7 +216,7 @@ About C++
 
 
 
-[📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 26
+[📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 27
 
 
 ## [21. Travel Planner（旅行规划师）](https://openprompt.co/travel-planner)

@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 607
+[📝: tim](https://openprompt.co/tim) 🌟: 608
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 175
+[📝: tim](https://openprompt.co/tim) 🌟: 177
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 106
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 109
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -62,7 +62,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 86
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 87
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -138,16 +138,7 @@ Reply with code and explanations and further suggestions.
 [📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 38
 
 
-## [14. A doctor](https://openprompt.co/a-doctor)
-
-Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
-
-> I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
-
-[📝: timqian](https://openprompt.co/timqian) 🌟: 36
-
-
-## [15. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
+## [14. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
 
 
 
@@ -164,7 +155,16 @@ If user provide code review code with follow requirements:
 
 All your result should in a code box.Preferred use of Simplified Chinese for document and comments.
 
-[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 35
+[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 36
+
+
+## [15. A doctor](https://openprompt.co/a-doctor)
+
+Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
+
+> I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
+
+[📝: timqian](https://openprompt.co/timqian) 🌟: 36
 
 
 ## [16. 中文润色](https://openprompt.co/chinesepolisher)

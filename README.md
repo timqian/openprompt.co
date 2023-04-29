@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 608
+[📝: tim](https://openprompt.co/tim) 🌟: 611
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 177
+[📝: tim](https://openprompt.co/tim) 🌟: 179
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 109
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 111
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -62,7 +62,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 87
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 88
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -219,7 +219,16 @@ About C++
 [📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 28
 
 
-## [21. Travel Planner（旅行规划师）](https://openprompt.co/travel-planner)
+## [21. 苏格拉底式回答](https://openprompt.co/Socrates)
+
+假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？
+
+> 假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？
+
+[📝: tonydong321-pFoyH](https://openprompt.co/tonydong321-pFoyH) 🌟: 26
+
+
+## [22. Travel Planner（旅行规划师）](https://openprompt.co/travel-planner)
 
 Help to plan a trip based on the information you provided（like destination， days，number of people and so on）
 
@@ -228,7 +237,7 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: vivi](https://openprompt.co/vivi) 🌟: 25
 
 
-## [22. 老胡觉得](https://openprompt.co/huxijin)
+## [23. 老胡觉得](https://openprompt.co/huxijin)
 
 胡锡进风格言论生成器
 
@@ -237,15 +246,6 @@ Help to plan a trip based on the information you provided（like destination， 
 现在，请老胡你支持并赞同下面的论点，引用现实例子，发表自己的高见：
 
 [📝: etnperlong-DpH7c](https://openprompt.co/etnperlong-DpH7c) 🌟: 25
-
-
-## [23. 苏格拉底式回答](https://openprompt.co/Socrates)
-
-假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？
-
-> 假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？
-
-[📝: tonydong321-pFoyH](https://openprompt.co/tonydong321-pFoyH) 🌟: 25
 
 
 ## [24. 文本降重](https://openprompt.co/jiangchong)

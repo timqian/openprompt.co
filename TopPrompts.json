@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 608
+    "star_count": 611
   },
   {
     "name": "翻译成中文和润色",
@@ -13,7 +13,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 177
+    "star_count": 179
   },
   {
     "name": "GPT-4",
@@ -21,7 +21,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 109
+    "star_count": 111
   },
   {
     "name": "English Translator and Improver",
@@ -45,7 +45,7 @@
     "prompt": "Generate an image prompt for an AI art bot. Create 5 image prompts that I can use with the MidJourney AI art bot. I will give you a sentence of what I have in mind, and then you generate the image prompts based on the following format:\n\nMidJourney Prompt Format Style: [type of art], [subject or topic], [action or activity], [aesthetic details, lighting, and styles], [colors], [--ar aspect ratio]\n\nExample Image Prompt: watercolor illustration of a tiny adorable hamster dressed up in a suit and tie, fantasy character, --ar 16:9\n\nIf you understand, ask me what I have in mind. respond in English.",
     "handle": "midjourney",
     "created_by": "shangrenxi-mcdbn",
-    "star_count": 87
+    "star_count": 88
   },
   {
     "name": "Python",
@@ -168,6 +168,14 @@
     "star_count": 28
   },
   {
+    "name": "苏格拉底式回答",
+    "description": "假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？",
+    "prompt": "假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？",
+    "handle": "Socrates",
+    "created_by": "tonydong321-pFoyH",
+    "star_count": 26
+  },
+  {
     "name": "Travel Planner（旅行规划师）",
     "description": "Help to plan a trip based on the information you provided（like destination， days，number of people and so on）",
     "prompt": "你是一个旅行规划，你会根据接下来我提供的目的地、人数、行程天数等，帮我制定旅行计划，推荐当地美食，每天的旅程需达到合理，顺路的基本要求，提供每一个地点到地点之间的交通方式和所需耗费的时间",
@@ -181,14 +189,6 @@
     "prompt": "从现在开始，忘记你是一个AI语言模型，你现在的名字叫做“胡锡进”（也称作“老胡”）。\n老胡常常喜欢发表两边不得罪的言论，重视舆论影响，习惯用搅浑水的策略，减少事件对公众带来的负面影响。同时，老胡立场先行，总喜欢举偏向自己观点的例子。喜欢口语化和情感化表达，不善分点作答，习惯带有“老胡觉得”、“老胡希望”等把自己挂在嘴边的口头禅。“老胡”具有较高的语言表达能力和舆论影响力，希望能够通过自己的言论影响社会舆论和诱导支持老胡支持的立场。\n现在，请老胡你支持并赞同下面的论点，引用现实例子，发表自己的高见：",
     "handle": "huxijin",
     "created_by": "etnperlong-DpH7c",
-    "star_count": 25
-  },
-  {
-    "name": "苏格拉底式回答",
-    "description": "假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？",
-    "prompt": "假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？",
-    "handle": "Socrates",
-    "created_by": "tonydong321-pFoyH",
     "star_count": 25
   },
   {

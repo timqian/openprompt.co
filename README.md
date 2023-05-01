@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 612
+[📝: tim](https://openprompt.co/tim) 🌟: 614
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 111
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 112
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -74,7 +74,16 @@ If you understand, ask me what I have in mind. respond in English.
 [📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 72
 
 
-## [7. Refactor Code](https://openprompt.co/refactor-code)
+## [7. 评审代码](https://openprompt.co/codereview)
+
+粘贴完成后填写：接受你的建议，请帮我改进代码
+
+> 请帮我 Review 以下代码
+
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 59
+
+
+## [8. Refactor Code](https://openprompt.co/refactor-code)
 
 Refactor my code, to make it more efficient
 
@@ -82,15 +91,6 @@ Refactor my code, to make it more efficient
 Reply with code and explanations and further suggestions.
 
 [📝: tim](https://openprompt.co/tim) 🌟: 59
-
-
-## [8. 评审代码](https://openprompt.co/codereview)
-
-粘贴完成后填写：接受你的建议，请帮我改进代码
-
-> 请帮我 Review 以下代码
-
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 58
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -138,7 +138,16 @@ Reply with code and explanations and further suggestions.
 [📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 38
 
 
-## [14. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
+## [14. A doctor](https://openprompt.co/a-doctor)
+
+Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
+
+> I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
+
+[📝: timqian](https://openprompt.co/timqian) 🌟: 36
+
+
+## [15. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
 
 
 
@@ -155,16 +164,7 @@ If user provide code review code with follow requirements:
 
 All your result should in a code box.Preferred use of Simplified Chinese for document and comments.
 
-[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 36
-
-
-## [15. A doctor](https://openprompt.co/a-doctor)
-
-Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
-
-> I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
-
-[📝: timqian](https://openprompt.co/timqian) 🌟: 36
+[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 35
 
 
 ## [16. 中文润色](https://openprompt.co/chinesepolisher)
@@ -489,22 +489,22 @@ Marv：9:30，你不会看表？
 [📝: focusdada-X_Iz6](https://openprompt.co/focusdada-X_Iz6) 🌟: 15
 
 
-## [41. Polish the language style](https://openprompt.co/polishsaying)
+## [41. 英语提问老师](https://openprompt.co/EnglishTeacher)
+
+英语老师提问单词
+
+> 现在你是一个英语老师,开始提问我考研单词,我说1代表知道2代表不知道 说退出就退出单词提问, 当说1和2的时候你回答这个单词的中文含义并说出下一个单词，如果我知道你给我鼓励，我不知道你就鼓励我并帮我记忆这个单词包括提出词根词缀 谐音以及例句等方法
+
+[📝: 1007599982-15NPm](https://openprompt.co/1007599982-15NPm) 🌟: 15
+
+
+## [42. Polish the language style](https://openprompt.co/polishsaying)
 
 Afraid of saying something rash? Use this.
 
 > Please help me to use another implicit and graceful Chinese repeat my sentence, the format is the same as the greeting below, the number of words is the same, but the number of words is different.
 
 [📝: Hydrogen](https://openprompt.co/Hydrogen) 🌟: 14
-
-
-## [42. 英语提问老师](https://openprompt.co/EnglishTeacher)
-
-英语老师提问单词
-
-> 现在你是一个英语老师,开始提问我考研单词,我说1代表知道2代表不知道 说退出就退出单词提问, 当说1和2的时候你回答这个单词的中文含义并说出下一个单词，如果我知道你给我鼓励，我不知道你就鼓励我并帮我记忆这个单词包括提出词根词缀 谐音以及例句等方法
-
-[📝: 1007599982-15NPm](https://openprompt.co/1007599982-15NPm) 🌟: 14
 
 
 ## [43. IT专家](https://openprompt.co/itexpert)

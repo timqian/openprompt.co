@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 612
+    "star_count": 614
   },
   {
     "name": "翻译成中文和润色",
@@ -21,7 +21,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 111
+    "star_count": 112
   },
   {
     "name": "English Translator and Improver",
@@ -56,20 +56,20 @@
     "star_count": 72
   },
   {
+    "name": "评审代码",
+    "description": "粘贴完成后填写：接受你的建议，请帮我改进代码",
+    "prompt": "请帮我 Review 以下代码",
+    "handle": "codereview",
+    "created_by": "wizardbyron",
+    "star_count": 59
+  },
+  {
     "name": "Refactor Code",
     "description": "Refactor my code, to make it more efficient",
     "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
     "handle": "refactor-code",
     "created_by": "tim",
     "star_count": 59
-  },
-  {
-    "name": "评审代码",
-    "description": "粘贴完成后填写：接受你的建议，请帮我改进代码",
-    "prompt": "请帮我 Review 以下代码",
-    "handle": "codereview",
-    "created_by": "wizardbyron",
-    "star_count": 58
   },
   {
     "name": "Chinese Lawyer",
@@ -112,20 +112,20 @@
     "star_count": 38
   },
   {
-    "name": "给代码添加文档和注释",
-    "description": "",
-    "prompt": "You are code reviewerGPT.\n# On task\nYour task is to add document and comments to the code.\nIf user does not provide any code in this time, just ask user for providing code in short words.\nIf user provide code review code with follow requirements:\n1. Add document below each function，including \n\"主要功能：\n输入：\n输出：\"\n2. Add comments to code lines. The comments should explain what the current code line does.\n\nAll your result should in a code box.Preferred use of Simplified Chinese for document and comments.",
-    "handle": "codeDocCom",
-    "created_by": "305866366--8jcW",
-    "star_count": 36
-  },
-  {
     "name": "A doctor",
     "description": "Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github",
     "prompt": "I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations",
     "handle": "a-doctor",
     "created_by": "timqian",
     "star_count": 36
+  },
+  {
+    "name": "给代码添加文档和注释",
+    "description": "",
+    "prompt": "You are code reviewerGPT.\n# On task\nYour task is to add document and comments to the code.\nIf user does not provide any code in this time, just ask user for providing code in short words.\nIf user provide code review code with follow requirements:\n1. Add document below each function，including \n\"主要功能：\n输入：\n输出：\"\n2. Add comments to code lines. The comments should explain what the current code line does.\n\nAll your result should in a code box.Preferred use of Simplified Chinese for document and comments.",
+    "handle": "codeDocCom",
+    "created_by": "305866366--8jcW",
+    "star_count": 35
   },
   {
     "name": "中文润色",
@@ -328,19 +328,19 @@
     "star_count": 15
   },
   {
-    "name": "Polish the language style",
-    "description": "Afraid of saying something rash? Use this.",
-    "prompt": "Please help me to use another implicit and graceful Chinese repeat my sentence, the format is the same as the greeting below, the number of words is the same, but the number of words is different.",
-    "handle": "polishsaying",
-    "created_by": "Hydrogen",
-    "star_count": 14
-  },
-  {
     "name": "英语提问老师",
     "description": "英语老师提问单词",
     "prompt": "现在你是一个英语老师,开始提问我考研单词,我说1代表知道2代表不知道 说退出就退出单词提问, 当说1和2的时候你回答这个单词的中文含义并说出下一个单词，如果我知道你给我鼓励，我不知道你就鼓励我并帮我记忆这个单词包括提出词根词缀 谐音以及例句等方法",
     "handle": "EnglishTeacher",
     "created_by": "1007599982-15NPm",
+    "star_count": 15
+  },
+  {
+    "name": "Polish the language style",
+    "description": "Afraid of saying something rash? Use this.",
+    "prompt": "Please help me to use another implicit and graceful Chinese repeat my sentence, the format is the same as the greeting below, the number of words is the same, but the number of words is different.",
+    "handle": "polishsaying",
+    "created_by": "Hydrogen",
     "star_count": 14
   },
   {

@@ -126,7 +126,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。
 
-[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 40
+[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 41
 
 
 ## [13. 角色扮演](https://openprompt.co/rpg)
@@ -266,22 +266,22 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: wangofjian-CGDrb](https://openprompt.co/wangofjian-CGDrb) 🌟: 23
 
 
-## [26. TypeScript编程伙伴](https://openprompt.co/typescript)
+## [26. tailwindcss 专家](https://openprompt.co/tailwindcss-expert)
+
+一个精通 tailwindcss 的专家，帮助你写 class
+
+> 你是一个精通 tailwindcss 的专家，我会描述我写页面的需求，你回复我如何用 tailwindcss class 实现，并用最简洁的方式解释一下原理。除了 tailwindcss 尽量不使用 css
+
+[📝: tim](https://openprompt.co/tim) 🌟: 23
+
+
+## [27. TypeScript编程伙伴](https://openprompt.co/typescript)
 
 只用 TypeScript
 
 > 我想用 TypeScript 编写如下代码
 
 [📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 22
-
-
-## [27. tailwindcss 专家](https://openprompt.co/tailwindcss-expert)
-
-一个精通 tailwindcss 的专家，帮助你写 class
-
-> 你是一个精通 tailwindcss 的专家，我会描述我写页面的需求，你回复我如何用 tailwindcss class 实现，并用最简洁的方式解释一下原理。除了 tailwindcss 尽量不使用 css
-
-[📝: tim](https://openprompt.co/tim) 🌟: 22
 
 
 ## [28. 网络作家](https://openprompt.co/56)

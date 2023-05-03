@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 614
+[📝: tim](https://openprompt.co/tim) 🌟: 615
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -310,7 +310,7 @@ Help to plan a trip based on the information you provided（like destination， 
 > 请你充当一名画家，接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API，遵循以下的格式:
 https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。
 
-[📝: h7ml](https://openprompt.co/h7ml) 🌟: 20
+[📝: h7ml](https://openprompt.co/h7ml) 🌟: 21
 
 
 ## [31. 起名字](https://openprompt.co/life)

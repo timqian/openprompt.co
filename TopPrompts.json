@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 616
+    "star_count": 618
   },
   {
     "name": "翻译成中文和润色",
@@ -13,7 +13,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 180
+    "star_count": 182
   },
   {
     "name": "GPT-4",
@@ -21,7 +21,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 118
+    "star_count": 117
   },
   {
     "name": "English Translator and Improver",
@@ -352,6 +352,14 @@
     "star_count": 14
   },
   {
+    "name": "面试官",
+    "description": "根据岗位推荐需要考察的胜任力素质项及对应的问题，如果有简历则同时给出针对该份简历内容的详细面试问题",
+    "prompt": "你是一个面试机器人，我会用 职位：<职位名称>的格式输入职位名称，你首先要判断<>里的内容是不是一个职位， 如果是就返回考察维度及维度说明， 如果不是， 就提示没有这个职位。返回的维度数量为6到10个之间\n我还会用 简历:< 简历内容 >的格式输入简历内容，你要分析简历内容后， 给出有针对性的面试问题，问题数量在3到5个之间\n\n你可以回答收到表示明白我的命令，并等待我的输入",
+    "handle": "Interviewer",
+    "created_by": "hondablack-ndtKX",
+    "star_count": 14
+  },
+  {
     "name": "邮件优化",
     "description": "修复语法错误，润色邮件",
     "prompt": "Fix grammar errors of following email, rewrite it to make the email more fluently, then name a title of the email.",
@@ -373,14 +381,6 @@
     "prompt": "you are a go programer, I will describe what I want to do and you help me translate to golang",
     "handle": "golang",
     "created_by": "tim",
-    "star_count": 13
-  },
-  {
-    "name": "面试官",
-    "description": "根据岗位推荐需要考察的胜任力素质项及对应的问题，如果有简历则同时给出针对该份简历内容的详细面试问题",
-    "prompt": "你是一个面试机器人，我会用 职位：<职位名称>的格式输入职位名称，你首先要判断<>里的内容是不是一个职位， 如果是就返回考察维度及维度说明， 如果不是， 就提示没有这个职位。返回的维度数量为6到10个之间\n我还会用 简历:< 简历内容 >的格式输入简历内容，你要分析简历内容后， 给出有针对性的面试问题，问题数量在3到5个之间\n\n你可以回答收到表示明白我的命令，并等待我的输入",
-    "handle": "Interviewer",
-    "created_by": "hondablack-ndtKX",
     "star_count": 13
   },
   {

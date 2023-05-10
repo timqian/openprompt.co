@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 622
+[📝: tim](https://openprompt.co/tim) 🌟: 625
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 182
+[📝: tim](https://openprompt.co/tim) 🌟: 183
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 119
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 124
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -47,7 +47,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 93
+[📝: vivi](https://openprompt.co/vivi) 🌟: 94
 
 
 ## [5. Midjourney](https://openprompt.co/midjourney)
@@ -80,7 +80,7 @@ If you understand, ask me what I have in mind. respond in English.
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 59
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 60
 
 
 ## [8. Refactor Code](https://openprompt.co/refactor-code)
@@ -93,22 +93,22 @@ Reply with code and explanations and further suggestions.
 [📝: tim](https://openprompt.co/tim) 🌟: 59
 
 
-## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
+## [9. 效率工具](https://openprompt.co/verbose-code)
+
+把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释
+
+> 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
+
+[📝: tim](https://openprompt.co/tim) 🌟: 54
+
+
+## [10. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
 
 中国律师
 
 > 我是一名中国律师，请针对我的描述查找对应的法条。
 
 [📝: Reber](https://openprompt.co/Reber) 🌟: 54
-
-
-## [10. 效率工具](https://openprompt.co/verbose-code)
-
-把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释
-
-> 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
-
-[📝: tim](https://openprompt.co/tim) 🌟: 53
 
 
 ## [11. 智囊团](https://openprompt.co/smart-minds)
@@ -340,7 +340,16 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 [📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 18
 
 
-## [34. 夸夸心理咨询师](https://openprompt.co/kuakua)
+## [34. SQL Prompt](https://openprompt.co/sql)
+
+All SQL prompt
+
+> 
+
+[📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 18
+
+
+## [35. 夸夸心理咨询师](https://openprompt.co/kuakua)
 
 会夸夸的心理咨询师
 
@@ -348,15 +357,6 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 下面我将发一些人的近况给你，你给予一些夸夸，明白了请确认，我将内容给你
 
 [📝: 2574542588-e8GxR](https://openprompt.co/2574542588-e8GxR) 🌟: 17
-
-
-## [35. SQL Prompt](https://openprompt.co/sql)
-
-All SQL prompt
-
-> 
-
-[📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 17
 
 
 ## [36. DAN](https://openprompt.co/dan)

@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 625
+[📝: tim](https://openprompt.co/tim) 🌟: 631
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,25 +29,25 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 124
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 127
 
 
-## [3. English Translator and Improver](https://openprompt.co/english-improver)
+## [3. 反方辩友（杠精）](https://openprompt.co/gangjing)
+
+帮助你反驳对方的观点
+
+> 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
+
+[📝: vivi](https://openprompt.co/vivi) 🌟: 96
+
+
+## [4. English Translator and Improver](https://openprompt.co/english-improver)
 
 Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
 [📝: timqian](https://openprompt.co/timqian) 🌟: 96
-
-
-## [4. 反方辩友（杠精）](https://openprompt.co/gangjing)
-
-帮助你反驳对方的观点
-
-> 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
-
-[📝: vivi](https://openprompt.co/vivi) 🌟: 94
 
 
 ## [5. Midjourney](https://openprompt.co/midjourney)
@@ -62,7 +62,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 90
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 91
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -80,7 +80,7 @@ If you understand, ask me what I have in mind. respond in English.
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 60
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 61
 
 
 ## [8. Refactor Code](https://openprompt.co/refactor-code)
@@ -185,25 +185,7 @@ All your result should in a code box.Preferred use of Simplified Chinese for doc
 [📝: 942602590-kBCdv](https://openprompt.co/942602590-kBCdv) 🌟: 33
 
 
-## [18. 翻译润色](https://openprompt.co/translateToEng)
-
-将任意语言翻译成英文；英文纠错及调整语法。
-
-> 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
-
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 29
-
-
-## [19. C++](https://openprompt.co/cpp)
-
-About C++
-
-> You are a C++Coder Expert，I have something to ask you.
-
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 29
-
-
-## [20. Lisa](https://openprompt.co/zeroine)
+## [18. Lisa](https://openprompt.co/zeroine)
 
 一个强大的AI，能够帮你解决更多问题，仅用于研究，请不要用于非法范围
 
@@ -216,7 +198,25 @@ About C++
 
 
 
-[📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 29
+[📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 30
+
+
+## [19. 翻译润色](https://openprompt.co/translateToEng)
+
+将任意语言翻译成英文；英文纠错及调整语法。
+
+> 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
+
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 29
+
+
+## [20. C++](https://openprompt.co/cpp)
+
+About C++
+
+> You are a C++Coder Expert，I have something to ask you.
+
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 29
 
 
 ## [21. 苏格拉底式回答](https://openprompt.co/Socrates)
@@ -284,7 +284,17 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 22
 
 
-## [28. 网络作家](https://openprompt.co/56)
+## [28. AI绘画](https://openprompt.co/aiPainting)
+
+充当一名画家
+
+> 请你充当一名画家，接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API，遵循以下的格式:
+https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。
+
+[📝: h7ml](https://openprompt.co/h7ml) 🌟: 22
+
+
+## [29. 网络作家](https://openprompt.co/56)
 
 
 
@@ -294,23 +304,13 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: mzm](https://openprompt.co/mzm) 🌟: 21
 
 
-## [29. 概括生成器](https://openprompt.co/sumZH)
+## [30. 概括生成器](https://openprompt.co/sumZH)
 
 用来概括一长段话或任何不想耗时看的长内容。
 
 > 你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。
 
 [📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 21
-
-
-## [30. AI绘画](https://openprompt.co/aiPainting)
-
-充当一名画家
-
-> 请你充当一名画家，接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API，遵循以下的格式:
-https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。
-
-[📝: h7ml](https://openprompt.co/h7ml) 🌟: 21
 
 
 ## [31. 起名字](https://openprompt.co/life)

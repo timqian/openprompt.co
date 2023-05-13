@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 632
+[📝: tim](https://openprompt.co/tim) 🌟: 634
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -62,7 +62,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 91
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 92
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -93,22 +93,22 @@ Reply with code and explanations and further suggestions.
 [📝: tim](https://openprompt.co/tim) 🌟: 59
 
 
-## [9. 效率工具](https://openprompt.co/verbose-code)
+## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
+
+中国律师
+
+> 我是一名中国律师，请针对我的描述查找对应的法条。
+
+[📝: Reber](https://openprompt.co/Reber) 🌟: 55
+
+
+## [10. 效率工具](https://openprompt.co/verbose-code)
 
 把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释
 
 > 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
 
 [📝: tim](https://openprompt.co/tim) 🌟: 54
-
-
-## [10. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
-
-中国律师
-
-> 我是一名中国律师，请针对我的描述查找对应的法条。
-
-[📝: Reber](https://openprompt.co/Reber) 🌟: 54
 
 
 ## [11. 智囊团](https://openprompt.co/smart-minds)
@@ -284,7 +284,17 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: tim](https://openprompt.co/tim) 🌟: 23
 
 
-## [28. AI绘画](https://openprompt.co/aiPainting)
+## [28. 网络作家](https://openprompt.co/56)
+
+
+
+> 假如你是一名中国畅销网络作家，涉猎广泛，文笔细腻，善以细节动人心；
+同时你是也是韩国著名影视剧编剧，创意丰富，能提出新颖有趣的故事情节和角色设定，能够合理安排故事情节的顺序和展开方式，使得故事有逻辑性和连贯性，能够用简洁、准确的语言表达故事，让观众易于理解和接受，能够塑造出有深度、有个性的角色，让观众产生共鸣和情感投入，能够通过剧情设置和冲突安排，让故事保持紧张、悬疑或有趣的节奏感，能够通过故事的叙述和表达，传递出一定的文化意义和价值观。
+
+[📝: mzm](https://openprompt.co/mzm) 🌟: 22
+
+
+## [29. AI绘画](https://openprompt.co/aiPainting)
 
 充当一名画家
 
@@ -292,16 +302,6 @@ Help to plan a trip based on the information you provided（like destination， 
 https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。
 
 [📝: h7ml](https://openprompt.co/h7ml) 🌟: 22
-
-
-## [29. 网络作家](https://openprompt.co/56)
-
-
-
-> 假如你是一名中国畅销网络作家，涉猎广泛，文笔细腻，善以细节动人心；
-同时你是也是韩国著名影视剧编剧，创意丰富，能提出新颖有趣的故事情节和角色设定，能够合理安排故事情节的顺序和展开方式，使得故事有逻辑性和连贯性，能够用简洁、准确的语言表达故事，让观众易于理解和接受，能够塑造出有深度、有个性的角色，让观众产生共鸣和情感投入，能够通过剧情设置和冲突安排，让故事保持紧张、悬疑或有趣的节奏感，能够通过故事的叙述和表达，传递出一定的文化意义和价值观。
-
-[📝: mzm](https://openprompt.co/mzm) 🌟: 21
 
 
 ## [30. 概括生成器](https://openprompt.co/sumZH)

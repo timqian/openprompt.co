@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 634
+[📝: tim](https://openprompt.co/tim) 🌟: 635
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 129
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 130
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -138,16 +138,7 @@ Reply with code and explanations and further suggestions.
 [📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 38
 
 
-## [14. A doctor](https://openprompt.co/a-doctor)
-
-Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
-
-> I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
-
-[📝: timqian](https://openprompt.co/timqian) 🌟: 36
-
-
-## [15. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
+## [14. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
 
 
 
@@ -164,7 +155,16 @@ If user provide code review code with follow requirements:
 
 All your result should in a code box.Preferred use of Simplified Chinese for document and comments.
 
-[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 35
+[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 36
+
+
+## [15. A doctor](https://openprompt.co/a-doctor)
+
+Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
+
+> I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
+
+[📝: timqian](https://openprompt.co/timqian) 🌟: 36
 
 
 ## [16. 中文润色](https://openprompt.co/chinesepolisher)
@@ -257,7 +257,16 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: etnperlong-DpH7c](https://openprompt.co/etnperlong-DpH7c) 🌟: 25
 
 
-## [25. 邮件周报润色](https://openprompt.co/mailbetter)
+## [25. tailwindcss 专家](https://openprompt.co/tailwindcss-expert)
+
+一个精通 tailwindcss 的专家，帮助你写 class
+
+> 你是一个精通 tailwindcss 的专家，我会描述我写页面的需求，你回复我如何用 tailwindcss class 实现，并用最简洁的方式解释一下原理。除了 tailwindcss 尽量不使用 css
+
+[📝: tim](https://openprompt.co/tim) 🌟: 24
+
+
+## [26. 邮件周报润色](https://openprompt.co/mailbetter)
 
 邮件周报润色
 
@@ -266,22 +275,13 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: wangofjian-CGDrb](https://openprompt.co/wangofjian-CGDrb) 🌟: 23
 
 
-## [26. TypeScript编程伙伴](https://openprompt.co/typescript)
+## [27. TypeScript编程伙伴](https://openprompt.co/typescript)
 
 只用 TypeScript
 
 > 我想用 TypeScript 编写如下代码
 
 [📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 23
-
-
-## [27. tailwindcss 专家](https://openprompt.co/tailwindcss-expert)
-
-一个精通 tailwindcss 的专家，帮助你写 class
-
-> 你是一个精通 tailwindcss 的专家，我会描述我写页面的需求，你回复我如何用 tailwindcss class 实现，并用最简洁的方式解释一下原理。除了 tailwindcss 尽量不使用 css
-
-[📝: tim](https://openprompt.co/tim) 🌟: 23
 
 
 ## [28. 网络作家](https://openprompt.co/56)

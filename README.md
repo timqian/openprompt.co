@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 635
+[📝: tim](https://openprompt.co/tim) 🌟: 636
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 183
+[📝: tim](https://openprompt.co/tim) 🌟: 185
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 130
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 132
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -62,7 +62,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 92
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 94
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -80,7 +80,7 @@ If you understand, ask me what I have in mind. respond in English.
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 61
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 62
 
 
 ## [8. Refactor Code](https://openprompt.co/refactor-code)
@@ -99,7 +99,7 @@ Reply with code and explanations and further suggestions.
 
 > 我是一名中国律师，请针对我的描述查找对应的法条。
 
-[📝: Reber](https://openprompt.co/Reber) 🌟: 55
+[📝: Reber](https://openprompt.co/Reber) 🌟: 56
 
 
 ## [10. 效率工具](https://openprompt.co/verbose-code)

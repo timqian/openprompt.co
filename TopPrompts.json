@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 636
+    "star_count": 637
   },
   {
     "name": "翻译成中文和润色",
@@ -13,7 +13,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 185
+    "star_count": 186
   },
   {
     "name": "GPT-4",
@@ -21,7 +21,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 132
+    "star_count": 134
   },
   {
     "name": "English Translator and Improver",
@@ -93,7 +93,7 @@
     "prompt": "假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？",
     "handle": "smart-minds",
     "created_by": "tim",
-    "star_count": 50
+    "star_count": 51
   },
   {
     "name": "论文小助手",

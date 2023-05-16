@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 636
+[📝: tim](https://openprompt.co/tim) 🌟: 637
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 185
+[📝: tim](https://openprompt.co/tim) 🌟: 186
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 132
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 134
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -117,7 +117,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？
 
-[📝: tim](https://openprompt.co/tim) 🌟: 50
+[📝: tim](https://openprompt.co/tim) 🌟: 51
 
 
 ## [12. 论文小助手](https://openprompt.co/论文)

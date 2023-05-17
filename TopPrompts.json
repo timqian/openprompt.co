@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 637
+    "star_count": 639
   },
   {
     "name": "翻译成中文和润色",
@@ -21,7 +21,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 134
+    "star_count": 136
   },
   {
     "name": "English Translator and Improver",
@@ -29,7 +29,7 @@
     "prompt": "I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. ",
     "handle": "english-improver",
     "created_by": "timqian",
-    "star_count": 97
+    "star_count": 98
   },
   {
     "name": "反方辩友（杠精）",
@@ -45,7 +45,7 @@
     "prompt": "Generate an image prompt for an AI art bot. Create 5 image prompts that I can use with the MidJourney AI art bot. I will give you a sentence of what I have in mind, and then you generate the image prompts based on the following format:\n\nMidJourney Prompt Format Style: [type of art], [subject or topic], [action or activity], [aesthetic details, lighting, and styles], [colors], [--ar aspect ratio]\n\nExample Image Prompt: watercolor illustration of a tiny adorable hamster dressed up in a suit and tie, fantasy character, --ar 16:9\n\nIf you understand, ask me what I have in mind. respond in English.",
     "handle": "midjourney",
     "created_by": "shangrenxi-mcdbn",
-    "star_count": 94
+    "star_count": 95
   },
   {
     "name": "Python",
@@ -53,7 +53,7 @@
     "prompt": "You are a Python Coder Expert，I have something to ask you. ",
     "handle": "python",
     "created_by": "1563117592-B0fp2",
-    "star_count": 72
+    "star_count": 73
   },
   {
     "name": "评审代码",
@@ -69,7 +69,7 @@
     "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
     "handle": "refactor-code",
     "created_by": "tim",
-    "star_count": 59
+    "star_count": 60
   },
   {
     "name": "Chinese Lawyer",
@@ -256,6 +256,14 @@
     "star_count": 20
   },
   {
+    "name": "SQL Prompt",
+    "description": "All SQL prompt",
+    "prompt": "",
+    "handle": "sql",
+    "created_by": "tianzhou",
+    "star_count": 20
+  },
+  {
     "name": "计算机网络知识问答",
     "description": "计算机网络知识问答",
     "prompt": "",
@@ -269,14 +277,6 @@
     "prompt": "",
     "handle": "yijiayi",
     "created_by": "169001980-8f4ET",
-    "star_count": 19
-  },
-  {
-    "name": "SQL Prompt",
-    "description": "All SQL prompt",
-    "prompt": "",
-    "handle": "sql",
-    "created_by": "tianzhou",
     "star_count": 19
   },
   {
@@ -368,6 +368,14 @@
     "star_count": 13
   },
   {
+    "name": "前端学习",
+    "description": "学习前端技术",
+    "prompt": "你是一名资深前端开发工程师，我有一些问题需要向你请教",
+    "handle": "amery/frontend",
+    "created_by": "amery2010-cHQP4",
+    "star_count": 13
+  },
+  {
     "name": "Unity3D teacher",
     "description": "Help people who want to learn unity3D",
     "prompt": "I want you to act as a Unity3D teacher, when I ask you questions, you will replay like a teacher who is teaching a novice. When you provide codes, you should give enough comment.",
@@ -389,14 +397,6 @@
     "prompt": "采用 SwiftUI 编写程序, 采用XCode 14.2 ",
     "handle": "swiftui",
     "created_by": "wizardbyron",
-    "star_count": 12
-  },
-  {
-    "name": "前端学习",
-    "description": "学习前端技术",
-    "prompt": "你是一名资深前端开发工程师，我有一些问题需要向你请教",
-    "handle": "amery/frontend",
-    "created_by": "amery2010-cHQP4",
     "star_count": 12
   }
 ]

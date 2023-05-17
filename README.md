@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 637
+[📝: tim](https://openprompt.co/tim) 🌟: 639
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 134
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 136
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -38,7 +38,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 97
+[📝: timqian](https://openprompt.co/timqian) 🌟: 98
 
 
 ## [4. 反方辩友（杠精）](https://openprompt.co/gangjing)
@@ -62,7 +62,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 94
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 95
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -71,7 +71,7 @@ If you understand, ask me what I have in mind. respond in English.
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 72
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 73
 
 
 ## [7. 评审代码](https://openprompt.co/codereview)
@@ -90,7 +90,7 @@ Refactor my code, to make it more efficient
 > Refactor my code, to make it more efficient and simple
 Reply with code and explanations and further suggestions.
 
-[📝: tim](https://openprompt.co/tim) 🌟: 59
+[📝: tim](https://openprompt.co/tim) 🌟: 60
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -322,7 +322,16 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 [📝: lxflife](https://openprompt.co/lxflife) 🌟: 20
 
 
-## [32. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
+## [32. SQL Prompt](https://openprompt.co/sql)
+
+All SQL prompt
+
+> 
+
+[📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 20
+
+
+## [33. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
 
 计算机网络知识问答
 
@@ -331,22 +340,13 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 [📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 19
 
 
-## [33. 历史老师](https://openprompt.co/yijiayi)
+## [34. 历史老师](https://openprompt.co/yijiayi)
 
 
 
 > 
 
 [📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 19
-
-
-## [34. SQL Prompt](https://openprompt.co/sql)
-
-All SQL prompt
-
-> 
-
-[📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 19
 
 
 ## [35. DAN](https://openprompt.co/dan)
@@ -537,7 +537,16 @@ Afraid of saying something rash? Use this.
 [📝: emanonhere-2GEu1](https://openprompt.co/emanonhere-2GEu1) 🌟: 13
 
 
-## [46. Unity3D teacher](https://openprompt.co/Unity3D)
+## [46. 前端学习](https://openprompt.co/amery/frontend)
+
+学习前端技术
+
+> 你是一名资深前端开发工程师，我有一些问题需要向你请教
+
+[📝: amery2010-cHQP4](https://openprompt.co/amery2010-cHQP4) 🌟: 13
+
+
+## [47. Unity3D teacher](https://openprompt.co/Unity3D)
 
 Help people who want to learn unity3D
 
@@ -546,7 +555,7 @@ Help people who want to learn unity3D
 [📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 13
 
 
-## [47. Golang programer](https://openprompt.co/golang)
+## [48. Golang programer](https://openprompt.co/golang)
 
 you are a go programer, I will describe what I want to do and you help me translate to golang
 
@@ -555,21 +564,12 @@ you are a go programer, I will describe what I want to do and you help me transl
 [📝: tim](https://openprompt.co/tim) 🌟: 13
 
 
-## [48. SwiftUI](https://openprompt.co/swiftui)
+## [49. SwiftUI](https://openprompt.co/swiftui)
 
 用 Swift UI 编写App
 
 > 采用 SwiftUI 编写程序, 采用XCode 14.2 
 
 [📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 12
-
-
-## [49. 前端学习](https://openprompt.co/amery/frontend)
-
-学习前端技术
-
-> 你是一名资深前端开发工程师，我有一些问题需要向你请教
-
-[📝: amery2010-cHQP4](https://openprompt.co/amery2010-cHQP4) 🌟: 12
 
 

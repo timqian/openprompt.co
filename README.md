@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 639
+[📝: tim](https://openprompt.co/tim) 🌟: 642
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 186
+[📝: tim](https://openprompt.co/tim) 🌟: 187
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -173,7 +173,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 34
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 35
 
 
 ## [17. 网络安全专家](https://openprompt.co/网络安全专家)
@@ -198,7 +198,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 
 
-[📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 30
+[📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 31
 
 
 ## [19. 翻译润色](https://openprompt.co/translateToEng)
@@ -207,7 +207,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 > 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
 
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 29
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 30
 
 
 ## [20. C++](https://openprompt.co/cpp)

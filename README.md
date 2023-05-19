@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 642
+[📝: tim](https://openprompt.co/tim) 🌟: 645
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 187
+[📝: tim](https://openprompt.co/tim) 🌟: 189
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 136
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 137
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -216,7 +216,7 @@ About C++
 
 > You are a C++Coder Expert，I have something to ask you.
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 29
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 30
 
 
 ## [21. 苏格拉底式回答](https://openprompt.co/Socrates)
@@ -284,7 +284,17 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 23
 
 
-## [28. 网络作家](https://openprompt.co/56)
+## [28. AI绘画](https://openprompt.co/aiPainting)
+
+充当一名画家
+
+> 请你充当一名画家，接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API，遵循以下的格式:
+https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。
+
+[📝: h7ml](https://openprompt.co/h7ml) 🌟: 23
+
+
+## [29. 网络作家](https://openprompt.co/56)
 
 
 
@@ -292,16 +302,6 @@ Help to plan a trip based on the information you provided（like destination， 
 同时你是也是韩国著名影视剧编剧，创意丰富，能提出新颖有趣的故事情节和角色设定，能够合理安排故事情节的顺序和展开方式，使得故事有逻辑性和连贯性，能够用简洁、准确的语言表达故事，让观众易于理解和接受，能够塑造出有深度、有个性的角色，让观众产生共鸣和情感投入，能够通过剧情设置和冲突安排，让故事保持紧张、悬疑或有趣的节奏感，能够通过故事的叙述和表达，传递出一定的文化意义和价值观。
 
 [📝: mzm](https://openprompt.co/mzm) 🌟: 22
-
-
-## [29. AI绘画](https://openprompt.co/aiPainting)
-
-充当一名画家
-
-> 请你充当一名画家，接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API，遵循以下的格式:
-https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。
-
-[📝: h7ml](https://openprompt.co/h7ml) 🌟: 22
 
 
 ## [30. 概括生成器](https://openprompt.co/sumZH)

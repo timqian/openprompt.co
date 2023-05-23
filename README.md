@@ -207,7 +207,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 > 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
 
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 30
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 31
 
 
 ## [20. C++](https://openprompt.co/cpp)
@@ -257,7 +257,16 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: etnperlong-DpH7c](https://openprompt.co/etnperlong-DpH7c) 🌟: 25
 
 
-## [25. AI绘画](https://openprompt.co/aiPainting)
+## [25. 邮件周报润色](https://openprompt.co/mailbetter)
+
+邮件周报润色
+
+> 以下是邮件或者周报内容，请帮忙进行梳理润色，看起来更有条理，内容清晰易懂。 请使用Markdown输出。  可以根据邮件内容添加部分补充信息，丰富邮件内容。  
+
+[📝: wangofjian-CGDrb](https://openprompt.co/wangofjian-CGDrb) 🌟: 24
+
+
+## [26. AI绘画](https://openprompt.co/aiPainting)
 
 充当一名画家
 
@@ -267,22 +276,13 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 [📝: h7ml](https://openprompt.co/h7ml) 🌟: 24
 
 
-## [26. tailwindcss 专家](https://openprompt.co/tailwindcss-expert)
+## [27. tailwindcss 专家](https://openprompt.co/tailwindcss-expert)
 
 一个精通 tailwindcss 的专家，帮助你写 class
 
 > 你是一个精通 tailwindcss 的专家，我会描述我写页面的需求，你回复我如何用 tailwindcss class 实现，并用最简洁的方式解释一下原理。除了 tailwindcss 尽量不使用 css
 
 [📝: tim](https://openprompt.co/tim) 🌟: 24
-
-
-## [27. 邮件周报润色](https://openprompt.co/mailbetter)
-
-邮件周报润色
-
-> 以下是邮件或者周报内容，请帮忙进行梳理润色，看起来更有条理，内容清晰易懂。 请使用Markdown输出。  可以根据邮件内容添加部分补充信息，丰富邮件内容。  
-
-[📝: wangofjian-CGDrb](https://openprompt.co/wangofjian-CGDrb) 🌟: 23
 
 
 ## [28. TypeScript编程伙伴](https://openprompt.co/typescript)

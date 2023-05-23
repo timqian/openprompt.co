@@ -157,7 +157,7 @@
     "prompt": "我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。",
     "handle": "translateToEng",
     "created_by": "nxrj1cghe-IJHon",
-    "star_count": 30
+    "star_count": 31
   },
   {
     "name": "C++",
@@ -200,6 +200,14 @@
     "star_count": 25
   },
   {
+    "name": "邮件周报润色",
+    "description": "邮件周报润色",
+    "prompt": "以下是邮件或者周报内容，请帮忙进行梳理润色，看起来更有条理，内容清晰易懂。 请使用Markdown输出。  可以根据邮件内容添加部分补充信息，丰富邮件内容。  ",
+    "handle": "mailbetter",
+    "created_by": "wangofjian-CGDrb",
+    "star_count": 24
+  },
+  {
     "name": "AI绘画",
     "description": "充当一名画家",
     "prompt": "请你充当一名画家，接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API，遵循以下的格式:\nhttps://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。",
@@ -214,14 +222,6 @@
     "handle": "tailwindcss-expert",
     "created_by": "tim",
     "star_count": 24
-  },
-  {
-    "name": "邮件周报润色",
-    "description": "邮件周报润色",
-    "prompt": "以下是邮件或者周报内容，请帮忙进行梳理润色，看起来更有条理，内容清晰易懂。 请使用Markdown输出。  可以根据邮件内容添加部分补充信息，丰富邮件内容。  ",
-    "handle": "mailbetter",
-    "created_by": "wangofjian-CGDrb",
-    "star_count": 23
   },
   {
     "name": "TypeScript编程伙伴",

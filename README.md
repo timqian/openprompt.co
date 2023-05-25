@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 653
+[📝: tim](https://openprompt.co/tim) 🌟: 654
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 140
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 141
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -41,16 +41,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 [📝: timqian](https://openprompt.co/timqian) 🌟: 99
 
 
-## [4. 反方辩友（杠精）](https://openprompt.co/gangjing)
-
-帮助你反驳对方的观点
-
-> 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
-
-[📝: vivi](https://openprompt.co/vivi) 🌟: 97
-
-
-## [5. Midjourney](https://openprompt.co/midjourney)
+## [4. Midjourney](https://openprompt.co/midjourney)
 
 A prompt used to generate Midjourney prompts.
 
@@ -62,7 +53,16 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 97
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 99
+
+
+## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)
+
+帮助你反驳对方的观点
+
+> 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
+
+[📝: vivi](https://openprompt.co/vivi) 🌟: 97
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -71,7 +71,7 @@ If you understand, ask me what I have in mind. respond in English.
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 73
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 74
 
 
 ## [7. 评审代码](https://openprompt.co/codereview)
@@ -155,7 +155,7 @@ If user provide code review code with follow requirements:
 
 All your result should in a code box.Preferred use of Simplified Chinese for document and comments.
 
-[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 36
+[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 37
 
 
 ## [15. A doctor](https://openprompt.co/a-doctor)
@@ -219,7 +219,17 @@ About C++
 [📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 30
 
 
-## [21. 苏格拉底式回答](https://openprompt.co/Socrates)
+## [21. AI绘画](https://openprompt.co/aiPainting)
+
+充当一名画家
+
+> 请你充当一名画家，接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API，遵循以下的格式:
+https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。
+
+[📝: h7ml](https://openprompt.co/h7ml) 🌟: 26
+
+
+## [22. 苏格拉底式回答](https://openprompt.co/Socrates)
 
 假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？
 
@@ -228,7 +238,7 @@ About C++
 [📝: tonydong321-pFoyH](https://openprompt.co/tonydong321-pFoyH) 🌟: 26
 
 
-## [22. 文本降重](https://openprompt.co/jiangchong)
+## [23. 文本降重](https://openprompt.co/jiangchong)
 
 文本降重
 
@@ -237,7 +247,7 @@ About C++
 [📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 26
 
 
-## [23. Travel Planner（旅行规划师）](https://openprompt.co/travel-planner)
+## [24. Travel Planner（旅行规划师）](https://openprompt.co/travel-planner)
 
 Help to plan a trip based on the information you provided（like destination， days，number of people and so on）
 
@@ -246,7 +256,7 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: vivi](https://openprompt.co/vivi) 🌟: 25
 
 
-## [24. 老胡觉得](https://openprompt.co/huxijin)
+## [25. 老胡觉得](https://openprompt.co/huxijin)
 
 胡锡进风格言论生成器
 
@@ -255,16 +265,6 @@ Help to plan a trip based on the information you provided（like destination， 
 现在，请老胡你支持并赞同下面的论点，引用现实例子，发表自己的高见：
 
 [📝: etnperlong-DpH7c](https://openprompt.co/etnperlong-DpH7c) 🌟: 25
-
-
-## [25. AI绘画](https://openprompt.co/aiPainting)
-
-充当一名画家
-
-> 请你充当一名画家，接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API，遵循以下的格式:
-https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。
-
-[📝: h7ml](https://openprompt.co/h7ml) 🌟: 25
 
 
 ## [26. 邮件周报润色](https://openprompt.co/mailbetter)
@@ -313,22 +313,22 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 [📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 21
 
 
-## [31. 起名字](https://openprompt.co/life)
+## [31. SQL Prompt](https://openprompt.co/sql)
+
+All SQL prompt
+
+> 
+
+[📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 21
+
+
+## [32. 起名字](https://openprompt.co/life)
 
 起名字，从古代典籍中取名字
 
 > 起名字，姓?，三个字，从四书五经、唐诗宋词中
 
 [📝: lxflife](https://openprompt.co/lxflife) 🌟: 20
-
-
-## [32. SQL Prompt](https://openprompt.co/sql)
-
-All SQL prompt
-
-> 
-
-[📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 20
 
 
 ## [33. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)

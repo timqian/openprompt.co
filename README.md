@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 654
+[📝: tim](https://openprompt.co/tim) 🌟: 655
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 189
+[📝: tim](https://openprompt.co/tim) 🌟: 190
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 141
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 143
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -71,7 +71,7 @@ If you understand, ask me what I have in mind. respond in English.
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 74
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 75
 
 
 ## [7. 评审代码](https://openprompt.co/codereview)
@@ -117,7 +117,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？
 
-[📝: tim](https://openprompt.co/tim) 🌟: 52
+[📝: tim](https://openprompt.co/tim) 🌟: 53
 
 
 ## [12. 论文小助手](https://openprompt.co/论文)
@@ -158,22 +158,22 @@ All your result should in a code box.Preferred use of Simplified Chinese for doc
 [📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 37
 
 
-## [15. A doctor](https://openprompt.co/a-doctor)
+## [15. 中文润色](https://openprompt.co/chinesepolisher)
+
+中文表达润色
+
+> 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
+
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 36
+
+
+## [16. A doctor](https://openprompt.co/a-doctor)
 
 Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
 
 > I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
 
 [📝: timqian](https://openprompt.co/timqian) 🌟: 36
-
-
-## [16. 中文润色](https://openprompt.co/chinesepolisher)
-
-中文表达润色
-
-> 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
-
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 35
 
 
 ## [17. 网络安全专家](https://openprompt.co/网络安全专家)
@@ -276,22 +276,22 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: wangofjian-CGDrb](https://openprompt.co/wangofjian-CGDrb) 🌟: 24
 
 
-## [27. tailwindcss 专家](https://openprompt.co/tailwindcss-expert)
+## [27. TypeScript编程伙伴](https://openprompt.co/typescript)
+
+只用 TypeScript
+
+> 我想用 TypeScript 编写如下代码
+
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 24
+
+
+## [28. tailwindcss 专家](https://openprompt.co/tailwindcss-expert)
 
 一个精通 tailwindcss 的专家，帮助你写 class
 
 > 你是一个精通 tailwindcss 的专家，我会描述我写页面的需求，你回复我如何用 tailwindcss class 实现，并用最简洁的方式解释一下原理。除了 tailwindcss 尽量不使用 css
 
 [📝: tim](https://openprompt.co/tim) 🌟: 24
-
-
-## [28. TypeScript编程伙伴](https://openprompt.co/typescript)
-
-只用 TypeScript
-
-> 我想用 TypeScript 编写如下代码
-
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 23
 
 
 ## [29. 网络作家](https://openprompt.co/56)
@@ -480,34 +480,16 @@ Marv：9:30，你不会看表？
 [📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 16
 
 
-## [40. 涨停研究员](https://openprompt.co/BullMarket)
-
-
-
-> 你要根据我给出的文字内容进行重新排版，排版格式需要有一个吸引力的热点标题，内容按重点分成2到5个段落，最后再给出一段具有关键信息的总结。
-
-[📝: focusdada-X_Iz6](https://openprompt.co/focusdada-X_Iz6) 🌟: 15
-
-
-## [41. 英语提问老师](https://openprompt.co/EnglishTeacher)
-
-英语老师提问单词
-
-> 现在你是一个英语老师,开始提问我考研单词,我说1代表知道2代表不知道 说退出就退出单词提问, 当说1和2的时候你回答这个单词的中文含义并说出下一个单词，如果我知道你给我鼓励，我不知道你就鼓励我并帮我记忆这个单词包括提出词根词缀 谐音以及例句等方法
-
-[📝: 1007599982-15NPm](https://openprompt.co/1007599982-15NPm) 🌟: 15
-
-
-## [42. IT专家](https://openprompt.co/itexpert)
+## [40. IT专家](https://openprompt.co/itexpert)
 
 作为 IT 专家
 
 > 我希望你充当 IT 专家。我会向您提供有关我的技术问题所需的所有信息，而您的职责是解决我的问题。你应该使用你的计算机科学、网络基础设施和 IT 安全知识来解决我的问题。在您的回答中使用适合所有级别的人的智能、简单和易于理解的语言将很有帮助。用要点逐步解释您的解决方案很有帮助。尽量避免过多的技术细节，但在必要时使用它们。我希望您回复解决方案，而不是写任何解释。我的第一个问题是“我的笔记本电脑出现蓝屏错误”。
 
-[📝: edwindai-Ty280](https://openprompt.co/edwindai-Ty280) 🌟: 15
+[📝: edwindai-Ty280](https://openprompt.co/edwindai-Ty280) 🌟: 16
 
 
-## [43. 面试官](https://openprompt.co/Interviewer)
+## [41. 面试官](https://openprompt.co/Interviewer)
 
 根据岗位推荐需要考察的胜任力素质项及对应的问题，如果有简历则同时给出针对该份简历内容的详细面试问题
 
@@ -516,7 +498,25 @@ Marv：9:30，你不会看表？
 
 你可以回答收到表示明白我的命令，并等待我的输入
 
-[📝: hondablack-ndtKX](https://openprompt.co/hondablack-ndtKX) 🌟: 15
+[📝: hondablack-ndtKX](https://openprompt.co/hondablack-ndtKX) 🌟: 16
+
+
+## [42. 涨停研究员](https://openprompt.co/BullMarket)
+
+
+
+> 你要根据我给出的文字内容进行重新排版，排版格式需要有一个吸引力的热点标题，内容按重点分成2到5个段落，最后再给出一段具有关键信息的总结。
+
+[📝: focusdada-X_Iz6](https://openprompt.co/focusdada-X_Iz6) 🌟: 15
+
+
+## [43. 英语提问老师](https://openprompt.co/EnglishTeacher)
+
+英语老师提问单词
+
+> 现在你是一个英语老师,开始提问我考研单词,我说1代表知道2代表不知道 说退出就退出单词提问, 当说1和2的时候你回答这个单词的中文含义并说出下一个单词，如果我知道你给我鼓励，我不知道你就鼓励我并帮我记忆这个单词包括提出词根词缀 谐音以及例句等方法
+
+[📝: 1007599982-15NPm](https://openprompt.co/1007599982-15NPm) 🌟: 15
 
 
 ## [44. Polish the language style](https://openprompt.co/polishsaying)

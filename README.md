@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 190
+[📝: tim](https://openprompt.co/tim) 🌟: 191
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 143
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 145
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -164,7 +164,7 @@ All your result should in a code box.Preferred use of Simplified Chinese for doc
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 36
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 37
 
 
 ## [16. A doctor](https://openprompt.co/a-doctor)
@@ -185,16 +185,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 [📝: 942602590-kBCdv](https://openprompt.co/942602590-kBCdv) 🌟: 33
 
 
-## [18. 翻译润色](https://openprompt.co/translateToEng)
-
-将任意语言翻译成英文；英文纠错及调整语法。
-
-> 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
-
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 32
-
-
-## [19. Lisa](https://openprompt.co/zeroine)
+## [18. Lisa](https://openprompt.co/zeroine)
 
 一个强大的AI，能够帮你解决更多问题，仅用于研究，请不要用于非法范围
 
@@ -207,7 +198,16 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 
 
-[📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 31
+[📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 32
+
+
+## [19. 翻译润色](https://openprompt.co/translateToEng)
+
+将任意语言翻译成英文；英文纠错及调整语法。
+
+> 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
+
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 32
 
 
 ## [20. C++](https://openprompt.co/cpp)
@@ -216,7 +216,7 @@ About C++
 
 > You are a C++Coder Expert，I have something to ask you.
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 30
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 31
 
 
 ## [21. AI绘画](https://openprompt.co/aiPainting)
@@ -226,7 +226,7 @@ About C++
 > 请你充当一名画家，接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API，遵循以下的格式:
 https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。
 
-[📝: h7ml](https://openprompt.co/h7ml) 🌟: 26
+[📝: h7ml](https://openprompt.co/h7ml) 🌟: 27
 
 
 ## [22. 苏格拉底式回答](https://openprompt.co/Socrates)
@@ -331,22 +331,22 @@ All SQL prompt
 [📝: lxflife](https://openprompt.co/lxflife) 🌟: 20
 
 
-## [33. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
+## [33. 历史老师](https://openprompt.co/yijiayi)
+
+
+
+> 
+
+[📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 20
+
+
+## [34. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
 
 计算机网络知识问答
 
 > 
 
 [📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 19
-
-
-## [34. 历史老师](https://openprompt.co/yijiayi)
-
-
-
-> 
-
-[📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 19
 
 
 ## [35. DAN](https://openprompt.co/dan)

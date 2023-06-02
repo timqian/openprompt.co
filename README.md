@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 660
+[📝: tim](https://openprompt.co/tim) 🌟: 662
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 194
+[📝: tim](https://openprompt.co/tim) 🌟: 195
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -71,7 +71,7 @@ If you understand, ask me what I have in mind. respond in English.
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 75
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 76
 
 
 ## [7. 评审代码](https://openprompt.co/codereview)
@@ -99,7 +99,7 @@ Reply with code and explanations and further suggestions.
 
 > 我是一名中国律师，请针对我的描述查找对应的法条。
 
-[📝: Reber](https://openprompt.co/Reber) 🌟: 58
+[📝: Reber](https://openprompt.co/Reber) 🌟: 59
 
 
 ## [10. 效率工具](https://openprompt.co/verbose-code)
@@ -164,7 +164,7 @@ If user provide code review code with follow requirements:
 
 All your result should in a code box.Preferred use of Simplified Chinese for document and comments.
 
-[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 37
+[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 38
 
 
 ## [16. A doctor](https://openprompt.co/a-doctor)

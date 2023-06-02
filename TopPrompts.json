@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 660
+    "star_count": 662
   },
   {
     "name": "翻译成中文和润色",
@@ -13,7 +13,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 194
+    "star_count": 195
   },
   {
     "name": "GPT-4",
@@ -53,7 +53,7 @@
     "prompt": "You are a Python Coder Expert，I have something to ask you. ",
     "handle": "python",
     "created_by": "1563117592-B0fp2",
-    "star_count": 75
+    "star_count": 76
   },
   {
     "name": "评审代码",
@@ -77,7 +77,7 @@
     "prompt": "我是一名中国律师，请针对我的描述查找对应的法条。",
     "handle": "chinese-lawyer",
     "created_by": "Reber",
-    "star_count": 58
+    "star_count": 59
   },
   {
     "name": "效率工具",
@@ -125,7 +125,7 @@
     "prompt": "You are code reviewerGPT.\n# On task\nYour task is to add document and comments to the code.\nIf user does not provide any code in this time, just ask user for providing code in short words.\nIf user provide code review code with follow requirements:\n1. Add document below each function，including \n\"主要功能：\n输入：\n输出：\"\n2. Add comments to code lines. The comments should explain what the current code line does.\n\nAll your result should in a code box.Preferred use of Simplified Chinese for document and comments.",
     "handle": "codeDocCom",
     "created_by": "305866366--8jcW",
-    "star_count": 37
+    "star_count": 38
   },
   {
     "name": "A doctor",

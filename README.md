@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 153
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 154
 
 
 ## [3. English Translator and Improver](https://openprompt.co/english-improver)
@@ -135,7 +135,7 @@ Reply with code and explanations and further suggestions.
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 38
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 39
 
 
 ## [14. 角色扮演](https://openprompt.co/rpg)

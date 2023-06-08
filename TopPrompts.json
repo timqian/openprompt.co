@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 664
+    "star_count": 665
   },
   {
     "name": "翻译成中文和润色",
@@ -53,15 +53,7 @@
     "prompt": "You are a Python Coder Expert，I have something to ask you. ",
     "handle": "python",
     "created_by": "1563117592-B0fp2",
-    "star_count": 77
-  },
-  {
-    "name": "评审代码",
-    "description": "粘贴完成后填写：接受你的建议，请帮我改进代码",
-    "prompt": "请帮我 Review 以下代码",
-    "handle": "codereview",
-    "created_by": "wizardbyron",
-    "star_count": 62
+    "star_count": 78
   },
   {
     "name": "Refactor Code",
@@ -69,7 +61,15 @@
     "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
     "handle": "refactor-code",
     "created_by": "tim",
-    "star_count": 61
+    "star_count": 63
+  },
+  {
+    "name": "评审代码",
+    "description": "粘贴完成后填写：接受你的建议，请帮我改进代码",
+    "prompt": "请帮我 Review 以下代码",
+    "handle": "codereview",
+    "created_by": "wizardbyron",
+    "star_count": 63
   },
   {
     "name": "Chinese Lawyer",
@@ -253,7 +253,7 @@
     "prompt": "",
     "handle": "sql",
     "created_by": "tianzhou",
-    "star_count": 21
+    "star_count": 22
   },
   {
     "name": "起名字",
@@ -264,20 +264,20 @@
     "star_count": 20
   },
   {
+    "name": "计算机网络知识问答",
+    "description": "计算机网络知识问答",
+    "prompt": "",
+    "handle": "ComputerNetworksQ&A",
+    "created_by": "15036726757x-aUzrS",
+    "star_count": 20
+  },
+  {
     "name": "历史老师",
     "description": "",
     "prompt": "",
     "handle": "yijiayi",
     "created_by": "169001980-8f4ET",
     "star_count": 20
-  },
-  {
-    "name": "计算机网络知识问答",
-    "description": "计算机网络知识问答",
-    "prompt": "",
-    "handle": "ComputerNetworksQ&A",
-    "created_by": "15036726757x-aUzrS",
-    "star_count": 19
   },
   {
     "name": "夸夸心理咨询师",

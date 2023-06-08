@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 664
+[📝: tim](https://openprompt.co/tim) 🌟: 665
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -71,26 +71,26 @@ If you understand, ask me what I have in mind. respond in English.
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 77
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 78
 
 
-## [7. 评审代码](https://openprompt.co/codereview)
-
-粘贴完成后填写：接受你的建议，请帮我改进代码
-
-> 请帮我 Review 以下代码
-
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 62
-
-
-## [8. Refactor Code](https://openprompt.co/refactor-code)
+## [7. Refactor Code](https://openprompt.co/refactor-code)
 
 Refactor my code, to make it more efficient
 
 > Refactor my code, to make it more efficient and simple
 Reply with code and explanations and further suggestions.
 
-[📝: tim](https://openprompt.co/tim) 🌟: 61
+[📝: tim](https://openprompt.co/tim) 🌟: 63
+
+
+## [8. 评审代码](https://openprompt.co/codereview)
+
+粘贴完成后填写：接受你的建议，请帮我改进代码
+
+> 请帮我 Review 以下代码
+
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 63
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -319,7 +319,7 @@ All SQL prompt
 
 > 
 
-[📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 21
+[📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 22
 
 
 ## [32. 起名字](https://openprompt.co/life)
@@ -331,22 +331,22 @@ All SQL prompt
 [📝: lxflife](https://openprompt.co/lxflife) 🌟: 20
 
 
-## [33. 历史老师](https://openprompt.co/yijiayi)
+## [33. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
+
+计算机网络知识问答
+
+> 
+
+[📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 20
+
+
+## [34. 历史老师](https://openprompt.co/yijiayi)
 
 
 
 > 
 
 [📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 20
-
-
-## [34. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
-
-计算机网络知识问答
-
-> 
-
-[📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 19
 
 
 ## [35. 夸夸心理咨询师](https://openprompt.co/kuakua)

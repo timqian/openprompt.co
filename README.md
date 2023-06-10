@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 665
+[📝: tim](https://openprompt.co/tim) 🌟: 666
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,19 +29,10 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 155
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 157
 
 
-## [3. English Translator and Improver](https://openprompt.co/english-improver)
-
-Alternative to: Grammarly, Google Translate. Contributed by: @f on github
-
-> I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
-
-[📝: timqian](https://openprompt.co/timqian) 🌟: 102
-
-
-## [4. Midjourney](https://openprompt.co/midjourney)
+## [3. Midjourney](https://openprompt.co/midjourney)
 
 A prompt used to generate Midjourney prompts.
 
@@ -53,7 +44,16 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 102
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 105
+
+
+## [4. English Translator and Improver](https://openprompt.co/english-improver)
+
+Alternative to: Grammarly, Google Translate. Contributed by: @f on github
+
+> I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
+
+[📝: timqian](https://openprompt.co/timqian) 🌟: 102
 
 
 ## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)
@@ -71,7 +71,7 @@ If you understand, ask me what I have in mind. respond in English.
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 78
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 79
 
 
 ## [7. Refactor Code](https://openprompt.co/refactor-code)
@@ -226,7 +226,7 @@ About C++
 > 请你充当一名画家，接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API，遵循以下的格式:
 https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。
 
-[📝: h7ml](https://openprompt.co/h7ml) 🌟: 28
+[📝: h7ml](https://openprompt.co/h7ml) 🌟: 29
 
 
 ## [22. 文本降重](https://openprompt.co/jiangchong)
@@ -537,7 +537,16 @@ Afraid of saying something rash? Use this.
 [📝: Hydrogen](https://openprompt.co/Hydrogen) 🌟: 14
 
 
-## [46. 邮件优化](https://openprompt.co/betteremail)
+## [46. Golang programer](https://openprompt.co/golang)
+
+you are a go programer, I will describe what I want to do and you help me translate to golang
+
+> you are a go programer, I will describe what I want to do and you help me translate to golang
+
+[📝: tim](https://openprompt.co/tim) 🌟: 14
+
+
+## [47. 邮件优化](https://openprompt.co/betteremail)
 
 修复语法错误，润色邮件
 
@@ -546,22 +555,13 @@ Afraid of saying something rash? Use this.
 [📝: emanonhere-2GEu1](https://openprompt.co/emanonhere-2GEu1) 🌟: 13
 
 
-## [47. 前端学习](https://openprompt.co/amery/frontend)
+## [48. 前端学习](https://openprompt.co/amery/frontend)
 
 学习前端技术
 
 > 你是一名资深前端开发工程师，我有一些问题需要向你请教
 
 [📝: amery2010-cHQP4](https://openprompt.co/amery2010-cHQP4) 🌟: 13
-
-
-## [48. Golang programer](https://openprompt.co/golang)
-
-you are a go programer, I will describe what I want to do and you help me translate to golang
-
-> you are a go programer, I will describe what I want to do and you help me translate to golang
-
-[📝: tim](https://openprompt.co/tim) 🌟: 13
 
 
 ## [49. 10人智囊团](https://openprompt.co/10people)

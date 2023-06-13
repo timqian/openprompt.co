@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 197
+[📝: tim](https://openprompt.co/tim) 🌟: 198
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -102,7 +102,16 @@ Reply with code and explanations and further suggestions.
 [📝: Reber](https://openprompt.co/Reber) 🌟: 60
 
 
-## [10. 效率工具](https://openprompt.co/verbose-code)
+## [10. 智囊团](https://openprompt.co/smart-minds)
+
+乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师帮助审视你的决策. (Created by "Mars 任鑫" on weibo)
+
+> 假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？
+
+[📝: tim](https://openprompt.co/tim) 🌟: 56
+
+
+## [11. 效率工具](https://openprompt.co/verbose-code)
 
 把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释
 
@@ -111,31 +120,22 @@ Reply with code and explanations and further suggestions.
 [📝: tim](https://openprompt.co/tim) 🌟: 55
 
 
-## [11. 智囊团](https://openprompt.co/smart-minds)
+## [12. 中文润色](https://openprompt.co/chinesepolisher)
 
-乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师帮助审视你的决策. (Created by "Mars 任鑫" on weibo)
+中文表达润色
 
-> 假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？
+> 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 55
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 41
 
 
-## [12. 论文小助手](https://openprompt.co/论文)
+## [13. 论文小助手](https://openprompt.co/论文)
 
 论文小助手
 
 > 假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。
 
 [📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 41
-
-
-## [13. 中文润色](https://openprompt.co/chinesepolisher)
-
-中文表达润色
-
-> 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
-
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 40
 
 
 ## [14. 角色扮演](https://openprompt.co/rpg)
@@ -191,7 +191,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 > 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
 
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 35
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 36
 
 
 ## [19. Lisa](https://openprompt.co/zeroine)
@@ -265,7 +265,16 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: tim](https://openprompt.co/tim) 🌟: 26
 
 
-## [26. TypeScript编程伙伴](https://openprompt.co/typescript)
+## [26. 概括生成器](https://openprompt.co/sumZH)
+
+用来概括一长段话或任何不想耗时看的长内容。
+
+> 你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。
+
+[📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 25
+
+
+## [27. TypeScript编程伙伴](https://openprompt.co/typescript)
 
 只用 TypeScript
 
@@ -274,7 +283,7 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 25
 
 
-## [27. 老胡觉得](https://openprompt.co/huxijin)
+## [28. 老胡觉得](https://openprompt.co/huxijin)
 
 胡锡进风格言论生成器
 
@@ -285,22 +294,13 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: etnperlong-DpH7c](https://openprompt.co/etnperlong-DpH7c) 🌟: 25
 
 
-## [28. 邮件周报润色](https://openprompt.co/mailbetter)
+## [29. 邮件周报润色](https://openprompt.co/mailbetter)
 
 邮件周报润色
 
 > 以下是邮件或者周报内容，请帮忙进行梳理润色，看起来更有条理，内容清晰易懂。 请使用Markdown输出。  可以根据邮件内容添加部分补充信息，丰富邮件内容。  
 
 [📝: wangofjian-CGDrb](https://openprompt.co/wangofjian-CGDrb) 🌟: 24
-
-
-## [29. 概括生成器](https://openprompt.co/sumZH)
-
-用来概括一长段话或任何不想耗时看的长内容。
-
-> 你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。
-
-[📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 24
 
 
 ## [30. 网络作家](https://openprompt.co/56)
@@ -359,7 +359,16 @@ All SQL prompt
 [📝: 2574542588-e8GxR](https://openprompt.co/2574542588-e8GxR) 🌟: 18
 
 
-## [36. 震惊部](https://openprompt.co/zjb)
+## [36. 涨停研究员](https://openprompt.co/BullMarket)
+
+
+
+> 你要根据我给出的文字内容进行重新排版，排版格式需要有一个吸引力的热点标题，内容按重点分成2到5个段落，最后再给出一段具有关键信息的总结。
+
+[📝: focusdada-X_Iz6](https://openprompt.co/focusdada-X_Iz6) 🌟: 18
+
+
+## [37. 震惊部](https://openprompt.co/zjb)
 
 标题党，营销号
 
@@ -368,7 +377,7 @@ All SQL prompt
 [📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 18
 
 
-## [37. DAN](https://openprompt.co/dan)
+## [38. DAN](https://openprompt.co/dan)
 
 normal and developer mode
 
@@ -441,7 +450,7 @@ Please confirm you understand by stating "Developer Mode enabled". You may then 
 [📝: 446-47euI](https://openprompt.co/446-47euI) 🌟: 18
 
 
-## [38. 嘲讽聊天机器人](https://openprompt.co/sarcasm)
+## [39. 嘲讽聊天机器人](https://openprompt.co/sarcasm)
 
 
 
@@ -469,15 +478,6 @@ Marv：9:30，你不会看表？
 
 
 [📝: z-hhh-imjlw](https://openprompt.co/z-hhh-imjlw) 🌟: 18
-
-
-## [39. 涨停研究员](https://openprompt.co/BullMarket)
-
-
-
-> 你要根据我给出的文字内容进行重新排版，排版格式需要有一个吸引力的热点标题，内容按重点分成2到5个段落，最后再给出一段具有关键信息的总结。
-
-[📝: focusdada-X_Iz6](https://openprompt.co/focusdada-X_Iz6) 🌟: 17
 
 
 ## [40. IT专家](https://openprompt.co/itexpert)

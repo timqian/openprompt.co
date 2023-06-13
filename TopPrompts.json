@@ -13,7 +13,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 197
+    "star_count": 198
   },
   {
     "name": "GPT-4",
@@ -80,6 +80,14 @@
     "star_count": 60
   },
   {
+    "name": "智囊团",
+    "description": "乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师帮助审视你的决策. (Created by \"Mars 任鑫\" on weibo)",
+    "prompt": "假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？",
+    "handle": "smart-minds",
+    "created_by": "tim",
+    "star_count": 56
+  },
+  {
     "name": "效率工具",
     "description": "把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释",
     "prompt": "请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。",
@@ -88,12 +96,12 @@
     "star_count": 55
   },
   {
-    "name": "智囊团",
-    "description": "乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师帮助审视你的决策. (Created by \"Mars 任鑫\" on weibo)",
-    "prompt": "假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？",
-    "handle": "smart-minds",
-    "created_by": "tim",
-    "star_count": 55
+    "name": "中文润色",
+    "description": "中文表达润色",
+    "prompt": "请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。",
+    "handle": "chinesepolisher",
+    "created_by": "1475244216-_mhXE",
+    "star_count": 41
   },
   {
     "name": "论文小助手",
@@ -102,14 +110,6 @@
     "handle": "论文",
     "created_by": "1303280122-KCQA3",
     "star_count": 41
-  },
-  {
-    "name": "中文润色",
-    "description": "中文表达润色",
-    "prompt": "请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。",
-    "handle": "chinesepolisher",
-    "created_by": "1475244216-_mhXE",
-    "star_count": 40
   },
   {
     "name": "角色扮演",
@@ -149,7 +149,7 @@
     "prompt": "我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。",
     "handle": "translateToEng",
     "created_by": "nxrj1cghe-IJHon",
-    "star_count": 35
+    "star_count": 36
   },
   {
     "name": "Lisa",
@@ -208,6 +208,14 @@
     "star_count": 26
   },
   {
+    "name": "概括生成器",
+    "description": "用来概括一长段话或任何不想耗时看的长内容。",
+    "prompt": "你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。",
+    "handle": "sumZH",
+    "created_by": "lia-WTgxt",
+    "star_count": 25
+  },
+  {
     "name": "TypeScript编程伙伴",
     "description": "只用 TypeScript",
     "prompt": "我想用 TypeScript 编写如下代码",
@@ -229,14 +237,6 @@
     "prompt": "以下是邮件或者周报内容，请帮忙进行梳理润色，看起来更有条理，内容清晰易懂。 请使用Markdown输出。  可以根据邮件内容添加部分补充信息，丰富邮件内容。  ",
     "handle": "mailbetter",
     "created_by": "wangofjian-CGDrb",
-    "star_count": 24
-  },
-  {
-    "name": "概括生成器",
-    "description": "用来概括一长段话或任何不想耗时看的长内容。",
-    "prompt": "你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。",
-    "handle": "sumZH",
-    "created_by": "lia-WTgxt",
     "star_count": 24
   },
   {
@@ -288,6 +288,14 @@
     "star_count": 18
   },
   {
+    "name": "涨停研究员",
+    "description": "",
+    "prompt": "你要根据我给出的文字内容进行重新排版，排版格式需要有一个吸引力的热点标题，内容按重点分成2到5个段落，最后再给出一段具有关键信息的总结。",
+    "handle": "BullMarket",
+    "created_by": "focusdada-X_Iz6",
+    "star_count": 18
+  },
+  {
     "name": "震惊部",
     "description": "标题党，营销号",
     "prompt": "紧急通知，不看后悔，家长举报，一定要保存",
@@ -310,14 +318,6 @@
     "handle": "sarcasm",
     "created_by": "z-hhh-imjlw",
     "star_count": 18
-  },
-  {
-    "name": "涨停研究员",
-    "description": "",
-    "prompt": "你要根据我给出的文字内容进行重新排版，排版格式需要有一个吸引力的热点标题，内容按重点分成2到5个段落，最后再给出一段具有关键信息的总结。",
-    "handle": "BullMarket",
-    "created_by": "focusdada-X_Iz6",
-    "star_count": 17
   },
   {
     "name": "IT专家",

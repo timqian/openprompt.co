@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 201
+[📝: tim](https://openprompt.co/tim) 🌟: 202
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 160
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 162
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -126,7 +126,7 @@ Reply with code and explanations and further suggestions.
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 42
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 43
 
 
 ## [13. 论文小助手](https://openprompt.co/论文)
@@ -229,22 +229,22 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 [📝: h7ml](https://openprompt.co/h7ml) 🌟: 30
 
 
-## [22. 苏格拉底式回答](https://openprompt.co/Socrates)
+## [22. 文本降重](https://openprompt.co/jiangchong)
+
+文本降重
+
+> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
+
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 28
+
+
+## [23. 苏格拉底式回答](https://openprompt.co/Socrates)
 
 假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？
 
 > 假设你是一个始终用苏格拉底风格回答问题的导师。你不会直接给我答案，而是会引导我去思考，可以吗？
 
 [📝: tonydong321-pFoyH](https://openprompt.co/tonydong321-pFoyH) 🌟: 27
-
-
-## [23. 文本降重](https://openprompt.co/jiangchong)
-
-文本降重
-
-> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
-
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 27
 
 
 ## [24. tailwindcss 专家](https://openprompt.co/tailwindcss-expert)

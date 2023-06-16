@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 670
+    "star_count": 671
   },
   {
     "name": "翻译成中文和润色",
@@ -56,19 +56,19 @@
     "star_count": 79
   },
   {
-    "name": "Refactor Code",
-    "description": "Refactor my code, to make it more efficient",
-    "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
-    "handle": "refactor-code",
-    "created_by": "tim",
-    "star_count": 63
-  },
-  {
     "name": "评审代码",
     "description": "粘贴完成后填写：接受你的建议，请帮我改进代码",
     "prompt": "请帮我 Review 以下代码",
     "handle": "codereview",
     "created_by": "wizardbyron",
+    "star_count": 64
+  },
+  {
+    "name": "Refactor Code",
+    "description": "Refactor my code, to make it more efficient",
+    "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
+    "handle": "refactor-code",
+    "created_by": "tim",
     "star_count": 63
   },
   {
@@ -93,7 +93,7 @@
     "prompt": "请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。",
     "handle": "verbose-code",
     "created_by": "tim",
-    "star_count": 55
+    "star_count": 56
   },
   {
     "name": "中文润色",

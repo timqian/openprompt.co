@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 670
+[📝: tim](https://openprompt.co/tim) 🌟: 671
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -74,7 +74,16 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 [📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 79
 
 
-## [7. Refactor Code](https://openprompt.co/refactor-code)
+## [7. 评审代码](https://openprompt.co/codereview)
+
+粘贴完成后填写：接受你的建议，请帮我改进代码
+
+> 请帮我 Review 以下代码
+
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 64
+
+
+## [8. Refactor Code](https://openprompt.co/refactor-code)
 
 Refactor my code, to make it more efficient
 
@@ -82,15 +91,6 @@ Refactor my code, to make it more efficient
 Reply with code and explanations and further suggestions.
 
 [📝: tim](https://openprompt.co/tim) 🌟: 63
-
-
-## [8. 评审代码](https://openprompt.co/codereview)
-
-粘贴完成后填写：接受你的建议，请帮我改进代码
-
-> 请帮我 Review 以下代码
-
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 63
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -117,7 +117,7 @@ Reply with code and explanations and further suggestions.
 
 > 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 55
+[📝: tim](https://openprompt.co/tim) 🌟: 56
 
 
 ## [12. 中文润色](https://openprompt.co/chinesepolisher)

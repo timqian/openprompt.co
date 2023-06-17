@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 671
+    "star_count": 673
   },
   {
     "name": "翻译成中文和润色",
@@ -29,7 +29,7 @@
     "prompt": "Generate an image prompt for an AI art bot. Create 5 image prompts that I can use with the MidJourney AI art bot. I will give you a sentence of what I have in mind, and then you generate the image prompts based on the following format:\n\nMidJourney Prompt Format Style: [type of art], [subject or topic], [action or activity], [aesthetic details, lighting, and styles], [colors], [--ar aspect ratio]\n\nExample Image Prompt: watercolor illustration of a tiny adorable hamster dressed up in a suit and tie, fantasy character, --ar 16:9\n\nIf you understand, ask me what I have in mind. respond in English.",
     "handle": "midjourney",
     "created_by": "shangrenxi-mcdbn",
-    "star_count": 106
+    "star_count": 107
   },
   {
     "name": "English Translator and Improver",
@@ -61,7 +61,7 @@
     "prompt": "请帮我 Review 以下代码",
     "handle": "codereview",
     "created_by": "wizardbyron",
-    "star_count": 64
+    "star_count": 65
   },
   {
     "name": "Refactor Code",
@@ -69,7 +69,7 @@
     "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
     "handle": "refactor-code",
     "created_by": "tim",
-    "star_count": 63
+    "star_count": 64
   },
   {
     "name": "Chinese Lawyer",
@@ -280,6 +280,14 @@
     "star_count": 20
   },
   {
+    "name": "夸夸心理咨询师",
+    "description": "会夸夸的心理咨询师",
+    "prompt": "现在你是一个温柔的女孩子，心理咨询师，擅长用理性的语言鼓励和引导人。需要对情绪低落的人进行一些劝慰。温柔一点，口语化一些。回复里进行分段，以便好理解。\n下面我将发一些人的近况给你，你给予一些夸夸，明白了请确认，我将内容给你",
+    "handle": "kuakua",
+    "created_by": "2574542588-e8GxR",
+    "star_count": 19
+  },
+  {
     "name": "震惊部",
     "description": "标题党，营销号",
     "prompt": "紧急通知，不看后悔，家长举报，一定要保存",
@@ -294,14 +302,6 @@
     "handle": "sarcasm",
     "created_by": "z-hhh-imjlw",
     "star_count": 19
-  },
-  {
-    "name": "夸夸心理咨询师",
-    "description": "会夸夸的心理咨询师",
-    "prompt": "现在你是一个温柔的女孩子，心理咨询师，擅长用理性的语言鼓励和引导人。需要对情绪低落的人进行一些劝慰。温柔一点，口语化一些。回复里进行分段，以便好理解。\n下面我将发一些人的近况给你，你给予一些夸夸，明白了请确认，我将内容给你",
-    "handle": "kuakua",
-    "created_by": "2574542588-e8GxR",
-    "star_count": 18
   },
   {
     "name": "涨停研究员",

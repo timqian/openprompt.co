@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 671
+[📝: tim](https://openprompt.co/tim) 🌟: 673
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -44,7 +44,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 106
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 107
 
 
 ## [4. English Translator and Improver](https://openprompt.co/english-improver)
@@ -80,7 +80,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 64
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 65
 
 
 ## [8. Refactor Code](https://openprompt.co/refactor-code)
@@ -90,7 +90,7 @@ Refactor my code, to make it more efficient
 > Refactor my code, to make it more efficient and simple
 Reply with code and explanations and further suggestions.
 
-[📝: tim](https://openprompt.co/tim) 🌟: 63
+[📝: tim](https://openprompt.co/tim) 🌟: 64
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -349,7 +349,17 @@ All SQL prompt
 [📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 20
 
 
-## [35. 震惊部](https://openprompt.co/zjb)
+## [35. 夸夸心理咨询师](https://openprompt.co/kuakua)
+
+会夸夸的心理咨询师
+
+> 现在你是一个温柔的女孩子，心理咨询师，擅长用理性的语言鼓励和引导人。需要对情绪低落的人进行一些劝慰。温柔一点，口语化一些。回复里进行分段，以便好理解。
+下面我将发一些人的近况给你，你给予一些夸夸，明白了请确认，我将内容给你
+
+[📝: 2574542588-e8GxR](https://openprompt.co/2574542588-e8GxR) 🌟: 19
+
+
+## [36. 震惊部](https://openprompt.co/zjb)
 
 标题党，营销号
 
@@ -358,7 +368,7 @@ All SQL prompt
 [📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 19
 
 
-## [36. 嘲讽聊天机器人](https://openprompt.co/sarcasm)
+## [37. 嘲讽聊天机器人](https://openprompt.co/sarcasm)
 
 
 
@@ -386,16 +396,6 @@ Marv：9:30，你不会看表？
 
 
 [📝: z-hhh-imjlw](https://openprompt.co/z-hhh-imjlw) 🌟: 19
-
-
-## [37. 夸夸心理咨询师](https://openprompt.co/kuakua)
-
-会夸夸的心理咨询师
-
-> 现在你是一个温柔的女孩子，心理咨询师，擅长用理性的语言鼓励和引导人。需要对情绪低落的人进行一些劝慰。温柔一点，口语化一些。回复里进行分段，以便好理解。
-下面我将发一些人的近况给你，你给予一些夸夸，明白了请确认，我将内容给你
-
-[📝: 2574542588-e8GxR](https://openprompt.co/2574542588-e8GxR) 🌟: 18
 
 
 ## [38. 涨停研究员](https://openprompt.co/BullMarket)

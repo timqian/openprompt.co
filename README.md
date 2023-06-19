@@ -47,22 +47,22 @@ If you understand, ask me what I have in mind. respond in English.
 [📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 107
 
 
-## [4. English Translator and Improver](https://openprompt.co/english-improver)
+## [4. 反方辩友（杠精）](https://openprompt.co/gangjing)
+
+帮助你反驳对方的观点
+
+> 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
+
+[📝: vivi](https://openprompt.co/vivi) 🌟: 102
+
+
+## [5. English Translator and Improver](https://openprompt.co/english-improver)
 
 Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
 [📝: timqian](https://openprompt.co/timqian) 🌟: 102
-
-
-## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)
-
-帮助你反驳对方的观点
-
-> 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
-
-[📝: vivi](https://openprompt.co/vivi) 🌟: 101
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -144,7 +144,7 @@ Reply with code and explanations and further suggestions.
 
 > 来角色扮演，你提供一段文字，包括场景和可能发生的事情，提供氛围感，但是不要假设我的行为。每一段精简一些，不要超过五十个字。
 
-[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 39
+[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 40
 
 
 ## [15. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
@@ -216,7 +216,7 @@ About C++
 
 > You are a C++Coder Expert，I have something to ask you.
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 31
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 32
 
 
 ## [21. AI绘画](https://openprompt.co/aiPainting)
@@ -235,7 +235,7 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 
 > 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 28
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 29
 
 
 ## [23. 苏格拉底式回答](https://openprompt.co/Socrates)

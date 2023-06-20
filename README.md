@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 673
+[📝: tim](https://openprompt.co/tim) 🌟: 674
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 162
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 161
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -47,22 +47,22 @@ If you understand, ask me what I have in mind. respond in English.
 [📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 107
 
 
-## [4. 反方辩友（杠精）](https://openprompt.co/gangjing)
+## [4. English Translator and Improver](https://openprompt.co/english-improver)
+
+Alternative to: Grammarly, Google Translate. Contributed by: @f on github
+
+> I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
+
+[📝: timqian](https://openprompt.co/timqian) 🌟: 103
+
+
+## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)
 
 帮助你反驳对方的观点
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
 [📝: vivi](https://openprompt.co/vivi) 🌟: 102
-
-
-## [5. English Translator and Improver](https://openprompt.co/english-improver)
-
-Alternative to: Grammarly, Google Translate. Contributed by: @f on github
-
-> I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
-
-[📝: timqian](https://openprompt.co/timqian) 🌟: 102
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -80,7 +80,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 65
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 66
 
 
 ## [8. Refactor Code](https://openprompt.co/refactor-code)
@@ -90,7 +90,7 @@ Refactor my code, to make it more efficient
 > Refactor my code, to make it more efficient and simple
 Reply with code and explanations and further suggestions.
 
-[📝: tim](https://openprompt.co/tim) 🌟: 64
+[📝: tim](https://openprompt.co/tim) 🌟: 65
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -164,7 +164,7 @@ If user provide code review code with follow requirements:
 
 All your result should in a code box.Preferred use of Simplified Chinese for document and comments.
 
-[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 38
+[📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 39
 
 
 ## [16. 网络安全专家](https://openprompt.co/网络安全专家)
@@ -207,7 +207,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 
 
-[📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 35
+[📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 36
 
 
 ## [20. C++](https://openprompt.co/cpp)
@@ -271,7 +271,7 @@ Help to plan a trip based on the information you provided（like destination， 
 
 > 你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。
 
-[📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 25
+[📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 26
 
 
 ## [27. TypeScript编程伙伴](https://openprompt.co/typescript)
@@ -340,23 +340,23 @@ All SQL prompt
 [📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 20
 
 
-## [34. 历史老师](https://openprompt.co/yijiayi)
-
-
-
-> 
-
-[📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 20
-
-
-## [35. 夸夸心理咨询师](https://openprompt.co/kuakua)
+## [34. 夸夸心理咨询师](https://openprompt.co/kuakua)
 
 会夸夸的心理咨询师
 
 > 现在你是一个温柔的女孩子，心理咨询师，擅长用理性的语言鼓励和引导人。需要对情绪低落的人进行一些劝慰。温柔一点，口语化一些。回复里进行分段，以便好理解。
 下面我将发一些人的近况给你，你给予一些夸夸，明白了请确认，我将内容给你
 
-[📝: 2574542588-e8GxR](https://openprompt.co/2574542588-e8GxR) 🌟: 19
+[📝: 2574542588-e8GxR](https://openprompt.co/2574542588-e8GxR) 🌟: 20
+
+
+## [35. 历史老师](https://openprompt.co/yijiayi)
+
+
+
+> 
+
+[📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 20
 
 
 ## [36. 震惊部](https://openprompt.co/zjb)

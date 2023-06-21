@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 674
+    "star_count": 677
   },
   {
     "name": "翻译成中文和润色",
@@ -21,7 +21,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 161
+    "star_count": 162
   },
   {
     "name": "Midjourney",
@@ -32,20 +32,20 @@
     "star_count": 107
   },
   {
+    "name": "反方辩友（杠精）",
+    "description": "帮助你反驳对方的观点",
+    "prompt": "请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据",
+    "handle": "gangjing",
+    "created_by": "vivi",
+    "star_count": 103
+  },
+  {
     "name": "English Translator and Improver",
     "description": "Alternative to: Grammarly, Google Translate. Contributed by: @f on github",
     "prompt": "I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. ",
     "handle": "english-improver",
     "created_by": "timqian",
     "star_count": 103
-  },
-  {
-    "name": "反方辩友（杠精）",
-    "description": "帮助你反驳对方的观点",
-    "prompt": "请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据",
-    "handle": "gangjing",
-    "created_by": "vivi",
-    "star_count": 102
   },
   {
     "name": "Python",

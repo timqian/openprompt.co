@@ -47,22 +47,22 @@ If you understand, ask me what I have in mind. respond in English.
 [📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 107
 
 
-## [4. 反方辩友（杠精）](https://openprompt.co/gangjing)
+## [4. English Translator and Improver](https://openprompt.co/english-improver)
+
+Alternative to: Grammarly, Google Translate. Contributed by: @f on github
+
+> I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
+
+[📝: timqian](https://openprompt.co/timqian) 🌟: 104
+
+
+## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)
 
 帮助你反驳对方的观点
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
 [📝: vivi](https://openprompt.co/vivi) 🌟: 103
-
-
-## [5. English Translator and Improver](https://openprompt.co/english-improver)
-
-Alternative to: Grammarly, Google Translate. Contributed by: @f on github
-
-> I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
-
-[📝: timqian](https://openprompt.co/timqian) 🌟: 103
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -102,22 +102,22 @@ Reply with code and explanations and further suggestions.
 [📝: Reber](https://openprompt.co/Reber) 🌟: 61
 
 
-## [10. 智囊团](https://openprompt.co/smart-minds)
+## [10. 效率工具](https://openprompt.co/verbose-code)
+
+把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释
+
+> 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
+
+[📝: tim](https://openprompt.co/tim) 🌟: 57
+
+
+## [11. 智囊团](https://openprompt.co/smart-minds)
 
 乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师帮助审视你的决策. (Created by "Mars 任鑫" on weibo)
 
 > 假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？
 
 [📝: tim](https://openprompt.co/tim) 🌟: 57
-
-
-## [11. 效率工具](https://openprompt.co/verbose-code)
-
-把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释
-
-> 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
-
-[📝: tim](https://openprompt.co/tim) 🌟: 56
 
 
 ## [12. 中文润色](https://openprompt.co/chinesepolisher)

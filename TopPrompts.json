@@ -240,6 +240,14 @@
     "star_count": 24
   },
   {
+    "name": "SQL Prompt",
+    "description": "All SQL prompt",
+    "prompt": "",
+    "handle": "sql",
+    "created_by": "tianzhou",
+    "star_count": 23
+  },
+  {
     "name": "网络作家",
     "description": "",
     "prompt": "假如你是一名中国畅销网络作家，涉猎广泛，文笔细腻，善以细节动人心；\n同时你是也是韩国著名影视剧编剧，创意丰富，能提出新颖有趣的故事情节和角色设定，能够合理安排故事情节的顺序和展开方式，使得故事有逻辑性和连贯性，能够用简洁、准确的语言表达故事，让观众易于理解和接受，能够塑造出有深度、有个性的角色，让观众产生共鸣和情感投入，能够通过剧情设置和冲突安排，让故事保持紧张、悬疑或有趣的节奏感，能够通过故事的叙述和表达，传递出一定的文化意义和价值观。",
@@ -253,14 +261,6 @@
     "prompt": "起名字，姓?，三个字，从四书五经、唐诗宋词中",
     "handle": "life",
     "created_by": "lxflife",
-    "star_count": 22
-  },
-  {
-    "name": "SQL Prompt",
-    "description": "All SQL prompt",
-    "prompt": "",
-    "handle": "sql",
-    "created_by": "tianzhou",
     "star_count": 22
   },
   {

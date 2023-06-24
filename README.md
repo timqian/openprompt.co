@@ -303,7 +303,16 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: wangofjian-CGDrb](https://openprompt.co/wangofjian-CGDrb) 🌟: 24
 
 
-## [30. 网络作家](https://openprompt.co/56)
+## [30. SQL Prompt](https://openprompt.co/sql)
+
+All SQL prompt
+
+> 
+
+[📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 23
+
+
+## [31. 网络作家](https://openprompt.co/56)
 
 
 
@@ -313,22 +322,13 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: mzm](https://openprompt.co/mzm) 🌟: 23
 
 
-## [31. 起名字](https://openprompt.co/life)
+## [32. 起名字](https://openprompt.co/life)
 
 起名字，从古代典籍中取名字
 
 > 起名字，姓?，三个字，从四书五经、唐诗宋词中
 
 [📝: lxflife](https://openprompt.co/lxflife) 🌟: 22
-
-
-## [32. SQL Prompt](https://openprompt.co/sql)
-
-All SQL prompt
-
-> 
-
-[📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 22
 
 
 ## [33. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)

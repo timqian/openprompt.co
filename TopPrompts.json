@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 677
+    "star_count": 678
   },
   {
     "name": "翻译成中文和润色",
@@ -21,7 +21,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 162
+    "star_count": 163
   },
   {
     "name": "Midjourney",
@@ -181,7 +181,7 @@
     "prompt": "你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。",
     "handle": "jiangchong",
     "created_by": "1475244216-_mhXE",
-    "star_count": 29
+    "star_count": 30
   },
   {
     "name": "苏格拉底式回答",

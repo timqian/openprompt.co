@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 678
+[📝: tim](https://openprompt.co/tim) 🌟: 679
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -144,7 +144,7 @@ Reply with code and explanations and further suggestions.
 
 > 来角色扮演，你提供一段文字，包括场景和可能发生的事情，提供氛围感，但是不要假设我的行为。每一段精简一些，不要超过五十个字。
 
-[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 40
+[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 41
 
 
 ## [15. 给代码添加文档和注释](https://openprompt.co/codeDocCom)

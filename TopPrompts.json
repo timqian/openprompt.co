@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 678
+    "star_count": 679
   },
   {
     "name": "翻译成中文和润色",
@@ -117,7 +117,7 @@
     "prompt": "来角色扮演，你提供一段文字，包括场景和可能发生的事情，提供氛围感，但是不要假设我的行为。每一段精简一些，不要超过五十个字。",
     "handle": "rpg",
     "created_by": "raistlin916-yNR-W",
-    "star_count": 40
+    "star_count": 41
   },
   {
     "name": "给代码添加文档和注释",

@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 679
+[📝: tim](https://openprompt.co/tim) 🌟: 681
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 165
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 166
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -53,7 +53,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 105
+[📝: timqian](https://openprompt.co/timqian) 🌟: 106
 
 
 ## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)
@@ -147,7 +147,16 @@ Reply with code and explanations and further suggestions.
 [📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 41
 
 
-## [15. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
+## [15. 翻译润色](https://openprompt.co/translateToEng)
+
+将任意语言翻译成英文；英文纠错及调整语法。
+
+> 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
+
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 39
+
+
+## [16. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
 
 
 
@@ -165,15 +174,6 @@ If user provide code review code with follow requirements:
 All your result should in a code box.Preferred use of Simplified Chinese for document and comments.
 
 [📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 39
-
-
-## [16. 翻译润色](https://openprompt.co/translateToEng)
-
-将任意语言翻译成英文；英文纠错及调整语法。
-
-> 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
-
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 38
 
 
 ## [17. A doctor](https://openprompt.co/a-doctor)

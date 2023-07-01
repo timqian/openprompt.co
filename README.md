@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 681
+[📝: tim](https://openprompt.co/tim) 🌟: 682
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 166
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 167
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -99,7 +99,7 @@ Reply with code and explanations and further suggestions.
 
 > 我是一名中国律师，请针对我的描述查找对应的法条。
 
-[📝: Reber](https://openprompt.co/Reber) 🌟: 61
+[📝: Reber](https://openprompt.co/Reber) 🌟: 62
 
 
 ## [10. 效率工具](https://openprompt.co/verbose-code)
@@ -126,7 +126,7 @@ Reply with code and explanations and further suggestions.
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 44
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 45
 
 
 ## [13. 论文小助手](https://openprompt.co/论文)
@@ -303,7 +303,16 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: wangofjian-CGDrb](https://openprompt.co/wangofjian-CGDrb) 🌟: 24
 
 
-## [30. SQL Prompt](https://openprompt.co/sql)
+## [30. 起名字](https://openprompt.co/life)
+
+起名字，从古代典籍中取名字
+
+> 起名字，姓?，三个字，从四书五经、唐诗宋词中
+
+[📝: lxflife](https://openprompt.co/lxflife) 🌟: 23
+
+
+## [31. SQL Prompt](https://openprompt.co/sql)
 
 All SQL prompt
 
@@ -312,7 +321,7 @@ All SQL prompt
 [📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 23
 
 
-## [31. 网络作家](https://openprompt.co/56)
+## [32. 网络作家](https://openprompt.co/56)
 
 
 
@@ -320,15 +329,6 @@ All SQL prompt
 同时你是也是韩国著名影视剧编剧，创意丰富，能提出新颖有趣的故事情节和角色设定，能够合理安排故事情节的顺序和展开方式，使得故事有逻辑性和连贯性，能够用简洁、准确的语言表达故事，让观众易于理解和接受，能够塑造出有深度、有个性的角色，让观众产生共鸣和情感投入，能够通过剧情设置和冲突安排，让故事保持紧张、悬疑或有趣的节奏感，能够通过故事的叙述和表达，传递出一定的文化意义和价值观。
 
 [📝: mzm](https://openprompt.co/mzm) 🌟: 23
-
-
-## [32. 起名字](https://openprompt.co/life)
-
-起名字，从古代典籍中取名字
-
-> 起名字，姓?，三个字，从四书五经、唐诗宋词中
-
-[📝: lxflife](https://openprompt.co/lxflife) 🌟: 22
 
 
 ## [33. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)

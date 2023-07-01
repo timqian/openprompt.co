@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 681
+    "star_count": 682
   },
   {
     "name": "翻译成中文和润色",
@@ -21,7 +21,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 166
+    "star_count": 167
   },
   {
     "name": "Midjourney",
@@ -77,7 +77,7 @@
     "prompt": "我是一名中国律师，请针对我的描述查找对应的法条。",
     "handle": "chinese-lawyer",
     "created_by": "Reber",
-    "star_count": 61
+    "star_count": 62
   },
   {
     "name": "效率工具",
@@ -101,7 +101,7 @@
     "prompt": "请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。",
     "handle": "chinesepolisher",
     "created_by": "1475244216-_mhXE",
-    "star_count": 44
+    "star_count": 45
   },
   {
     "name": "论文小助手",
@@ -240,6 +240,14 @@
     "star_count": 24
   },
   {
+    "name": "起名字",
+    "description": "起名字，从古代典籍中取名字",
+    "prompt": "起名字，姓?，三个字，从四书五经、唐诗宋词中",
+    "handle": "life",
+    "created_by": "lxflife",
+    "star_count": 23
+  },
+  {
     "name": "SQL Prompt",
     "description": "All SQL prompt",
     "prompt": "",
@@ -254,14 +262,6 @@
     "handle": "56",
     "created_by": "mzm",
     "star_count": 23
-  },
-  {
-    "name": "起名字",
-    "description": "起名字，从古代典籍中取名字",
-    "prompt": "起名字，姓?，三个字，从四书五经、唐诗宋词中",
-    "handle": "life",
-    "created_by": "lxflife",
-    "star_count": 22
   },
   {
     "name": "计算机网络知识问答",

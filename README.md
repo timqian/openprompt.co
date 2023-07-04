@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 683
+[📝: tim](https://openprompt.co/tim) 🌟: 685
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -135,7 +135,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。
 
-[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 41
+[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 42
 
 
 ## [14. 角色扮演](https://openprompt.co/rpg)
@@ -331,23 +331,23 @@ All SQL prompt
 [📝: mzm](https://openprompt.co/mzm) 🌟: 23
 
 
-## [33. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
-
-计算机网络知识问答
-
-> 
-
-[📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 20
-
-
-## [34. 夸夸心理咨询师](https://openprompt.co/kuakua)
+## [33. 夸夸心理咨询师](https://openprompt.co/kuakua)
 
 会夸夸的心理咨询师
 
 > 现在你是一个温柔的女孩子，心理咨询师，擅长用理性的语言鼓励和引导人。需要对情绪低落的人进行一些劝慰。温柔一点，口语化一些。回复里进行分段，以便好理解。
 下面我将发一些人的近况给你，你给予一些夸夸，明白了请确认，我将内容给你
 
-[📝: 2574542588-e8GxR](https://openprompt.co/2574542588-e8GxR) 🌟: 20
+[📝: 2574542588-e8GxR](https://openprompt.co/2574542588-e8GxR) 🌟: 21
+
+
+## [34. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
+
+计算机网络知识问答
+
+> 
+
+[📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 20
 
 
 ## [35. 历史老师](https://openprompt.co/yijiayi)

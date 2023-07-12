@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 687
+[📝: tim](https://openprompt.co/tim) 🌟: 688
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 172
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 174
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -44,7 +44,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 110
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 111
 
 
 ## [4. English Translator and Improver](https://openprompt.co/english-improver)
@@ -80,7 +80,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 67
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 68
 
 
 ## [8. Refactor Code](https://openprompt.co/refactor-code)

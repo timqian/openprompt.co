@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 691
+[📝: tim](https://openprompt.co/tim) 🌟: 693
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -62,7 +62,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 105
+[📝: vivi](https://openprompt.co/vivi) 🌟: 106
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -153,7 +153,7 @@ Reply with code and explanations and further suggestions.
 
 > 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
 
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 41
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 42
 
 
 ## [16. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
@@ -244,7 +244,7 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 
 > 你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。
 
-[📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 28
+[📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 29
 
 
 ## [24. 苏格拉底式回答](https://openprompt.co/Socrates)

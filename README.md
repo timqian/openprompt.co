@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 693
+[📝: tim](https://openprompt.co/tim) 🌟: 695
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 206
+[📝: tim](https://openprompt.co/tim) 🌟: 208
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 176
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 180
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -44,7 +44,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 114
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 115
 
 
 ## [4. English Translator and Improver](https://openprompt.co/english-improver)
@@ -71,7 +71,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 81
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 82
 
 
 ## [7. 评审代码](https://openprompt.co/codereview)
@@ -90,7 +90,7 @@ Refactor my code, to make it more efficient
 > Refactor my code, to make it more efficient and simple
 Reply with code and explanations and further suggestions.
 
-[📝: tim](https://openprompt.co/tim) 🌟: 66
+[📝: tim](https://openprompt.co/tim) 🌟: 67
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -99,7 +99,7 @@ Reply with code and explanations and further suggestions.
 
 > 我是一名中国律师，请针对我的描述查找对应的法条。
 
-[📝: Reber](https://openprompt.co/Reber) 🌟: 64
+[📝: Reber](https://openprompt.co/Reber) 🌟: 65
 
 
 ## [10. 效率工具](https://openprompt.co/verbose-code)
@@ -144,7 +144,7 @@ Reply with code and explanations and further suggestions.
 
 > 来角色扮演，你提供一段文字，包括场景和可能发生的事情，提供氛围感，但是不要假设我的行为。每一段精简一些，不要超过五十个字。
 
-[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 42
+[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 43
 
 
 ## [15. 翻译润色](https://openprompt.co/translateToEng)
@@ -153,7 +153,7 @@ Reply with code and explanations and further suggestions.
 
 > 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
 
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 42
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 43
 
 
 ## [16. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
@@ -244,7 +244,7 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 
 > 你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。
 
-[📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 29
+[📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 30
 
 
 ## [24. 苏格拉底式回答](https://openprompt.co/Socrates)
@@ -274,7 +274,16 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: vivi](https://openprompt.co/vivi) 🌟: 27
 
 
-## [27. TypeScript编程伙伴](https://openprompt.co/typescript)
+## [27. 起名字](https://openprompt.co/life)
+
+起名字，从古代典籍中取名字
+
+> 起名字，姓?，三个字，从四书五经、唐诗宋词中
+
+[📝: lxflife](https://openprompt.co/lxflife) 🌟: 26
+
+
+## [28. TypeScript编程伙伴](https://openprompt.co/typescript)
 
 只用 TypeScript
 
@@ -283,7 +292,7 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 26
 
 
-## [28. 老胡觉得](https://openprompt.co/huxijin)
+## [29. 老胡觉得](https://openprompt.co/huxijin)
 
 胡锡进风格言论生成器
 
@@ -292,15 +301,6 @@ Help to plan a trip based on the information you provided（like destination， 
 现在，请老胡你支持并赞同下面的论点，引用现实例子，发表自己的高见：
 
 [📝: etnperlong-DpH7c](https://openprompt.co/etnperlong-DpH7c) 🌟: 26
-
-
-## [29. 起名字](https://openprompt.co/life)
-
-起名字，从古代典籍中取名字
-
-> 起名字，姓?，三个字，从四书五经、唐诗宋词中
-
-[📝: lxflife](https://openprompt.co/lxflife) 🌟: 25
 
 
 ## [30. 邮件周报润色](https://openprompt.co/mailbetter)
@@ -312,7 +312,17 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: wangofjian-CGDrb](https://openprompt.co/wangofjian-CGDrb) 🌟: 25
 
 
-## [31. SQL Prompt](https://openprompt.co/sql)
+## [31. 网络作家](https://openprompt.co/56)
+
+
+
+> 假如你是一名中国畅销网络作家，涉猎广泛，文笔细腻，善以细节动人心；
+同时你是也是韩国著名影视剧编剧，创意丰富，能提出新颖有趣的故事情节和角色设定，能够合理安排故事情节的顺序和展开方式，使得故事有逻辑性和连贯性，能够用简洁、准确的语言表达故事，让观众易于理解和接受，能够塑造出有深度、有个性的角色，让观众产生共鸣和情感投入，能够通过剧情设置和冲突安排，让故事保持紧张、悬疑或有趣的节奏感，能够通过故事的叙述和表达，传递出一定的文化意义和价值观。
+
+[📝: mzm](https://openprompt.co/mzm) 🌟: 25
+
+
+## [32. SQL Prompt](https://openprompt.co/sql)
 
 All SQL prompt
 
@@ -321,23 +331,13 @@ All SQL prompt
 [📝: tianzhou](https://openprompt.co/tianzhou) 🌟: 24
 
 
-## [32. 网络作家](https://openprompt.co/56)
-
-
-
-> 假如你是一名中国畅销网络作家，涉猎广泛，文笔细腻，善以细节动人心；
-同时你是也是韩国著名影视剧编剧，创意丰富，能提出新颖有趣的故事情节和角色设定，能够合理安排故事情节的顺序和展开方式，使得故事有逻辑性和连贯性，能够用简洁、准确的语言表达故事，让观众易于理解和接受，能够塑造出有深度、有个性的角色，让观众产生共鸣和情感投入，能够通过剧情设置和冲突安排，让故事保持紧张、悬疑或有趣的节奏感，能够通过故事的叙述和表达，传递出一定的文化意义和价值观。
-
-[📝: mzm](https://openprompt.co/mzm) 🌟: 24
-
-
 ## [33. 计算机网络知识问答](https://openprompt.co/ComputerNetworksQ&A)
 
 计算机网络知识问答
 
 > 
 
-[📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 22
+[📝: 15036726757x-aUzrS](https://openprompt.co/15036726757x-aUzrS) 🌟: 23
 
 
 ## [34. 夸夸心理咨询师](https://openprompt.co/kuakua)
@@ -516,7 +516,7 @@ Please confirm you understand by stating "Developer Mode enabled". You may then 
 
 你可以回答收到表示明白我的命令，并等待我的输入
 
-[📝: hondablack-ndtKX](https://openprompt.co/hondablack-ndtKX) 🌟: 17
+[📝: hondablack-ndtKX](https://openprompt.co/hondablack-ndtKX) 🌟: 18
 
 
 ## [44. Unity3D teacher](https://openprompt.co/Unity3D)

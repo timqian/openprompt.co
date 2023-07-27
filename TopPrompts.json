@@ -13,7 +13,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 208
+    "star_count": 209
   },
   {
     "name": "GPT-4",
@@ -37,7 +37,7 @@
     "prompt": "I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. ",
     "handle": "english-improver",
     "created_by": "timqian",
-    "star_count": 110
+    "star_count": 111
   },
   {
     "name": "反方辩友（杠精）",
@@ -77,7 +77,7 @@
     "prompt": "我是一名中国律师，请针对我的描述查找对应的法条。",
     "handle": "chinese-lawyer",
     "created_by": "Reber",
-    "star_count": 65
+    "star_count": 66
   },
   {
     "name": "效率工具",

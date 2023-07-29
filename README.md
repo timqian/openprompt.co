@@ -44,7 +44,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 115
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 116
 
 
 ## [4. English Translator and Improver](https://openprompt.co/english-improver)
@@ -62,7 +62,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 106
+[📝: vivi](https://openprompt.co/vivi) 🌟: 107
 
 
 ## [6. Python](https://openprompt.co/python)

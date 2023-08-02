@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 180
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 181
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -210,23 +210,23 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 [📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 38
 
 
-## [20. C++](https://openprompt.co/cpp)
-
-About C++
-
-> You are a C++Coder Expert，I have something to ask you.
-
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 33
-
-
-## [21. AI绘画](https://openprompt.co/aiPainting)
+## [20. AI绘画](https://openprompt.co/aiPainting)
 
 充当一名画家
 
 > 请你充当一名画家，接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API，遵循以下的格式:
 https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。
 
-[📝: h7ml](https://openprompt.co/h7ml) 🌟: 32
+[📝: h7ml](https://openprompt.co/h7ml) 🌟: 33
+
+
+## [21. C++](https://openprompt.co/cpp)
+
+About C++
+
+> You are a C++Coder Expert，I have something to ask you.
+
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 33
 
 
 ## [22. 文本降重](https://openprompt.co/jiangchong)

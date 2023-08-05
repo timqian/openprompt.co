@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 695
+[📝: tim](https://openprompt.co/tim) 🌟: 696
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -80,7 +80,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 69
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 70
 
 
 ## [8. Refactor Code](https://openprompt.co/refactor-code)
@@ -99,7 +99,7 @@ Reply with code and explanations and further suggestions.
 
 > 我是一名中国律师，请针对我的描述查找对应的法条。
 
-[📝: Reber](https://openprompt.co/Reber) 🌟: 66
+[📝: Reber](https://openprompt.co/Reber) 🌟: 67
 
 
 ## [10. 效率工具](https://openprompt.co/verbose-code)

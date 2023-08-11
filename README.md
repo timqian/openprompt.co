@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 696
+[📝: tim](https://openprompt.co/tim) 🌟: 697
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -62,7 +62,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 107
+[📝: vivi](https://openprompt.co/vivi) 🌟: 108
 
 
 ## [6. Python](https://openprompt.co/python)

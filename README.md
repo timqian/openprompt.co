@@ -126,7 +126,7 @@ Reply with code and explanations and further suggestions.
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 47
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 48
 
 
 ## [13. 论文小助手](https://openprompt.co/论文)
@@ -135,7 +135,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。
 
-[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 44
+[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 45
 
 
 ## [14. 角色扮演](https://openprompt.co/rpg)
@@ -220,22 +220,22 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 [📝: h7ml](https://openprompt.co/h7ml) 🌟: 33
 
 
-## [21. C++](https://openprompt.co/cpp)
+## [21. 文本降重](https://openprompt.co/jiangchong)
+
+文本降重
+
+> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
+
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 33
+
+
+## [22. C++](https://openprompt.co/cpp)
 
 About C++
 
 > You are a C++Coder Expert，I have something to ask you.
 
 [📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 33
-
-
-## [22. 文本降重](https://openprompt.co/jiangchong)
-
-文本降重
-
-> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
-
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 32
 
 
 ## [23. 概括生成器](https://openprompt.co/sumZH)

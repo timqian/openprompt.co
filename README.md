@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 698
+[📝: tim](https://openprompt.co/tim) 🌟: 700
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 187
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 188
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)

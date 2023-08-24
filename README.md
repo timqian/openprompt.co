@@ -80,7 +80,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 70
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 71
 
 
 ## [8. Refactor Code](https://openprompt.co/refactor-code)

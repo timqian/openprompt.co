@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 700
+    "star_count": 703
   },
   {
     "name": "翻译成中文和润色",
@@ -13,7 +13,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 210
+    "star_count": 211
   },
   {
     "name": "GPT-4",
@@ -45,7 +45,7 @@
     "prompt": "请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据",
     "handle": "gangjing",
     "created_by": "vivi",
-    "star_count": 108
+    "star_count": 109
   },
   {
     "name": "Python",
@@ -61,7 +61,7 @@
     "prompt": "请帮我 Review 以下代码",
     "handle": "codereview",
     "created_by": "wizardbyron",
-    "star_count": 71
+    "star_count": 72
   },
   {
     "name": "Refactor Code",
@@ -69,7 +69,7 @@
     "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
     "handle": "refactor-code",
     "created_by": "tim",
-    "star_count": 68
+    "star_count": 69
   },
   {
     "name": "Chinese Lawyer",

@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 703
+[📝: tim](https://openprompt.co/tim) 🌟: 704
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 211
+[📝: tim](https://openprompt.co/tim) 🌟: 212
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 191
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 192
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -44,7 +44,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 117
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 119
 
 
 ## [4. English Translator and Improver](https://openprompt.co/english-improver)
@@ -53,7 +53,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 111
+[📝: timqian](https://openprompt.co/timqian) 🌟: 112
 
 
 ## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)
@@ -62,7 +62,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 109
+[📝: vivi](https://openprompt.co/vivi) 🌟: 110
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -71,7 +71,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 82
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 83
 
 
 ## [7. 评审代码](https://openprompt.co/codereview)
@@ -80,7 +80,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 72
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 73
 
 
 ## [8. Refactor Code](https://openprompt.co/refactor-code)
@@ -90,7 +90,7 @@ Refactor my code, to make it more efficient
 > Refactor my code, to make it more efficient and simple
 Reply with code and explanations and further suggestions.
 
-[📝: tim](https://openprompt.co/tim) 🌟: 69
+[📝: tim](https://openprompt.co/tim) 🌟: 70
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -99,23 +99,23 @@ Reply with code and explanations and further suggestions.
 
 > 我是一名中国律师，请针对我的描述查找对应的法条。
 
-[📝: Reber](https://openprompt.co/Reber) 🌟: 67
+[📝: Reber](https://openprompt.co/Reber) 🌟: 68
 
 
-## [10. 效率工具](https://openprompt.co/verbose-code)
-
-把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释
-
-> 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
-
-[📝: tim](https://openprompt.co/tim) 🌟: 58
-
-
-## [11. 智囊团](https://openprompt.co/smart-minds)
+## [10. 智囊团](https://openprompt.co/smart-minds)
 
 乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师帮助审视你的决策. (Created by "Mars 任鑫" on weibo)
 
 > 假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？
+
+[📝: tim](https://openprompt.co/tim) 🌟: 59
+
+
+## [11. 效率工具](https://openprompt.co/verbose-code)
+
+把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释
+
+> 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
 
 [📝: tim](https://openprompt.co/tim) 🌟: 58
 

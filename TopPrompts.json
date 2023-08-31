@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 703
+    "star_count": 704
   },
   {
     "name": "翻译成中文和润色",
@@ -13,7 +13,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 211
+    "star_count": 212
   },
   {
     "name": "GPT-4",
@@ -21,7 +21,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 191
+    "star_count": 192
   },
   {
     "name": "Midjourney",
@@ -29,7 +29,7 @@
     "prompt": "Generate an image prompt for an AI art bot. Create 5 image prompts that I can use with the MidJourney AI art bot. I will give you a sentence of what I have in mind, and then you generate the image prompts based on the following format:\n\nMidJourney Prompt Format Style: [type of art], [subject or topic], [action or activity], [aesthetic details, lighting, and styles], [colors], [--ar aspect ratio]\n\nExample Image Prompt: watercolor illustration of a tiny adorable hamster dressed up in a suit and tie, fantasy character, --ar 16:9\n\nIf you understand, ask me what I have in mind. respond in English.",
     "handle": "midjourney",
     "created_by": "shangrenxi-mcdbn",
-    "star_count": 117
+    "star_count": 119
   },
   {
     "name": "English Translator and Improver",
@@ -37,7 +37,7 @@
     "prompt": "I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. ",
     "handle": "english-improver",
     "created_by": "timqian",
-    "star_count": 111
+    "star_count": 112
   },
   {
     "name": "反方辩友（杠精）",
@@ -45,7 +45,7 @@
     "prompt": "请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据",
     "handle": "gangjing",
     "created_by": "vivi",
-    "star_count": 109
+    "star_count": 110
   },
   {
     "name": "Python",
@@ -53,7 +53,7 @@
     "prompt": "You are a Python Coder Expert，I have something to ask you. ",
     "handle": "python",
     "created_by": "1563117592-B0fp2",
-    "star_count": 82
+    "star_count": 83
   },
   {
     "name": "评审代码",
@@ -61,7 +61,7 @@
     "prompt": "请帮我 Review 以下代码",
     "handle": "codereview",
     "created_by": "wizardbyron",
-    "star_count": 72
+    "star_count": 73
   },
   {
     "name": "Refactor Code",
@@ -69,7 +69,7 @@
     "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
     "handle": "refactor-code",
     "created_by": "tim",
-    "star_count": 69
+    "star_count": 70
   },
   {
     "name": "Chinese Lawyer",
@@ -77,21 +77,21 @@
     "prompt": "我是一名中国律师，请针对我的描述查找对应的法条。",
     "handle": "chinese-lawyer",
     "created_by": "Reber",
-    "star_count": 67
-  },
-  {
-    "name": "效率工具",
-    "description": "把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释",
-    "prompt": "请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。",
-    "handle": "verbose-code",
-    "created_by": "tim",
-    "star_count": 58
+    "star_count": 68
   },
   {
     "name": "智囊团",
     "description": "乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师帮助审视你的决策. (Created by \"Mars 任鑫\" on weibo)",
     "prompt": "假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？",
     "handle": "smart-minds",
+    "created_by": "tim",
+    "star_count": 59
+  },
+  {
+    "name": "效率工具",
+    "description": "把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释",
+    "prompt": "请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。",
+    "handle": "verbose-code",
     "created_by": "tim",
     "star_count": 58
   },

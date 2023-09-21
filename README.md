@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 710
+[📝: tim](https://openprompt.co/tim) 🌟: 712
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -53,7 +53,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 112
+[📝: timqian](https://openprompt.co/timqian) 🌟: 113
 
 
 ## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)

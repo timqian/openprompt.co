@@ -165,7 +165,16 @@ Reply with code and explanations and further suggestions.
 [📝: 942602590-kBCdv](https://openprompt.co/942602590-kBCdv) 🌟: 41
 
 
-## [17. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
+## [17. A doctor](https://openprompt.co/a-doctor)
+
+Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
+
+> I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
+
+[📝: timqian](https://openprompt.co/timqian) 🌟: 40
+
+
+## [18. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
 
 
 
@@ -183,15 +192,6 @@ If user provide code review code with follow requirements:
 All your result should in a code box.Preferred use of Simplified Chinese for document and comments.
 
 [📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 40
-
-
-## [18. A doctor](https://openprompt.co/a-doctor)
-
-Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
-
-> I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
-
-[📝: timqian](https://openprompt.co/timqian) 🌟: 39
 
 
 ## [19. Lisa](https://openprompt.co/zeroine)

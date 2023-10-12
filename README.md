@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 220
+[📝: tim](https://openprompt.co/tim) 🌟: 221
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 204
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 205
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -53,7 +53,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 116
+[📝: timqian](https://openprompt.co/timqian) 🌟: 117
 
 
 ## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)

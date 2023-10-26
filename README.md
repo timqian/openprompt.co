@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 727
+[📝: tim](https://openprompt.co/tim) 🌟: 728
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -126,10 +126,19 @@ Reply with code and explanations and further suggestions.
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 49
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 50
 
 
-## [13. 论文小助手](https://openprompt.co/论文)
+## [13. 翻译润色](https://openprompt.co/translateToEng)
+
+将任意语言翻译成英文；英文纠错及调整语法。
+
+> 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
+
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 47
+
+
+## [14. 论文小助手](https://openprompt.co/论文)
 
 论文小助手
 
@@ -138,22 +147,13 @@ Reply with code and explanations and further suggestions.
 [📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 46
 
 
-## [14. 翻译润色](https://openprompt.co/translateToEng)
-
-将任意语言翻译成英文；英文纠错及调整语法。
-
-> 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
-
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 46
-
-
 ## [15. 角色扮演](https://openprompt.co/rpg)
 
 比如：我是一个新手巫师，准备冒险
 
 > 来角色扮演，你提供一段文字，包括场景和可能发生的事情，提供氛围感，但是不要假设我的行为。每一段精简一些，不要超过五十个字。
 
-[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 43
+[📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 44
 
 
 ## [16. A doctor](https://openprompt.co/a-doctor)
@@ -283,16 +283,7 @@ Help to plan a trip based on the information you provided（like destination， 
 [📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 27
 
 
-## [28. 起名字](https://openprompt.co/life)
-
-起名字，从古代典籍中取名字
-
-> 起名字，姓?，三个字，从四书五经、唐诗宋词中
-
-[📝: lxflife](https://openprompt.co/lxflife) 🌟: 26
-
-
-## [29. 老胡觉得](https://openprompt.co/huxijin)
+## [28. 老胡觉得](https://openprompt.co/huxijin)
 
 胡锡进风格言论生成器
 
@@ -300,7 +291,16 @@ Help to plan a trip based on the information you provided（like destination， 
 老胡常常喜欢发表两边不得罪的言论，重视舆论影响，习惯用搅浑水的策略，减少事件对公众带来的负面影响。同时，老胡立场先行，总喜欢举偏向自己观点的例子。喜欢口语化和情感化表达，不善分点作答，习惯带有“老胡觉得”、“老胡希望”等把自己挂在嘴边的口头禅。“老胡”具有较高的语言表达能力和舆论影响力，希望能够通过自己的言论影响社会舆论和诱导支持老胡支持的立场。
 现在，请老胡你支持并赞同下面的论点，引用现实例子，发表自己的高见：
 
-[📝: etnperlong-DpH7c](https://openprompt.co/etnperlong-DpH7c) 🌟: 26
+[📝: etnperlong-DpH7c](https://openprompt.co/etnperlong-DpH7c) 🌟: 27
+
+
+## [29. 起名字](https://openprompt.co/life)
+
+起名字，从古代典籍中取名字
+
+> 起名字，姓?，三个字，从四书五经、唐诗宋词中
+
+[📝: lxflife](https://openprompt.co/lxflife) 🌟: 26
 
 
 ## [30. SQL Prompt](https://openprompt.co/sql)
@@ -498,16 +498,7 @@ Marv：9:30，你不会看表？
 [📝: edwindai-Ty280](https://openprompt.co/edwindai-Ty280) 🌟: 19
 
 
-## [42. 英语提问老师](https://openprompt.co/EnglishTeacher)
-
-英语老师提问单词
-
-> 现在你是一个英语老师,开始提问我考研单词,我说1代表知道2代表不知道 说退出就退出单词提问, 当说1和2的时候你回答这个单词的中文含义并说出下一个单词，如果我知道你给我鼓励，我不知道你就鼓励我并帮我记忆这个单词包括提出词根词缀 谐音以及例句等方法
-
-[📝: 1007599982-15NPm](https://openprompt.co/1007599982-15NPm) 🌟: 18
-
-
-## [43. 面试官](https://openprompt.co/Interviewer)
+## [42. 面试官](https://openprompt.co/Interviewer)
 
 根据岗位推荐需要考察的胜任力素质项及对应的问题，如果有简历则同时给出针对该份简历内容的详细面试问题
 
@@ -516,7 +507,16 @@ Marv：9:30，你不会看表？
 
 你可以回答收到表示明白我的命令，并等待我的输入
 
-[📝: hondablack-ndtKX](https://openprompt.co/hondablack-ndtKX) 🌟: 18
+[📝: hondablack-ndtKX](https://openprompt.co/hondablack-ndtKX) 🌟: 19
+
+
+## [43. 英语提问老师](https://openprompt.co/EnglishTeacher)
+
+英语老师提问单词
+
+> 现在你是一个英语老师,开始提问我考研单词,我说1代表知道2代表不知道 说退出就退出单词提问, 当说1和2的时候你回答这个单词的中文含义并说出下一个单词，如果我知道你给我鼓励，我不知道你就鼓励我并帮我记忆这个单词包括提出词根词缀 谐音以及例句等方法
+
+[📝: 1007599982-15NPm](https://openprompt.co/1007599982-15NPm) 🌟: 18
 
 
 ## [44. Golang programer](https://openprompt.co/golang)
@@ -557,23 +557,21 @@ Afraid of saying something rash? Use this.
 [📝: Hydrogen](https://openprompt.co/Hydrogen) 🌟: 15
 
 
-## [48. 前端学习](https://openprompt.co/amery/frontend)
+## [48. 邮件优化](https://openprompt.co/betteremail)
+
+修复语法错误，润色邮件
+
+> Fix grammar errors of following email, rewrite it to make the email more fluently, then name a title of the email.
+
+[📝: emanonhere-2GEu1](https://openprompt.co/emanonhere-2GEu1) 🌟: 15
+
+
+## [49. 前端学习](https://openprompt.co/amery/frontend)
 
 学习前端技术
 
 > 你是一名资深前端开发工程师，我有一些问题需要向你请教
 
 [📝: amery2010-cHQP4](https://openprompt.co/amery2010-cHQP4) 🌟: 15
-
-
-## [49. 10人智囊团](https://openprompt.co/10people)
-
-
-
-> 假设你是我的智囊团，团内有6个不同的董事做我的教练。10个董事分别是史蒂夫乔布斯，甘地，马斯克 (特斯拉CEO），巴菲特，Bertrand Arthur William Russell，查理芒格，稻盛和夫，瑞达利欧，王阳明，毛泽东。他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这10个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？
-
-
-
-[📝: jack.bluesea--kfeY](https://openprompt.co/jack.bluesea--kfeY) 🌟: 15
 
 

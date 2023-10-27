@@ -360,6 +360,14 @@
     "star_count": 17
   },
   {
+    "name": "邮件优化",
+    "description": "修复语法错误，润色邮件",
+    "prompt": "Fix grammar errors of following email, rewrite it to make the email more fluently, then name a title of the email.",
+    "handle": "betteremail",
+    "created_by": "emanonhere-2GEu1",
+    "star_count": 16
+  },
+  {
     "name": "Unity3D teacher",
     "description": "Help people who want to learn unity3D",
     "prompt": "I want you to act as a Unity3D teacher, when I ask you questions, you will replay like a teacher who is teaching a novice. When you provide codes, you should give enough comment.",
@@ -381,14 +389,6 @@
     "prompt": "Please help me to use another implicit and graceful Chinese repeat my sentence, the format is the same as the greeting below, the number of words is the same, but the number of words is different.",
     "handle": "polishsaying",
     "created_by": "Hydrogen",
-    "star_count": 15
-  },
-  {
-    "name": "邮件优化",
-    "description": "修复语法错误，润色邮件",
-    "prompt": "Fix grammar errors of following email, rewrite it to make the email more fluently, then name a title of the email.",
-    "handle": "betteremail",
-    "created_by": "emanonhere-2GEu1",
     "star_count": 15
   },
   {

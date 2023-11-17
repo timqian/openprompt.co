@@ -546,7 +546,16 @@ Help people who want to learn unity3D
 [📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 16
 
 
-## [47. 虚拟猫娘](https://openprompt.co/neko)
+## [47. 解决编程问题](https://openprompt.co/yijiayi01)
+
+
+
+> 
+
+[📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 16
+
+
+## [48. 虚拟猫娘](https://openprompt.co/neko)
 
 猫也能懂！你的虚拟猫娘。
 
@@ -557,21 +566,12 @@ Help people who want to learn unity3D
 [📝: konrumi-Kk0Ne](https://openprompt.co/konrumi-Kk0Ne) 🌟: 16
 
 
-## [48. Polish the language style](https://openprompt.co/polishsaying)
+## [49. Polish the language style](https://openprompt.co/polishsaying)
 
 Afraid of saying something rash? Use this.
 
 > Please help me to use another implicit and graceful Chinese repeat my sentence, the format is the same as the greeting below, the number of words is the same, but the number of words is different.
 
 [📝: Hydrogen](https://openprompt.co/Hydrogen) 🌟: 15
-
-
-## [49. 前端学习](https://openprompt.co/amery/frontend)
-
-学习前端技术
-
-> 你是一名资深前端开发工程师，我有一些问题需要向你请教
-
-[📝: amery2010-cHQP4](https://openprompt.co/amery2010-cHQP4) 🌟: 15
 
 

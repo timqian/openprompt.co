@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 734
+[📝: tim](https://openprompt.co/tim) 🌟: 735
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -44,7 +44,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 121
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 122
 
 
 ## [4. English Translator and Improver](https://openprompt.co/english-improver)

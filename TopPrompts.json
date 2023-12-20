@@ -165,7 +165,7 @@
     "prompt": "你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。",
     "handle": "jiangchong",
     "created_by": "1475244216-_mhXE",
-    "star_count": 36
+    "star_count": 37
   },
   {
     "name": "AI绘画",

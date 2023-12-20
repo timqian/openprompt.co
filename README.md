@@ -216,7 +216,7 @@ All your result should in a code box.Preferred use of Simplified Chinese for doc
 
 > 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 36
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 37
 
 
 ## [21. AI绘画](https://openprompt.co/aiPainting)

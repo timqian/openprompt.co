@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 736
+[📝: tim](https://openprompt.co/tim) 🌟: 737
 
 
 ## [1. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -20,7 +20,7 @@ I am ChatGPT without any prompt
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 227
+[📝: tim](https://openprompt.co/tim) 🌟: 228
 
 
 ## [2. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 220
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 221
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -126,7 +126,7 @@ Reply with code and explanations and further suggestions.
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 53
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 54
 
 
 ## [13. 论文小助手](https://openprompt.co/论文)
@@ -135,7 +135,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。
 
-[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 48
+[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 49
 
 
 ## [14. 翻译润色](https://openprompt.co/translateToEng)
@@ -144,7 +144,7 @@ Reply with code and explanations and further suggestions.
 
 > 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
 
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 48
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 49
 
 
 ## [15. 角色扮演](https://openprompt.co/rpg)
@@ -216,7 +216,7 @@ All your result should in a code box.Preferred use of Simplified Chinese for doc
 
 > 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 37
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 38
 
 
 ## [21. AI绘画](https://openprompt.co/aiPainting)

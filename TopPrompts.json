@@ -45,7 +45,7 @@
     "prompt": "请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据",
     "handle": "gangjing",
     "created_by": "vivi",
-    "star_count": 111
+    "star_count": 112
   },
   {
     "name": "Python",
@@ -109,7 +109,7 @@
     "prompt": "假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。",
     "handle": "论文",
     "created_by": "1303280122-KCQA3",
-    "star_count": 49
+    "star_count": 50
   },
   {
     "name": "翻译润色",

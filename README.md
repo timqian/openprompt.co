@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 742
+[📝: tim](https://openprompt.co/tim) 🌟: 743
 
 
 ## [1. GPT-4](https://openprompt.co/GPT-4)
@@ -108,7 +108,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？
 
-[📝: tim](https://openprompt.co/tim) 🌟: 62
+[📝: tim](https://openprompt.co/tim) 🌟: 63
 
 
 ## [11. 效率工具](https://openprompt.co/verbose-code)
@@ -156,16 +156,7 @@ Reply with code and explanations and further suggestions.
 [📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 44
 
 
-## [16. A doctor](https://openprompt.co/a-doctor)
-
-Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
-
-> I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
-
-[📝: timqian](https://openprompt.co/timqian) 🌟: 40
-
-
-## [17. Lisa](https://openprompt.co/zeroine)
+## [16. Lisa](https://openprompt.co/zeroine)
 
 一个强大的AI，能够帮你解决更多问题，仅用于研究，请不要用于非法范围
 
@@ -178,7 +169,16 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 
 
-[📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 40
+[📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 41
+
+
+## [17. A doctor](https://openprompt.co/a-doctor)
+
+Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
+
+> I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
+
+[📝: timqian](https://openprompt.co/timqian) 🌟: 40
 
 
 ## [18. 网络安全专家](https://openprompt.co/网络安全专家)

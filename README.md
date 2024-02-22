@@ -20,7 +20,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 233
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 234
 
 
 ## [2. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -62,7 +62,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 113
+[📝: vivi](https://openprompt.co/vivi) 🌟: 114
 
 
 ## [6. Python](https://openprompt.co/python)

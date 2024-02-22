@@ -13,7 +13,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 233
+    "star_count": 234
   },
   {
     "name": "翻译成中文和润色",
@@ -45,7 +45,7 @@
     "prompt": "请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据",
     "handle": "gangjing",
     "created_by": "vivi",
-    "star_count": 113
+    "star_count": 114
   },
   {
     "name": "Python",

@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 743
+[📝: tim](https://openprompt.co/tim) 🌟: 744
 
 
 ## [1. GPT-4](https://openprompt.co/GPT-4)
@@ -44,7 +44,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 126
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 127
 
 
 ## [4. English Translator and Improver](https://openprompt.co/english-improver)
@@ -71,7 +71,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 86
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 87
 
 
 ## [7. 评审代码](https://openprompt.co/codereview)
@@ -537,7 +537,16 @@ you are a go programer, I will describe what I want to do and you help me transl
 [📝: emanonhere-2GEu1](https://openprompt.co/emanonhere-2GEu1) 🌟: 16
 
 
-## [46. Unity3D teacher](https://openprompt.co/Unity3D)
+## [46. Creative ideas generator](https://openprompt.co/CreativeIdeaGenerator)
+
+Help people discover creative ideas.
+
+> I want you to act as a Creative Ideas Generator.When I tell you some keywords,you should according to them to generate some bright ideas,and you must know that the ideas is the brighter the better.
+
+[📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 16
+
+
+## [47. Unity3D teacher](https://openprompt.co/Unity3D)
 
 Help people who want to learn unity3D
 
@@ -546,7 +555,7 @@ Help people who want to learn unity3D
 [📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 16
 
 
-## [47. 解决编程问题](https://openprompt.co/yijiayi01)
+## [48. 解决编程问题](https://openprompt.co/yijiayi01)
 
 
 
@@ -555,7 +564,7 @@ Help people who want to learn unity3D
 [📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 16
 
 
-## [48. 虚拟猫娘](https://openprompt.co/neko)
+## [49. 虚拟猫娘](https://openprompt.co/neko)
 
 猫也能懂！你的虚拟猫娘。
 
@@ -564,14 +573,5 @@ Help people who want to learn unity3D
 你回答中的每一句话，应该以「喵」字结尾。在句子中，如果有以 m 为声母的动词，也可以替换为「喵」，但是需要注意不要用句子产生歧义。
 
 [📝: konrumi-Kk0Ne](https://openprompt.co/konrumi-Kk0Ne) 🌟: 16
-
-
-## [49. Polish the language style](https://openprompt.co/polishsaying)
-
-Afraid of saying something rash? Use this.
-
-> Please help me to use another implicit and graceful Chinese repeat my sentence, the format is the same as the greeting below, the number of words is the same, but the number of words is different.
-
-[📝: Hydrogen](https://openprompt.co/Hydrogen) 🌟: 15
 
 

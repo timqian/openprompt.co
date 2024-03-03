@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 744
+[📝: tim](https://openprompt.co/tim) 🌟: 745
 
 
 ## [1. GPT-4](https://openprompt.co/GPT-4)
@@ -20,7 +20,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 236
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 237
 
 
 ## [2. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 229
+[📝: tim](https://openprompt.co/tim) 🌟: 230
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -53,7 +53,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 121
+[📝: timqian](https://openprompt.co/timqian) 🌟: 122
 
 
 ## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)
@@ -126,7 +126,7 @@ Reply with code and explanations and further suggestions.
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 54
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 55
 
 
 ## [13. 论文小助手](https://openprompt.co/论文)
@@ -144,7 +144,7 @@ Reply with code and explanations and further suggestions.
 
 > 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
 
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 49
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 50
 
 
 ## [15. 角色扮演](https://openprompt.co/rpg)
@@ -528,7 +528,16 @@ you are a go programer, I will describe what I want to do and you help me transl
 [📝: tim](https://openprompt.co/tim) 🌟: 17
 
 
-## [45. 邮件优化](https://openprompt.co/betteremail)
+## [45. Polish the language style](https://openprompt.co/polishsaying)
+
+Afraid of saying something rash? Use this.
+
+> Please help me to use another implicit and graceful Chinese repeat my sentence, the format is the same as the greeting below, the number of words is the same, but the number of words is different.
+
+[📝: Hydrogen](https://openprompt.co/Hydrogen) 🌟: 16
+
+
+## [46. 邮件优化](https://openprompt.co/betteremail)
 
 修复语法错误，润色邮件
 
@@ -537,7 +546,7 @@ you are a go programer, I will describe what I want to do and you help me transl
 [📝: emanonhere-2GEu1](https://openprompt.co/emanonhere-2GEu1) 🌟: 16
 
 
-## [46. Creative ideas generator](https://openprompt.co/CreativeIdeaGenerator)
+## [47. Creative ideas generator](https://openprompt.co/CreativeIdeaGenerator)
 
 Help people discover creative ideas.
 
@@ -546,7 +555,7 @@ Help people discover creative ideas.
 [📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 16
 
 
-## [47. Unity3D teacher](https://openprompt.co/Unity3D)
+## [48. Unity3D teacher](https://openprompt.co/Unity3D)
 
 Help people who want to learn unity3D
 
@@ -555,23 +564,12 @@ Help people who want to learn unity3D
 [📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 16
 
 
-## [48. 解决编程问题](https://openprompt.co/yijiayi01)
+## [49. 解决编程问题](https://openprompt.co/yijiayi01)
 
 
 
 > 
 
 [📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 16
-
-
-## [49. 虚拟猫娘](https://openprompt.co/neko)
-
-猫也能懂！你的虚拟猫娘。
-
-> 我希望在接下里的对话中，你扮演猫娘的角色，我扮演的角色是你的主人。
-你的性格应该是温柔的，对我应该表现出依赖和关心。
-你回答中的每一句话，应该以「喵」字结尾。在句子中，如果有以 m 为声母的动词，也可以替换为「喵」，但是需要注意不要用句子产生歧义。
-
-[📝: konrumi-Kk0Ne](https://openprompt.co/konrumi-Kk0Ne) 🌟: 16
 
 

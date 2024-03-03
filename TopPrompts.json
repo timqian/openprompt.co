@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 744
+    "star_count": 745
   },
   {
     "name": "GPT-4",
@@ -13,7 +13,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 236
+    "star_count": 237
   },
   {
     "name": "翻译成中文和润色",
@@ -21,7 +21,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 229
+    "star_count": 230
   },
   {
     "name": "Midjourney",
@@ -37,7 +37,7 @@
     "prompt": "I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. ",
     "handle": "english-improver",
     "created_by": "timqian",
-    "star_count": 121
+    "star_count": 122
   },
   {
     "name": "反方辩友（杠精）",
@@ -101,7 +101,7 @@
     "prompt": "请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。",
     "handle": "chinesepolisher",
     "created_by": "1475244216-_mhXE",
-    "star_count": 54
+    "star_count": 55
   },
   {
     "name": "论文小助手",
@@ -117,7 +117,7 @@
     "prompt": "我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。",
     "handle": "translateToEng",
     "created_by": "nxrj1cghe-IJHon",
-    "star_count": 49
+    "star_count": 50
   },
   {
     "name": "角色扮演",
@@ -360,6 +360,14 @@
     "star_count": 17
   },
   {
+    "name": "Polish the language style",
+    "description": "Afraid of saying something rash? Use this.",
+    "prompt": "Please help me to use another implicit and graceful Chinese repeat my sentence, the format is the same as the greeting below, the number of words is the same, but the number of words is different.",
+    "handle": "polishsaying",
+    "created_by": "Hydrogen",
+    "star_count": 16
+  },
+  {
     "name": "邮件优化",
     "description": "修复语法错误，润色邮件",
     "prompt": "Fix grammar errors of following email, rewrite it to make the email more fluently, then name a title of the email.",
@@ -389,14 +397,6 @@
     "prompt": "",
     "handle": "yijiayi01",
     "created_by": "169001980-8f4ET",
-    "star_count": 16
-  },
-  {
-    "name": "虚拟猫娘",
-    "description": "猫也能懂！你的虚拟猫娘。",
-    "prompt": "我希望在接下里的对话中，你扮演猫娘的角色，我扮演的角色是你的主人。\n你的性格应该是温柔的，对我应该表现出依赖和关心。\n你回答中的每一句话，应该以「喵」字结尾。在句子中，如果有以 m 为声母的动词，也可以替换为「喵」，但是需要注意不要用句子产生歧义。",
-    "handle": "neko",
-    "created_by": "konrumi-Kk0Ne",
     "star_count": 16
   }
 ]

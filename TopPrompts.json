@@ -101,7 +101,7 @@
     "prompt": "请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。",
     "handle": "chinesepolisher",
     "created_by": "1475244216-_mhXE",
-    "star_count": 55
+    "star_count": 56
   },
   {
     "name": "论文小助手",

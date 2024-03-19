@@ -21,7 +21,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 230
+    "star_count": 231
   },
   {
     "name": "Midjourney",
@@ -45,7 +45,7 @@
     "prompt": "请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据",
     "handle": "gangjing",
     "created_by": "vivi",
-    "star_count": 114
+    "star_count": 115
   },
   {
     "name": "Python",
@@ -53,7 +53,7 @@
     "prompt": "You are a Python Coder Expert，I have something to ask you. ",
     "handle": "python",
     "created_by": "1563117592-B0fp2",
-    "star_count": 87
+    "star_count": 88
   },
   {
     "name": "评审代码",
@@ -61,7 +61,7 @@
     "prompt": "请帮我 Review 以下代码",
     "handle": "codereview",
     "created_by": "wizardbyron",
-    "star_count": 74
+    "star_count": 75
   },
   {
     "name": "Refactor Code",

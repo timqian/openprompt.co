@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 230
+[📝: tim](https://openprompt.co/tim) 🌟: 231
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -62,7 +62,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 114
+[📝: vivi](https://openprompt.co/vivi) 🌟: 115
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -71,7 +71,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 87
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 88
 
 
 ## [7. 评审代码](https://openprompt.co/codereview)
@@ -80,7 +80,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 74
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 75
 
 
 ## [8. Refactor Code](https://openprompt.co/refactor-code)

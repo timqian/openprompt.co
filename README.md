@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 748
+[📝: tim](https://openprompt.co/tim) 🌟: 749
 
 
 ## [1. GPT-4](https://openprompt.co/GPT-4)
@@ -20,7 +20,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 240
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 241
 
 
 ## [2. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -347,7 +347,7 @@ All SQL prompt
 > 现在你是一个温柔的女孩子，心理咨询师，擅长用理性的语言鼓励和引导人。需要对情绪低落的人进行一些劝慰。温柔一点，口语化一些。回复里进行分段，以便好理解。
 下面我将发一些人的近况给你，你给予一些夸夸，明白了请确认，我将内容给你
 
-[📝: 2574542588-e8GxR](https://openprompt.co/2574542588-e8GxR) 🌟: 24
+[📝: 2574542588-e8GxR](https://openprompt.co/2574542588-e8GxR) 🌟: 25
 
 
 ## [35. 历史老师](https://openprompt.co/yijiayi)

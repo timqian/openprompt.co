@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 754
+    "star_count": 755
   },
   {
     "name": "GPT-4",
@@ -13,7 +13,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 246
+    "star_count": 247
   },
   {
     "name": "翻译成中文和润色",
@@ -21,7 +21,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 234
+    "star_count": 235
   },
   {
     "name": "Midjourney",
@@ -101,7 +101,7 @@
     "prompt": "请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。",
     "handle": "chinesepolisher",
     "created_by": "1475244216-_mhXE",
-    "star_count": 57
+    "star_count": 58
   },
   {
     "name": "论文小助手",
@@ -109,7 +109,7 @@
     "prompt": "假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。",
     "handle": "论文",
     "created_by": "1303280122-KCQA3",
-    "star_count": 52
+    "star_count": 53
   },
   {
     "name": "翻译润色",
@@ -189,7 +189,7 @@
     "prompt": "你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。",
     "handle": "sumZH",
     "created_by": "lia-WTgxt",
-    "star_count": 32
+    "star_count": 33
   },
   {
     "name": "苏格拉底式回答",

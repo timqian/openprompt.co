@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 754
+[📝: tim](https://openprompt.co/tim) 🌟: 755
 
 
 ## [1. GPT-4](https://openprompt.co/GPT-4)
@@ -20,7 +20,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 246
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 247
 
 
 ## [2. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 234
+[📝: tim](https://openprompt.co/tim) 🌟: 235
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -126,7 +126,7 @@ Reply with code and explanations and further suggestions.
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 57
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 58
 
 
 ## [13. 论文小助手](https://openprompt.co/论文)
@@ -135,7 +135,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。
 
-[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 52
+[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 53
 
 
 ## [14. 翻译润色](https://openprompt.co/translateToEng)
@@ -244,7 +244,7 @@ About C++
 
 > 你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。
 
-[📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 32
+[📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 33
 
 
 ## [24. 苏格拉底式回答](https://openprompt.co/Socrates)

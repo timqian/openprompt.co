@@ -126,7 +126,7 @@ Reply with code and explanations and further suggestions.
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 58
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 59
 
 
 ## [13. 论文小助手](https://openprompt.co/论文)
@@ -216,7 +216,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 > 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 39
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 41
 
 
 ## [21. AI绘画](https://openprompt.co/aiPainting)

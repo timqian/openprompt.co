@@ -101,7 +101,7 @@
     "prompt": "请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。",
     "handle": "chinesepolisher",
     "created_by": "1475244216-_mhXE",
-    "star_count": 58
+    "star_count": 59
   },
   {
     "name": "论文小助手",
@@ -165,7 +165,7 @@
     "prompt": "你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。",
     "handle": "jiangchong",
     "created_by": "1475244216-_mhXE",
-    "star_count": 39
+    "star_count": 41
   },
   {
     "name": "AI绘画",

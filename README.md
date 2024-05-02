@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 236
+[📝: tim](https://openprompt.co/tim) 🌟: 235
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -201,22 +201,22 @@ All your result should in a code box.Preferred use of Simplified Chinese for doc
 [📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 42
 
 
-## [19. A doctor](https://openprompt.co/a-doctor)
+## [19. 文本降重](https://openprompt.co/jiangchong)
+
+文本降重
+
+> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
+
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 42
+
+
+## [20. A doctor](https://openprompt.co/a-doctor)
 
 Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
 
 > I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
 
 [📝: timqian](https://openprompt.co/timqian) 🌟: 41
-
-
-## [20. 文本降重](https://openprompt.co/jiangchong)
-
-文本降重
-
-> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
-
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 41
 
 
 ## [21. AI绘画](https://openprompt.co/aiPainting)

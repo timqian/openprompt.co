@@ -156,7 +156,16 @@ Reply with code and explanations and further suggestions.
 [📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 45
 
 
-## [16. A doctor](https://openprompt.co/a-doctor)
+## [16. 文本降重](https://openprompt.co/jiangchong)
+
+文本降重
+
+> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
+
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 43
+
+
+## [17. A doctor](https://openprompt.co/a-doctor)
 
 Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
 
@@ -165,7 +174,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 [📝: timqian](https://openprompt.co/timqian) 🌟: 42
 
 
-## [17. Lisa](https://openprompt.co/zeroine)
+## [18. Lisa](https://openprompt.co/zeroine)
 
 一个强大的AI，能够帮你解决更多问题，仅用于研究，请不要用于非法范围
 
@@ -181,7 +190,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 [📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 42
 
 
-## [18. 网络安全专家](https://openprompt.co/网络安全专家)
+## [19. 网络安全专家](https://openprompt.co/网络安全专家)
 
 网络安全专家
 
@@ -190,7 +199,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 [📝: 942602590-kBCdv](https://openprompt.co/942602590-kBCdv) 🌟: 42
 
 
-## [19. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
+## [20. 给代码添加文档和注释](https://openprompt.co/codeDocCom)
 
 
 
@@ -208,15 +217,6 @@ If user provide code review code with follow requirements:
 All your result should in a code box.Preferred use of Simplified Chinese for document and comments.
 
 [📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 42
-
-
-## [20. 文本降重](https://openprompt.co/jiangchong)
-
-文本降重
-
-> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
-
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 42
 
 
 ## [21. AI绘画](https://openprompt.co/aiPainting)

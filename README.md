@@ -111,22 +111,22 @@ Reply with code and explanations and further suggestions.
 [📝: tim](https://openprompt.co/tim) 🌟: 64
 
 
-## [11. 效率工具](https://openprompt.co/verbose-code)
+## [11. 中文润色](https://openprompt.co/chinesepolisher)
+
+中文表达润色
+
+> 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
+
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 61
+
+
+## [12. 效率工具](https://openprompt.co/verbose-code)
 
 把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释
 
 > 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
 
 [📝: tim](https://openprompt.co/tim) 🌟: 60
-
-
-## [12. 中文润色](https://openprompt.co/chinesepolisher)
-
-中文表达润色
-
-> 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
-
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 60
 
 
 ## [13. 论文小助手](https://openprompt.co/论文)

@@ -88,19 +88,19 @@
     "star_count": 64
   },
   {
-    "name": "效率工具",
-    "description": "把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释",
-    "prompt": "请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。",
-    "handle": "verbose-code",
-    "created_by": "tim",
-    "star_count": 60
-  },
-  {
     "name": "中文润色",
     "description": "中文表达润色",
     "prompt": "请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。",
     "handle": "chinesepolisher",
     "created_by": "1475244216-_mhXE",
+    "star_count": 61
+  },
+  {
+    "name": "效率工具",
+    "description": "把代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释",
+    "prompt": "请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。",
+    "handle": "verbose-code",
+    "created_by": "tim",
     "star_count": 60
   },
   {

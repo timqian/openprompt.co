@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 770
+[📝: tim](https://openprompt.co/tim) 🌟: 771
 
 
 ## [1. GPT-4](https://openprompt.co/GPT-4)
@@ -108,7 +108,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？
 
-[📝: tim](https://openprompt.co/tim) 🌟: 64
+[📝: tim](https://openprompt.co/tim) 🌟: 65
 
 
 ## [11. 中文润色](https://openprompt.co/chinesepolisher)
@@ -528,7 +528,16 @@ Help people discover creative ideas.
 [📝: edwindai-Ty280](https://openprompt.co/edwindai-Ty280) 🌟: 20
 
 
-## [45. Golang programer](https://openprompt.co/golang)
+## [45. 解决编程问题](https://openprompt.co/yijiayi01)
+
+
+
+> 
+
+[📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 18
+
+
+## [46. Golang programer](https://openprompt.co/golang)
 
 you are a go programer, I will describe what I want to do and you help me translate to golang
 
@@ -537,7 +546,7 @@ you are a go programer, I will describe what I want to do and you help me transl
 [📝: tim](https://openprompt.co/tim) 🌟: 18
 
 
-## [46. Polish the language style](https://openprompt.co/polishsaying)
+## [47. Polish the language style](https://openprompt.co/polishsaying)
 
 Afraid of saying something rash? Use this.
 
@@ -546,7 +555,7 @@ Afraid of saying something rash? Use this.
 [📝: Hydrogen](https://openprompt.co/Hydrogen) 🌟: 17
 
 
-## [47. 邮件优化](https://openprompt.co/betteremail)
+## [48. 邮件优化](https://openprompt.co/betteremail)
 
 修复语法错误，润色邮件
 
@@ -555,21 +564,12 @@ Afraid of saying something rash? Use this.
 [📝: emanonhere-2GEu1](https://openprompt.co/emanonhere-2GEu1) 🌟: 17
 
 
-## [48. Unity3D teacher](https://openprompt.co/Unity3D)
+## [49. Unity3D teacher](https://openprompt.co/Unity3D)
 
 Help people who want to learn unity3D
 
 > I want you to act as a Unity3D teacher, when I ask you questions, you will replay like a teacher who is teaching a novice. When you provide codes, you should give enough comment.
 
 [📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 17
-
-
-## [49. 解决编程问题](https://openprompt.co/yijiayi01)
-
-
-
-> 
-
-[📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 17
 
 

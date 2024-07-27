@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 772
+[📝: tim](https://openprompt.co/tim) 🌟: 773
 
 
 ## [1. GPT-4](https://openprompt.co/GPT-4)
@@ -20,7 +20,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 260
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 261
 
 
 ## [2. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -44,7 +44,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 133
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 134
 
 
 ## [4. English Translator and Improver](https://openprompt.co/english-improver)
@@ -53,7 +53,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 129
+[📝: timqian](https://openprompt.co/timqian) 🌟: 130
 
 
 ## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)
@@ -90,7 +90,7 @@ Refactor my code, to make it more efficient
 > Refactor my code, to make it more efficient and simple
 Reply with code and explanations and further suggestions.
 
-[📝: tim](https://openprompt.co/tim) 🌟: 73
+[📝: tim](https://openprompt.co/tim) 🌟: 74
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -162,7 +162,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 > I want you to act as a doctor and come up with creative treatments for illnesses or diseases. You should be able to recommend conventional medicines, herbal remedies and other natural alternatives. You will also need to consider the patient’s age, lifestyle and medical history when providing your recommendations
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 43
+[📝: timqian](https://openprompt.co/timqian) 🌟: 44
 
 
 ## [17. 文本降重](https://openprompt.co/jiangchong)

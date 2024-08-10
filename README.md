@@ -71,7 +71,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 92
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 93
 
 
 ## [7. 评审代码](https://openprompt.co/codereview)

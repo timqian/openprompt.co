@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 238
+[📝: tim](https://openprompt.co/tim) 🌟: 239
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -117,7 +117,7 @@ Reply with code and explanations and further suggestions.
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 61
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 62
 
 
 ## [12. 效率工具](https://openprompt.co/verbose-code)

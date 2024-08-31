@@ -13,7 +13,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 261
+    "star_count": 262
   },
   {
     "name": "翻译成中文和润色",
@@ -21,7 +21,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 240
+    "star_count": 241
   },
   {
     "name": "Midjourney",

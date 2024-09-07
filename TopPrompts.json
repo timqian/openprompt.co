@@ -341,7 +341,7 @@
     "prompt": "I want you to act as a Creative Ideas Generator.When I tell you some keywords,you should according to them to generate some bright ideas,and you must know that the ideas is the brighter the better.",
     "handle": "CreativeIdeaGenerator",
     "created_by": "libingjy-vMNiv",
-    "star_count": 20
+    "star_count": 21
   },
   {
     "name": "英语提问老师",

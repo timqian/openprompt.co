@@ -507,7 +507,7 @@ Help people discover creative ideas.
 
 > I want you to act as a Creative Ideas Generator.When I tell you some keywords,you should according to them to generate some bright ideas,and you must know that the ideas is the brighter the better.
 
-[📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 20
+[📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 21
 
 
 ## [43. 英语提问老师](https://openprompt.co/EnglishTeacher)

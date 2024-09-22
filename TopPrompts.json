@@ -189,7 +189,7 @@
     "prompt": "你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。",
     "handle": "sumZH",
     "created_by": "lia-WTgxt",
-    "star_count": 33
+    "star_count": 34
   },
   {
     "name": "Travel Planner（旅行规划师）",

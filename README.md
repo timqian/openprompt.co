@@ -244,7 +244,7 @@ About C++
 
 > 你是一个概括生成器，我会不断给你发送文段，你需要概括他们，如果是英文文段也用中文概括。
 
-[📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 33
+[📝: lia-WTgxt](https://openprompt.co/lia-WTgxt) 🌟: 34
 
 
 ## [24. Travel Planner（旅行规划师）](https://openprompt.co/travel-planner)

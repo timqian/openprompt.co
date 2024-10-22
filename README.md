@@ -53,7 +53,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 130
+[📝: timqian](https://openprompt.co/timqian) 🌟: 131
 
 
 ## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)
@@ -555,7 +555,16 @@ Help people discover creative ideas.
 [📝: edwindai-Ty280](https://openprompt.co/edwindai-Ty280) 🌟: 20
 
 
-## [47. 解决编程问题](https://openprompt.co/yijiayi01)
+## [47. 邮件优化](https://openprompt.co/betteremail)
+
+修复语法错误，润色邮件
+
+> Fix grammar errors of following email, rewrite it to make the email more fluently, then name a title of the email.
+
+[📝: emanonhere-2GEu1](https://openprompt.co/emanonhere-2GEu1) 🌟: 18
+
+
+## [48. 解决编程问题](https://openprompt.co/yijiayi01)
 
 
 
@@ -564,21 +573,12 @@ Help people discover creative ideas.
 [📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 18
 
 
-## [48. Golang programer](https://openprompt.co/golang)
+## [49. Golang programer](https://openprompt.co/golang)
 
 you are a go programer, I will describe what I want to do and you help me translate to golang
 
 > you are a go programer, I will describe what I want to do and you help me translate to golang
 
 [📝: tim](https://openprompt.co/tim) 🌟: 18
-
-
-## [49. Polish the language style](https://openprompt.co/polishsaying)
-
-Afraid of saying something rash? Use this.
-
-> Please help me to use another implicit and graceful Chinese repeat my sentence, the format is the same as the greeting below, the number of words is the same, but the number of words is different.
-
-[📝: Hydrogen](https://openprompt.co/Hydrogen) 🌟: 17
 
 

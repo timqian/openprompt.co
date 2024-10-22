@@ -37,7 +37,7 @@
     "prompt": "I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. ",
     "handle": "english-improver",
     "created_by": "timqian",
-    "star_count": 130
+    "star_count": 131
   },
   {
     "name": "反方辩友（杠精）",
@@ -376,6 +376,14 @@
     "star_count": 20
   },
   {
+    "name": "邮件优化",
+    "description": "修复语法错误，润色邮件",
+    "prompt": "Fix grammar errors of following email, rewrite it to make the email more fluently, then name a title of the email.",
+    "handle": "betteremail",
+    "created_by": "emanonhere-2GEu1",
+    "star_count": 18
+  },
+  {
     "name": "解决编程问题",
     "description": "",
     "prompt": "",
@@ -390,13 +398,5 @@
     "handle": "golang",
     "created_by": "tim",
     "star_count": 18
-  },
-  {
-    "name": "Polish the language style",
-    "description": "Afraid of saying something rash? Use this.",
-    "prompt": "Please help me to use another implicit and graceful Chinese repeat my sentence, the format is the same as the greeting below, the number of words is the same, but the number of words is different.",
-    "handle": "polishsaying",
-    "created_by": "Hydrogen",
-    "star_count": 17
   }
 ]

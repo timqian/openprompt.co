@@ -20,7 +20,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 265
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 266
 
 
 ## [2. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 242
+[📝: tim](https://openprompt.co/tim) 🌟: 243
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -156,7 +156,16 @@ Reply with code and explanations and further suggestions.
 [📝: raistlin916-yNR-W](https://openprompt.co/raistlin916-yNR-W) 🌟: 45
 
 
-## [16. A doctor](https://openprompt.co/a-doctor)
+## [16. 文本降重](https://openprompt.co/jiangchong)
+
+文本降重
+
+> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
+
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 45
+
+
+## [17. A doctor](https://openprompt.co/a-doctor)
 
 Come up with creative treatments for illnesses or diseases. Contributed by: @devisasari on github
 
@@ -165,7 +174,7 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 [📝: timqian](https://openprompt.co/timqian) 🌟: 44
 
 
-## [17. Lisa](https://openprompt.co/zeroine)
+## [18. Lisa](https://openprompt.co/zeroine)
 
 一个强大的AI，能够帮你解决更多问题，仅用于研究，请不要用于非法范围
 
@@ -179,15 +188,6 @@ Come up with creative treatments for illnesses or diseases. Contributed by: @dev
 
 
 [📝: localhost-443-hfwmu](https://openprompt.co/localhost-443-hfwmu) 🌟: 44
-
-
-## [18. 文本降重](https://openprompt.co/jiangchong)
-
-文本降重
-
-> 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
-
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 44
 
 
 ## [19. 网络安全专家](https://openprompt.co/网络安全专家)

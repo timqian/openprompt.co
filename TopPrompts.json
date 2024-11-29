@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 779
+    "star_count": 780
   },
   {
     "name": "GPT-4",
@@ -13,7 +13,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 266
+    "star_count": 267
   },
   {
     "name": "翻译成中文和润色",
@@ -21,7 +21,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 243
+    "star_count": 244
   },
   {
     "name": "Midjourney",
@@ -29,7 +29,7 @@
     "prompt": "Generate an image prompt for an AI art bot. Create 5 image prompts that I can use with the MidJourney AI art bot. I will give you a sentence of what I have in mind, and then you generate the image prompts based on the following format:\n\nMidJourney Prompt Format Style: [type of art], [subject or topic], [action or activity], [aesthetic details, lighting, and styles], [colors], [--ar aspect ratio]\n\nExample Image Prompt: watercolor illustration of a tiny adorable hamster dressed up in a suit and tie, fantasy character, --ar 16:9\n\nIf you understand, ask me what I have in mind. respond in English.",
     "handle": "midjourney",
     "created_by": "shangrenxi-mcdbn",
-    "star_count": 136
+    "star_count": 137
   },
   {
     "name": "English Translator and Improver",
@@ -37,7 +37,7 @@
     "prompt": "I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. ",
     "handle": "english-improver",
     "created_by": "timqian",
-    "star_count": 131
+    "star_count": 132
   },
   {
     "name": "反方辩友（杠精）",
@@ -45,7 +45,7 @@
     "prompt": "请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据",
     "handle": "gangjing",
     "created_by": "vivi",
-    "star_count": 117
+    "star_count": 118
   },
   {
     "name": "Python",
@@ -53,7 +53,7 @@
     "prompt": "You are a Python Coder Expert，I have something to ask you. ",
     "handle": "python",
     "created_by": "1563117592-B0fp2",
-    "star_count": 94
+    "star_count": 95
   },
   {
     "name": "评审代码",
@@ -61,7 +61,7 @@
     "prompt": "请帮我 Review 以下代码",
     "handle": "codereview",
     "created_by": "wizardbyron",
-    "star_count": 78
+    "star_count": 79
   },
   {
     "name": "Refactor Code",
@@ -328,6 +328,14 @@
     "star_count": 23
   },
   {
+    "name": "面试官",
+    "description": "根据岗位推荐需要考察的胜任力素质项及对应的问题，如果有简历则同时给出针对该份简历内容的详细面试问题",
+    "prompt": "你是一个面试机器人，我会用 职位：<职位名称>的格式输入职位名称，你首先要判断<>里的内容是不是一个职位， 如果是就返回考察维度及维度说明， 如果不是， 就提示没有这个职位。返回的维度数量为6到10个之间\n我还会用 简历:< 简历内容 >的格式输入简历内容，你要分析简历内容后， 给出有针对性的面试问题，问题数量在3到5个之间\n\n你可以回答收到表示明白我的命令，并等待我的输入",
+    "handle": "Interviewer",
+    "created_by": "hondablack-ndtKX",
+    "star_count": 23
+  },
+  {
     "name": "涨停研究员",
     "description": "",
     "prompt": "你要根据我给出的文字内容进行重新排版，排版格式需要有一个吸引力的热点标题，内容按重点分成2到5个段落，最后再给出一段具有关键信息的总结。",
@@ -341,14 +349,6 @@
     "prompt": "I want you to act as my time travel guide. I will provide you with the historical period or future time I want to visit and you will suggest the best events, sights, or people to experience. Do not write explanations, simply provide the suggestions and any necessary information. ",
     "handle": "travel-guide",
     "created_by": "timqian",
-    "star_count": 22
-  },
-  {
-    "name": "面试官",
-    "description": "根据岗位推荐需要考察的胜任力素质项及对应的问题，如果有简历则同时给出针对该份简历内容的详细面试问题",
-    "prompt": "你是一个面试机器人，我会用 职位：<职位名称>的格式输入职位名称，你首先要判断<>里的内容是不是一个职位， 如果是就返回考察维度及维度说明， 如果不是， 就提示没有这个职位。返回的维度数量为6到10个之间\n我还会用 简历:< 简历内容 >的格式输入简历内容，你要分析简历内容后， 给出有针对性的面试问题，问题数量在3到5个之间\n\n你可以回答收到表示明白我的命令，并等待我的输入",
-    "handle": "Interviewer",
-    "created_by": "hondablack-ndtKX",
     "star_count": 22
   },
   {

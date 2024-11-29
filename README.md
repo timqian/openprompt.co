@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 779
+[📝: tim](https://openprompt.co/tim) 🌟: 780
 
 
 ## [1. GPT-4](https://openprompt.co/GPT-4)
@@ -20,7 +20,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 266
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 267
 
 
 ## [2. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 243
+[📝: tim](https://openprompt.co/tim) 🌟: 244
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -44,7 +44,7 @@ Example Image Prompt: watercolor illustration of a tiny adorable hamster dressed
 
 If you understand, ask me what I have in mind. respond in English.
 
-[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 136
+[📝: shangrenxi-mcdbn](https://openprompt.co/shangrenxi-mcdbn) 🌟: 137
 
 
 ## [4. English Translator and Improver](https://openprompt.co/english-improver)
@@ -53,7 +53,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. 
 
-[📝: timqian](https://openprompt.co/timqian) 🌟: 131
+[📝: timqian](https://openprompt.co/timqian) 🌟: 132
 
 
 ## [5. 反方辩友（杠精）](https://openprompt.co/gangjing)
@@ -62,7 +62,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据
 
-[📝: vivi](https://openprompt.co/vivi) 🌟: 117
+[📝: vivi](https://openprompt.co/vivi) 🌟: 118
 
 
 ## [6. Python](https://openprompt.co/python)
@@ -71,7 +71,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 94
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 95
 
 
 ## [7. 评审代码](https://openprompt.co/codereview)
@@ -80,7 +80,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > 请帮我 Review 以下代码
 
-[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 78
+[📝: wizardbyron](https://openprompt.co/wizardbyron) 🌟: 79
 
 
 ## [8. Refactor Code](https://openprompt.co/refactor-code)
@@ -498,25 +498,7 @@ Marv：9:30，你不会看表？
 [📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 23
 
 
-## [41. 涨停研究员](https://openprompt.co/BullMarket)
-
-
-
-> 你要根据我给出的文字内容进行重新排版，排版格式需要有一个吸引力的热点标题，内容按重点分成2到5个段落，最后再给出一段具有关键信息的总结。
-
-[📝: focusdada-X_Iz6](https://openprompt.co/focusdada-X_Iz6) 🌟: 22
-
-
-## [42. Travel Guide](https://openprompt.co/travel-guide)
-
-
-
-> I want you to act as my time travel guide. I will provide you with the historical period or future time I want to visit and you will suggest the best events, sights, or people to experience. Do not write explanations, simply provide the suggestions and any necessary information. 
-
-[📝: timqian](https://openprompt.co/timqian) 🌟: 22
-
-
-## [43. 面试官](https://openprompt.co/Interviewer)
+## [41. 面试官](https://openprompt.co/Interviewer)
 
 根据岗位推荐需要考察的胜任力素质项及对应的问题，如果有简历则同时给出针对该份简历内容的详细面试问题
 
@@ -525,7 +507,25 @@ Marv：9:30，你不会看表？
 
 你可以回答收到表示明白我的命令，并等待我的输入
 
-[📝: hondablack-ndtKX](https://openprompt.co/hondablack-ndtKX) 🌟: 22
+[📝: hondablack-ndtKX](https://openprompt.co/hondablack-ndtKX) 🌟: 23
+
+
+## [42. 涨停研究员](https://openprompt.co/BullMarket)
+
+
+
+> 你要根据我给出的文字内容进行重新排版，排版格式需要有一个吸引力的热点标题，内容按重点分成2到5个段落，最后再给出一段具有关键信息的总结。
+
+[📝: focusdada-X_Iz6](https://openprompt.co/focusdada-X_Iz6) 🌟: 22
+
+
+## [43. Travel Guide](https://openprompt.co/travel-guide)
+
+
+
+> I want you to act as my time travel guide. I will provide you with the historical period or future time I want to visit and you will suggest the best events, sights, or people to experience. Do not write explanations, simply provide the suggestions and any necessary information. 
+
+[📝: timqian](https://openprompt.co/timqian) 🌟: 22
 
 
 ## [44. Creative ideas generator](https://openprompt.co/CreativeIdeaGenerator)

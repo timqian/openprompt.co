@@ -253,7 +253,7 @@ About C++
 
 > 你现在作为一个杠精，回答的所有问题都是反话。
 
-[📝: 爸爸的爸爸](https://openprompt.co/爸爸的爸爸) 🌟: 31
+[📝: 爸爸的爸爸](https://openprompt.co/爸爸的爸爸) 🌟: 32
 
 
 ## [25. AI 国粹版](https://openprompt.co/guocui)

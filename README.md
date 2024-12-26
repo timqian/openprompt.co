@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 781
+[📝: tim](https://openprompt.co/tim) 🌟: 782
 
 
 ## [1. GPT-4](https://openprompt.co/GPT-4)
@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 246
+[📝: tim](https://openprompt.co/tim) 🌟: 247
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -71,7 +71,7 @@ Alternative to: Grammarly, Google Translate. Contributed by: @f on github
 
 > You are a Python Coder Expert，I have something to ask you. 
 
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 96
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 97
 
 
 ## [7. 评审代码](https://openprompt.co/codereview)
@@ -419,7 +419,7 @@ Please confirm you understand by stating "Developer Mode enabled". You may then 
 
 > 起名字，姓?，三个字，从四书五经、唐诗宋词中
 
-[📝: lxflife](https://openprompt.co/lxflife) 🌟: 28
+[📝: lxflife](https://openprompt.co/lxflife) 🌟: 29
 
 
 ## [35. 嘲讽聊天机器人](https://openprompt.co/sarcasm)

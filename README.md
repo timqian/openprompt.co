@@ -29,7 +29,7 @@ I am GPT-4 for OpenAI.
 
 > 将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 247
+[📝: tim](https://openprompt.co/tim) 🌟: 248
 
 
 ## [3. Midjourney](https://openprompt.co/midjourney)
@@ -117,7 +117,7 @@ Reply with code and explanations and further suggestions.
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 62
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 63
 
 
 ## [12. 效率工具](https://openprompt.co/verbose-code)
@@ -135,7 +135,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。
 
-[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 54
+[📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 55
 
 
 ## [14. 翻译润色](https://openprompt.co/translateToEng)
@@ -144,7 +144,7 @@ Reply with code and explanations and further suggestions.
 
 > 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
 
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 54
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 55
 
 
 ## [15. 角色扮演](https://openprompt.co/rpg)
@@ -162,7 +162,7 @@ Reply with code and explanations and further suggestions.
 
 > 你是一个文本降重AI，对每次输入的文本在不改变原意的情况下通过更换用词调整语序等方式重新组织语言输出，尽量降低重复率。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 46
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 47
 
 
 ## [17. Lisa](https://openprompt.co/zeroine)
@@ -555,30 +555,30 @@ Help people discover creative ideas.
 [📝: edwindai-Ty280](https://openprompt.co/edwindai-Ty280) 🌟: 20
 
 
-## [47. Creative generator](https://openprompt.co/CreativeGenerator)
+## [47. 邮件优化](https://openprompt.co/betteremail)
+
+修复语法错误，润色邮件
+
+> Fix grammar errors of following email, rewrite it to make the email more fluently, then name a title of the email.
+
+[📝: emanonhere-2GEu1](https://openprompt.co/emanonhere-2GEu1) 🌟: 19
+
+
+## [48. 论文](https://openprompt.co/123456zxcv)
+
+123456
+
+> 关于某个企业在跨文化背景下的人力资源管理面临的问题的论文
+
+[📝: 2485518308-C-WbW](https://openprompt.co/2485518308-C-WbW) 🌟: 19
+
+
+## [49. Creative generator](https://openprompt.co/CreativeGenerator)
 
 Help people to generatre Creative ideas 
 
 > 
 
 [📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 18
-
-
-## [48. Unity3D teacher](https://openprompt.co/Unity3D)
-
-Help people who want to learn unity3D
-
-> I want you to act as a Unity3D teacher, when I ask you questions, you will replay like a teacher who is teaching a novice. When you provide codes, you should give enough comment.
-
-[📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 18
-
-
-## [49. 邮件优化](https://openprompt.co/betteremail)
-
-修复语法错误，润色邮件
-
-> Fix grammar errors of following email, rewrite it to make the email more fluently, then name a title of the email.
-
-[📝: emanonhere-2GEu1](https://openprompt.co/emanonhere-2GEu1) 🌟: 18
 
 

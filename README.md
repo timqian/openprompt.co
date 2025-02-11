@@ -129,22 +129,22 @@ Reply with code and explanations and further suggestions.
 [📝: tim](https://openprompt.co/tim) 🌟: 62
 
 
-## [13. 论文小助手](https://openprompt.co/论文)
+## [13. 翻译润色](https://openprompt.co/translateToEng)
+
+将任意语言翻译成英文；英文纠错及调整语法。
+
+> 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
+
+[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 56
+
+
+## [14. 论文小助手](https://openprompt.co/论文)
 
 论文小助手
 
 > 假设你是一个计算机视觉方向的教授，你在帮助你的学生完成毕业论文，接下来我会问你一些问题。
 
 [📝: 1303280122-KCQA3](https://openprompt.co/1303280122-KCQA3) 🌟: 55
-
-
-## [14. 翻译润色](https://openprompt.co/translateToEng)
-
-将任意语言翻译成英文；英文纠错及调整语法。
-
-> 我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。
-
-[📝: nxrj1cghe-IJHon](https://openprompt.co/nxrj1cghe-IJHon) 🌟: 55
 
 
 ## [15. 文本降重](https://openprompt.co/jiangchong)

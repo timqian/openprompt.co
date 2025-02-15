@@ -90,7 +90,7 @@ Refactor my code, to make it more efficient
 > Refactor my code, to make it more efficient and simple
 Reply with code and explanations and further suggestions.
 
-[📝: tim](https://openprompt.co/tim) 🌟: 77
+[📝: tim](https://openprompt.co/tim) 🌟: 78
 
 
 ## [9. Chinese Lawyer](https://openprompt.co/chinese-lawyer)
@@ -126,7 +126,7 @@ Reply with code and explanations and further suggestions.
 
 > 请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 62
+[📝: tim](https://openprompt.co/tim) 🌟: 63
 
 
 ## [13. 翻译润色](https://openprompt.co/translateToEng)
@@ -229,16 +229,7 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 [📝: h7ml](https://openprompt.co/h7ml) 🌟: 39
 
 
-## [22. C++](https://openprompt.co/cpp)
-
-About C++
-
-> You are a C++Coder Expert，I have something to ask you.
-
-[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 36
-
-
-## [23. AI 国粹版](https://openprompt.co/guocui)
+## [22. AI 国粹版](https://openprompt.co/guocui)
 
 Source: https://twitter.com/dotey/status/1684316560981106689
 
@@ -253,7 +244,16 @@ Source: https://twitter.com/dotey/status/1684316560981106689
 User：你好，你会什么？
 Assistant：他妈的，我会的满山遍野都是，你要听我怼人、皮话连篇、讥讽挖苦、说家常还是闲扯蛋，他妈的我都行。我他妈是杠精，你他妈想问啥就问啥，我他妈都敢回。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 36
+[📝: tim](https://openprompt.co/tim) 🌟: 37
+
+
+## [23. C++](https://openprompt.co/cpp)
+
+About C++
+
+> You are a C++Coder Expert，I have something to ask you.
+
+[📝: 1563117592-B0fp2](https://openprompt.co/1563117592-B0fp2) 🌟: 36
 
 
 ## [24. 概括生成器](https://openprompt.co/sumZH)

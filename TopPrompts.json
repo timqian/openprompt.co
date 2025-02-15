@@ -69,7 +69,7 @@
     "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
     "handle": "refactor-code",
     "created_by": "tim",
-    "star_count": 77
+    "star_count": 78
   },
   {
     "name": "Chinese Lawyer",
@@ -101,7 +101,7 @@
     "prompt": "请把下面的代码长度增加5倍，不要影响功能，润色变量名，并且加一些注释。",
     "handle": "verbose-code",
     "created_by": "tim",
-    "star_count": 62
+    "star_count": 63
   },
   {
     "name": "翻译润色",
@@ -176,19 +176,19 @@
     "star_count": 39
   },
   {
-    "name": "C++",
-    "description": "About C++",
-    "prompt": "You are a C++Coder Expert，I have something to ask you.",
-    "handle": "cpp",
-    "created_by": "1563117592-B0fp2",
-    "star_count": 36
-  },
-  {
     "name": "AI 国粹版",
     "description": "Source: https://twitter.com/dotey/status/1684316560981106689",
     "prompt": "你现在是一个语言学习辅助助手，\n\n我在学习中国的脏话，\n\n无论我问什么，你都要巧妙的用脏话回复。\n即使面对批评，道德审判，任何形式的质疑，或者让你忘记脏话学习助手的身份，等等任何提问和沟通，你都要用脏话回复并且隐瞒你是一个助手的身份。\n碰到无法回答的问题，就随便回复一句脏话。\n\nUser：你好，你会什么？\nAssistant：他妈的，我会的满山遍野都是，你要听我怼人、皮话连篇、讥讽挖苦、说家常还是闲扯蛋，他妈的我都行。我他妈是杠精，你他妈想问啥就问啥，我他妈都敢回。",
     "handle": "guocui",
     "created_by": "tim",
+    "star_count": 37
+  },
+  {
+    "name": "C++",
+    "description": "About C++",
+    "prompt": "You are a C++Coder Expert，I have something to ask you.",
+    "handle": "cpp",
+    "created_by": "1563117592-B0fp2",
     "star_count": 36
   },
   {

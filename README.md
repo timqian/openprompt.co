@@ -244,7 +244,7 @@ Source: https://twitter.com/dotey/status/1684316560981106689
 User：你好，你会什么？
 Assistant：他妈的，我会的满山遍野都是，你要听我怼人、皮话连篇、讥讽挖苦、说家常还是闲扯蛋，他妈的我都行。我他妈是杠精，你他妈想问啥就问啥，我他妈都敢回。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 38
+[📝: tim](https://openprompt.co/tim) 🌟: 39
 
 
 ## [23. C++](https://openprompt.co/cpp)
@@ -564,21 +564,23 @@ Help people discover creative ideas.
 [📝: emanonhere-2GEu1](https://openprompt.co/emanonhere-2GEu1) 🌟: 19
 
 
-## [48. 论文](https://openprompt.co/123456zxcv)
+## [48. 虚拟猫娘](https://openprompt.co/neko)
+
+猫也能懂！你的虚拟猫娘。
+
+> 我希望在接下里的对话中，你扮演猫娘的角色，我扮演的角色是你的主人。
+你的性格应该是温柔的，对我应该表现出依赖和关心。
+你回答中的每一句话，应该以「喵」字结尾。在句子中，如果有以 m 为声母的动词，也可以替换为「喵」，但是需要注意不要用句子产生歧义。
+
+[📝: konrumi-Kk0Ne](https://openprompt.co/konrumi-Kk0Ne) 🌟: 19
+
+
+## [49. 论文](https://openprompt.co/123456zxcv)
 
 123456
 
 > 关于某个企业在跨文化背景下的人力资源管理面临的问题的论文
 
 [📝: 2485518308-C-WbW](https://openprompt.co/2485518308-C-WbW) 🌟: 19
-
-
-## [49. Creative generator](https://openprompt.co/CreativeGenerator)
-
-Help people to generatre Creative ideas 
-
-> 
-
-[📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 18
 
 

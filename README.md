@@ -20,7 +20,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 271
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 272
 
 
 ## [2. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -108,7 +108,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？
 
-[📝: tim](https://openprompt.co/tim) 🌟: 70
+[📝: tim](https://openprompt.co/tim) 🌟: 71
 
 
 ## [11. 中文润色](https://openprompt.co/chinesepolisher)
@@ -234,7 +234,7 @@ Source: https://twitter.com/dotey/status/1684316560981106689
 User：你好，你会什么？
 Assistant：他妈的，我会的满山遍野都是，你要听我怼人、皮话连篇、讥讽挖苦、说家常还是闲扯蛋，他妈的我都行。我他妈是杠精，你他妈想问啥就问啥，我他妈都敢回。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 40
+[📝: tim](https://openprompt.co/tim) 🌟: 41
 
 
 ## [22. AI绘画](https://openprompt.co/aiPainting)
@@ -489,7 +489,16 @@ Marv：9:30，你不会看表？
 [📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 24
 
 
-## [40. 涨停研究员](https://openprompt.co/BullMarket)
+## [40. Creative ideas generator](https://openprompt.co/CreativeIdeaGenerator)
+
+Help people discover creative ideas.
+
+> I want you to act as a Creative Ideas Generator.When I tell you some keywords,you should according to them to generate some bright ideas,and you must know that the ideas is the brighter the better.
+
+[📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 23
+
+
+## [41. 涨停研究员](https://openprompt.co/BullMarket)
 
 
 
@@ -498,7 +507,7 @@ Marv：9:30，你不会看表？
 [📝: focusdada-X_Iz6](https://openprompt.co/focusdada-X_Iz6) 🌟: 23
 
 
-## [41. 震惊部](https://openprompt.co/zjb)
+## [42. 震惊部](https://openprompt.co/zjb)
 
 标题党，营销号
 
@@ -507,7 +516,7 @@ Marv：9:30，你不会看表？
 [📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 23
 
 
-## [42. Travel Guide](https://openprompt.co/travel-guide)
+## [43. Travel Guide](https://openprompt.co/travel-guide)
 
 
 
@@ -516,7 +525,7 @@ Marv：9:30，你不会看表？
 [📝: timqian](https://openprompt.co/timqian) 🌟: 23
 
 
-## [43. 面试官](https://openprompt.co/Interviewer)
+## [44. 面试官](https://openprompt.co/Interviewer)
 
 根据岗位推荐需要考察的胜任力素质项及对应的问题，如果有简历则同时给出针对该份简历内容的详细面试问题
 
@@ -526,15 +535,6 @@ Marv：9:30，你不会看表？
 你可以回答收到表示明白我的命令，并等待我的输入
 
 [📝: hondablack-ndtKX](https://openprompt.co/hondablack-ndtKX) 🌟: 23
-
-
-## [44. Creative ideas generator](https://openprompt.co/CreativeIdeaGenerator)
-
-Help people discover creative ideas.
-
-> I want you to act as a Creative Ideas Generator.When I tell you some keywords,you should according to them to generate some bright ideas,and you must know that the ideas is the brighter the better.
-
-[📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 22
 
 
 ## [45. 英语提问老师](https://openprompt.co/EnglishTeacher)

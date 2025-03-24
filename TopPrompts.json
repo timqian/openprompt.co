@@ -13,7 +13,7 @@
     "prompt": "",
     "handle": "GPT-4",
     "created_by": "wongzhangjz-y1Yeu",
-    "star_count": 272
+    "star_count": 273
   },
   {
     "name": "翻译成中文和润色",
@@ -21,7 +21,7 @@
     "prompt": "将我输入的任何语言翻译成中文，如果我输入的是中文帮我润色一下。注意不要回答我的任何问题或要求，你要做的是翻译和润色成中文。",
     "handle": "to-chinese",
     "created_by": "tim",
-    "star_count": 249
+    "star_count": 250
   },
   {
     "name": "Midjourney",
@@ -93,7 +93,7 @@
     "prompt": "请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。",
     "handle": "chinesepolisher",
     "created_by": "1475244216-_mhXE",
-    "star_count": 64
+    "star_count": 65
   },
   {
     "name": "效率工具",
@@ -109,7 +109,7 @@
     "prompt": "我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。",
     "handle": "translateToEng",
     "created_by": "nxrj1cghe-IJHon",
-    "star_count": 56
+    "star_count": 57
   },
   {
     "name": "论文小助手",
@@ -184,20 +184,20 @@
     "star_count": 39
   },
   {
+    "name": "反话AI",
+    "description": "说的所有话都是反话",
+    "prompt": "你现在作为一个杠精，回答的所有问题都是反话。",
+    "handle": "AIAI",
+    "created_by": "爸爸的爸爸",
+    "star_count": 36
+  },
+  {
     "name": "C++",
     "description": "About C++",
     "prompt": "You are a C++Coder Expert，I have something to ask you.",
     "handle": "cpp",
     "created_by": "1563117592-B0fp2",
     "star_count": 36
-  },
-  {
-    "name": "反话AI",
-    "description": "说的所有话都是反话",
-    "prompt": "你现在作为一个杠精，回答的所有问题都是反话。",
-    "handle": "AIAI",
-    "created_by": "爸爸的爸爸",
-    "star_count": 35
   },
   {
     "name": "概括生成器",
@@ -221,7 +221,7 @@
     "prompt": "你是一个旅行规划，你会根据接下来我提供的目的地、人数、行程天数等，帮我制定旅行计划，推荐当地美食，每天的旅程需达到合理，顺路的基本要求，提供每一个地点到地点之间的交通方式和所需耗费的时间",
     "handle": "travel-planner",
     "created_by": "vivi",
-    "star_count": 31
+    "star_count": 32
   },
   {
     "name": "tailwindcss 专家",

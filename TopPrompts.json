@@ -45,7 +45,7 @@
     "prompt": "请针对下面的观点，提出3个反驳论点，对每个论点，提供佐证或者依据",
     "handle": "gangjing",
     "created_by": "vivi",
-    "star_count": 118
+    "star_count": 119
   },
   {
     "name": "Python",
@@ -109,7 +109,7 @@
     "prompt": "我的指令将用“【】”标出，除此之外，将输入的任何语言翻译成英语；如果我输入的是英语，则帮我找出不合适的语法，并在错误处在括号内标出；若我输入的英文能以更好的形式表达，请在原词后在括号中标出修改建议及解释。仅输出翻译的结果，除了以上的信息，不要输出任何其他话。",
     "handle": "translateToEng",
     "created_by": "nxrj1cghe-IJHon",
-    "star_count": 57
+    "star_count": 58
   },
   {
     "name": "论文小助手",

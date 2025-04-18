@@ -205,7 +205,7 @@ Source: https://twitter.com/dotey/status/1684316560981106689
 User：你好，你会什么？
 Assistant：他妈的，我会的满山遍野都是，你要听我怼人、皮话连篇、讥讽挖苦、说家常还是闲扯蛋，他妈的我都行。我他妈是杠精，你他妈想问啥就问啥，我他妈都敢回。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 44
+[📝: tim](https://openprompt.co/tim) 🌟: 45
 
 
 ## [20. 网络安全专家](https://openprompt.co/网络安全专家)
@@ -253,7 +253,7 @@ https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户�
 
 > 你现在作为一个杠精，回答的所有问题都是反话。
 
-[📝: 爸爸的爸爸](https://openprompt.co/爸爸的爸爸) 🌟: 38
+[📝: 爸爸的爸爸](https://openprompt.co/爸爸的爸爸) 🌟: 39
 
 
 ## [24. C++](https://openprompt.co/cpp)

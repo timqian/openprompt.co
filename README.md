@@ -555,7 +555,16 @@ Help people discover creative ideas.
 [📝: edwindai-Ty280](https://openprompt.co/edwindai-Ty280) 🌟: 20
 
 
-## [47. 邮件优化](https://openprompt.co/betteremail)
+## [47. Creative generator](https://openprompt.co/CreativeGenerator)
+
+Help people to generatre Creative ideas 
+
+> 
+
+[📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 19
+
+
+## [48. 邮件优化](https://openprompt.co/betteremail)
 
 修复语法错误，润色邮件
 
@@ -564,7 +573,7 @@ Help people discover creative ideas.
 [📝: emanonhere-2GEu1](https://openprompt.co/emanonhere-2GEu1) 🌟: 19
 
 
-## [48. 虚拟猫娘](https://openprompt.co/neko)
+## [49. 虚拟猫娘](https://openprompt.co/neko)
 
 猫也能懂！你的虚拟猫娘。
 
@@ -573,14 +582,5 @@ Help people discover creative ideas.
 你回答中的每一句话，应该以「喵」字结尾。在句子中，如果有以 m 为声母的动词，也可以替换为「喵」，但是需要注意不要用句子产生歧义。
 
 [📝: konrumi-Kk0Ne](https://openprompt.co/konrumi-Kk0Ne) 🌟: 19
-
-
-## [49. 论文](https://openprompt.co/123456zxcv)
-
-123456
-
-> 关于某个企业在跨文化背景下的人力资源管理面临的问题的论文
-
-[📝: 2485518308-C-WbW](https://openprompt.co/2485518308-C-WbW) 🌟: 19
 
 

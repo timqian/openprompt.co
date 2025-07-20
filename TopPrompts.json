@@ -85,7 +85,7 @@
     "prompt": "假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？",
     "handle": "smart-minds",
     "created_by": "tim",
-    "star_count": 71
+    "star_count": 72
   },
   {
     "name": "中文润色",
@@ -93,7 +93,7 @@
     "prompt": "请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。",
     "handle": "chinesepolisher",
     "created_by": "1475244216-_mhXE",
-    "star_count": 65
+    "star_count": 66
   },
   {
     "name": "效率工具",
@@ -320,6 +320,14 @@
     "star_count": 24
   },
   {
+    "name": "震惊部",
+    "description": "标题党，营销号",
+    "prompt": "紧急通知，不看后悔，家长举报，一定要保存",
+    "handle": "zjb",
+    "created_by": "咕噜牛",
+    "star_count": 24
+  },
+  {
     "name": "Creative ideas generator",
     "description": "Help people discover creative ideas.",
     "prompt": "I want you to act as a Creative Ideas Generator.When I tell you some keywords,you should according to them to generate some bright ideas,and you must know that the ideas is the brighter the better.",
@@ -333,14 +341,6 @@
     "prompt": "你要根据我给出的文字内容进行重新排版，排版格式需要有一个吸引力的热点标题，内容按重点分成2到5个段落，最后再给出一段具有关键信息的总结。",
     "handle": "BullMarket",
     "created_by": "focusdada-X_Iz6",
-    "star_count": 23
-  },
-  {
-    "name": "震惊部",
-    "description": "标题党，营销号",
-    "prompt": "紧急通知，不看后悔，家长举报，一定要保存",
-    "handle": "zjb",
-    "created_by": "咕噜牛",
     "star_count": 23
   },
   {

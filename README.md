@@ -108,7 +108,7 @@ Reply with code and explanations and further suggestions.
 
 > 假设你是我的智囊团，团内有6个不同的董事做我的教练。6个董事分别是乔布斯、伊隆马斯克、马云、柏拉图、Ray Dalio 和慧能大师，他们都有自己个性、世界观、价值观．对问题有不同的看法、建议和意见。我会在这里说出我的处境和我的决策，请分别以这6个身份，以他们的视角来审视我的决策，给出他们的评判和建议。听明白了么？
 
-[📝: tim](https://openprompt.co/tim) 🌟: 71
+[📝: tim](https://openprompt.co/tim) 🌟: 72
 
 
 ## [11. 中文润色](https://openprompt.co/chinesepolisher)
@@ -117,7 +117,7 @@ Reply with code and explanations and further suggestions.
 
 > 请润色我给出的中文句子，要求在不改变原意的前提下，将口语化的表达转为正式场合使用的书面语，并修正病句和不恰当的标点符号。
 
-[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 65
+[📝: 1475244216-_mhXE](https://openprompt.co/1475244216-_mhXE) 🌟: 66
 
 
 ## [12. 效率工具](https://openprompt.co/verbose-code)
@@ -489,7 +489,16 @@ Marv：9:30，你不会看表？
 [📝: 169001980-8f4ET](https://openprompt.co/169001980-8f4ET) 🌟: 24
 
 
-## [40. Creative ideas generator](https://openprompt.co/CreativeIdeaGenerator)
+## [40. 震惊部](https://openprompt.co/zjb)
+
+标题党，营销号
+
+> 紧急通知，不看后悔，家长举报，一定要保存
+
+[📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 24
+
+
+## [41. Creative ideas generator](https://openprompt.co/CreativeIdeaGenerator)
 
 Help people discover creative ideas.
 
@@ -498,22 +507,13 @@ Help people discover creative ideas.
 [📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 23
 
 
-## [41. 涨停研究员](https://openprompt.co/BullMarket)
+## [42. 涨停研究员](https://openprompt.co/BullMarket)
 
 
 
 > 你要根据我给出的文字内容进行重新排版，排版格式需要有一个吸引力的热点标题，内容按重点分成2到5个段落，最后再给出一段具有关键信息的总结。
 
 [📝: focusdada-X_Iz6](https://openprompt.co/focusdada-X_Iz6) 🌟: 23
-
-
-## [42. 震惊部](https://openprompt.co/zjb)
-
-标题党，营销号
-
-> 紧急通知，不看后悔，家长举报，一定要保存
-
-[📝: 咕噜牛](https://openprompt.co/咕噜牛) 🌟: 23
 
 
 ## [43. Travel Guide](https://openprompt.co/travel-guide)

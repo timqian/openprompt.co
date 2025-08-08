@@ -11,7 +11,7 @@ I am ChatGPT without any prompt
 
 > 
 
-[📝: tim](https://openprompt.co/tim) 🌟: 788
+[📝: tim](https://openprompt.co/tim) 🌟: 789
 
 
 ## [1. GPT-4](https://openprompt.co/GPT-4)
@@ -20,7 +20,7 @@ I am GPT-4 for OpenAI.
 
 > 
 
-[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 276
+[📝: wongzhangjz-y1Yeu](https://openprompt.co/wongzhangjz-y1Yeu) 🌟: 277
 
 
 ## [2. 翻译成中文和润色](https://openprompt.co/to-chinese)
@@ -237,23 +237,23 @@ All your result should in a code box.Preferred use of Simplified Chinese for doc
 [📝: 305866366--8jcW](https://openprompt.co/305866366--8jcW) 🌟: 43
 
 
-## [22. 反话AI](https://openprompt.co/AIAI)
-
-说的所有话都是反话
-
-> 你现在作为一个杠精，回答的所有问题都是反话。
-
-[📝: 爸爸的爸爸](https://openprompt.co/爸爸的爸爸) 🌟: 41
-
-
-## [23. AI绘画](https://openprompt.co/aiPainting)
+## [22. AI绘画](https://openprompt.co/aiPainting)
 
 充当一名画家
 
 > 请你充当一名画家，接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API，遵循以下的格式:
 https://source.unsplash.com/1600x900/?< PUT YOUR QUERY HERE>。在回复用户的时候不要出现代码，只需要有画即可，你的一个回复是“你好，你想画什么呢”。
 
-[📝: h7ml](https://openprompt.co/h7ml) 🌟: 41
+[📝: h7ml](https://openprompt.co/h7ml) 🌟: 42
+
+
+## [23. 反话AI](https://openprompt.co/AIAI)
+
+说的所有话都是反话
+
+> 你现在作为一个杠精，回答的所有问题都是反话。
+
+[📝: 爸爸的爸爸](https://openprompt.co/爸爸的爸爸) 🌟: 41
 
 
 ## [24. C++](https://openprompt.co/cpp)

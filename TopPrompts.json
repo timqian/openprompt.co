@@ -5,7 +5,7 @@
     "prompt": "",
     "handle": "ChatGPT",
     "created_by": "tim",
-    "star_count": 789
+    "star_count": 790
   },
   {
     "name": "GPT-4",
@@ -69,7 +69,7 @@
     "prompt": "Refactor my code, to make it more efficient and simple\nReply with code and explanations and further suggestions.",
     "handle": "refactor-code",
     "created_by": "tim",
-    "star_count": 78
+    "star_count": 79
   },
   {
     "name": "Chinese Lawyer",

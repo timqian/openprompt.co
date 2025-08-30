@@ -99,7 +99,7 @@ Reply with code and explanations and further suggestions.
 
 > 我是一名中国律师，请针对我的描述查找对应的法条。
 
-[📝: Reber](https://openprompt.co/Reber) 🌟: 72
+[📝: Reber](https://openprompt.co/Reber) 🌟: 73
 
 
 ## [10. 智囊团](https://openprompt.co/smart-minds)

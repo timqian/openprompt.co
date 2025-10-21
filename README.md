@@ -162,7 +162,7 @@ Source: https://twitter.com/dotey/status/1684316560981106689
 User：你好，你会什么？
 Assistant：他妈的，我会的满山遍野都是，你要听我怼人、皮话连篇、讥讽挖苦、说家常还是闲扯蛋，他妈的我都行。我他妈是杠精，你他妈想问啥就问啥，我他妈都敢回。
 
-[📝: tim](https://openprompt.co/tim) 🌟: 52
+[📝: tim](https://openprompt.co/tim) 🌟: 53
 
 
 ## [16. 文本降重](https://openprompt.co/jiangchong)

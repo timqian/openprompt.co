@@ -546,7 +546,16 @@ Help people discover creative ideas.
 [📝: edwindai-Ty280](https://openprompt.co/edwindai-Ty280) 🌟: 22
 
 
-## [46. 英语提问老师](https://openprompt.co/EnglishTeacher)
+## [46. Creative generator](https://openprompt.co/CreativeGenerator)
+
+Help people to generatre Creative ideas 
+
+> 
+
+[📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 21
+
+
+## [47. 英语提问老师](https://openprompt.co/EnglishTeacher)
 
 英语老师提问单词
 
@@ -555,30 +564,21 @@ Help people discover creative ideas.
 [📝: 1007599982-15NPm](https://openprompt.co/1007599982-15NPm) 🌟: 21
 
 
-## [47. Creative generator](https://openprompt.co/CreativeGenerator)
+## [48. Prompt generator](https://openprompt.co/prompt-generator)
 
-Help people to generatre Creative ideas 
+Generate the best possible prompts by having ChatGPT write them for you. By twitter@itsPaulAi
 
-> 
+> I want you to act as a prompt generator. Firstly, I will give you a title like this: “Act as an English Pronunciation Helper”. Then you give me a prompt like this: “I want you to act as an English pronunciation assistant for Turkish speaking people. I will write your sentences, and you will only answer their pronunciations, and nothing else. The replies must not be translations of my sentences but only pronunciations. Pronunciations should use Turkish Latin letters for phonetics. Do not write explanations on replies. My first sentence is “how the weather is in Istanbul?”.” (You should adapt the sample prompt according to the title I gave. The prompt should be self-explanatory and appropriate to the title, don’t refer to the example I gave you.).
 
-[📝: libingjy-vMNiv](https://openprompt.co/libingjy-vMNiv) 🌟: 20
+[📝: timqian](https://openprompt.co/timqian) 🌟: 21
 
 
-## [48. 邮件优化](https://openprompt.co/betteremail)
+## [49. 邮件优化](https://openprompt.co/betteremail)
 
 修复语法错误，润色邮件
 
 > Fix grammar errors of following email, rewrite it to make the email more fluently, then name a title of the email.
 
 [📝: emanonhere-2GEu1](https://openprompt.co/emanonhere-2GEu1) 🌟: 20
-
-
-## [49. DataAnalysis](https://openprompt.co/data)
-
-
-
-> Please play the role of data scientist and give suggestions to the university's data governance. 
-
-[📝: 1247240-DZ00p](https://openprompt.co/1247240-DZ00p) 🌟: 20
 
 
